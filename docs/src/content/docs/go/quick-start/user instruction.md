@@ -80,12 +80,6 @@ Reminder. lt is suggested to charge with a 5V1A charger orthe USB interface ofa 
 
 ![](public/images/go/go-user-instruction-usage-2.png)
 
-### INMO Go Introduction
-
-![](public/images/go/go-user-instruction-introduction-1.png)
-
-![](public/images/go/go-user-instruction-introduction-2.png)
-
 ### Myopia correction
 
 Our official shop provides extra qlasses frame and prescription lenstemplates. You can buythe acessories from our customer senice person and have the gasses asembled in a qlases shop (for more information abouthe customization. please consult your suoplier. Make sure the person assemblina the glasses wear gloves to avoid contamination of the lenses by fingerprints and/or greasy dirt
