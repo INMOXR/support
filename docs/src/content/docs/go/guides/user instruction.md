@@ -11,9 +11,9 @@ sidebar:
 
 Step1
 
-![](public/icons/google-download.svg)
+[![](public/icons/google-download.svg)](https://play.google.com/store/apps/details?id=com.inmo.inmoglasses)
 
-![](public/icons/apple-download.svg)
+[![](public/icons/apple-download.svg)](https://apps.apple.com/in/app/inmo-go/id6479473374)
 
 **Download the  INMO App**
 
