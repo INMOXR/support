@@ -1,5 +1,5 @@
 ---
-title: Protection&Cleaning
+title: Protection & Cleaning
 description: Detailed guide on maintaining and cleaning your INMO GO2 AR Glasses, including lens care instructions and proper storage 
 sidebar:
   order: 4

@@ -4,7 +4,7 @@ description: INMO GO2 quick start guide.
 sidebar:
   order: 1
 ---
-## Start
+## Quick Start
 
 ### Step1
 
