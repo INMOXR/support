@@ -6,15 +6,7 @@ import markdocGrammar from './grammars/markdoc.tmLanguage.json';
 
 export const locales = {
 	root: { label: 'English', lang: 'en' },
-	de: { label: 'Deutsch', lang: 'de' },
-	es: { label: 'Español', lang: 'es' },
-	ja: { label: '日本語', lang: 'ja' },
-	fr: { label: 'Français', lang: 'fr' },
-	it: { label: 'Italiano', lang: 'it' },
 	'zh-cn': { label: '简体中文', lang: 'zh-CN' },
-	'pt-pt': { label: 'Português', lang: 'pt-PT' },
-	ko: { label: '한국어', lang: 'ko' },
-	ru: { label: 'Русский', lang: 'ru' },
 };
 
 /* https://docs.netlify.com/configure-builds/environment-variables/#read-only-variables */
