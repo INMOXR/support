@@ -23,6 +23,7 @@ export default defineConfig({
 		starlight({
 			title: 'INMO Support',
 			defaultLocale: 'root',
+			favicon: '/inmo-logo-black.svg',
 			logo: {
 				light: '/src/assets/inmo-logo-black.svg',
 				dark: '/src/assets/inmo-logo-white.svg',
@@ -33,11 +34,13 @@ export default defineConfig({
 				baseUrl: 'https://github.com/INMOXR/support/tree/main/docs/src/content/docs',
 			},
 			social: {
-				twitter: 'https://x.com/inmoxreality',
+				email: 'mailto:support@inmoxr.com',
+				'x.com': 'https://x.com/inmoxreality',
 				facebook: 'https://www.facebook.com/inmocares',
 				instagram: 'https://www.instagram.com/inmo.xr/',
 				youtube: 'https://www.youtube.com/@inmo-xr',
 				discord: 'https://discord.gg/daQShJJH',
+				reddit: 'https://www.reddit.com/r/inmoxr/',
 			},
 			head: [
 				{
@@ -64,7 +67,7 @@ export default defineConfig({
 				  label: 'INMO GO',
 				  items: [
 					{
-					  label: 'Guide',
+					  label: 'Guides',
 					  autogenerate: { directory: '/go/guides' },
 					},
 					{
@@ -78,7 +81,7 @@ export default defineConfig({
 					label: 'INMO GO2',
 					items: [
 					  {
-						label: 'Guide',
+						label: 'Guides',
 						autogenerate: { directory: '/go2/guides' },
 					  },
 					  {
