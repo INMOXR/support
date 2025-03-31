@@ -73,7 +73,7 @@ export default defineConfig({
 				  items: [
 					{
 					  label: 'Guide',
-					  autogenerate: { directory: '/go/guide' },
+					  autogenerate: { directory: '/go/guides' },
 					},
 					{
 					  label: 'FAQ',
@@ -87,7 +87,7 @@ export default defineConfig({
 					items: [
 					  {
 						label: 'Guide',
-						autogenerate: { directory: '/go2/guide' },
+						autogenerate: { directory: '/go2/guides' },
 					  },
 					  {
 						label: 'FAQ',
