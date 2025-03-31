@@ -1,8 +1,8 @@
 ---
-title: INMO Product Support
+title: INMO Support
 head:
   - tag: title
-    content: INMO Product Support - Manuals & Solutions
+    content: INMO Support - Guides & FAQs
 description: INMO Product Support provides product manuals, FAQs, and technical support to help you solve problems you may encounter.
 template: splash
 editUrl: false
@@ -20,14 +20,14 @@ import ProductCard from '~/components/product-card.astro';
     href="/orders/"
   />
   <LinkCard 
-    title="Manuals & Downloads"
+    title="APP/Manuals Downloads"
     icon="open-book"
     href="/manuals/"
   />
   <LinkCard 
-    title="Develop"
+    title="Development"
     icon="setting"
-    href="/develop/"
+    href="/development/"
   />
   <LinkCard 
     title="Warranty"
@@ -41,6 +41,12 @@ import ProductCard from '~/components/product-card.astro';
   <h2 style="font-size: 2.5rem; margin-bottom: 2rem;">Product Support</h2>
   
   <CardGrid>
+      <ProductCard 
+      title="INMO GO"
+      image="/images/products/inmo-go-800x400.png"
+      href="/go/"
+    />
+    </CardGrid>
     <ProductCard 
       title="INMO Air3"
       image="/images/products/inmo-air3-800x400.png"
@@ -56,12 +62,6 @@ import ProductCard from '~/components/product-card.astro';
       image="/images/products/inmo-air2-800x400.png"
       href="/air2/"
     />
-    <ProductCard 
-      title="INMO GO"
-      image="/images/products/inmo-go-800x400.png"
-      href="/go/"
-    />
-  </CardGrid>
 </div>
 
 {/* Still Need Help Section */}

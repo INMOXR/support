@@ -72,12 +72,12 @@ export default defineConfig({
 				  label: 'INMO GO',
 				  items: [
 					{
-					  label: 'Getting Started',
-					  autogenerate: { directory: '/go/quick-start' },
+					  label: 'Guide',
+					  autogenerate: { directory: '/go/guide' },
 					},
 					{
-					  label: 'Troubleshooting',
-					  autogenerate: { directory: '/go/troubleshooting' },
+					  label: 'FAQ',
+					  autogenerate: { directory: '/go/faq' },
 					},
 				  ],
 				},
@@ -86,12 +86,12 @@ export default defineConfig({
 					label: 'INMO GO2',
 					items: [
 					  {
-						label: 'Getting Started',
-						autogenerate: { directory: '/go2/quick-start' },
+						label: 'Guide',
+						autogenerate: { directory: '/go2/guide' },
 					  },
 					  {
-						label: 'Troubleshooting',
-						autogenerate: { directory: '/go2/troubleshooting' },
+						label: 'FAQ',
+						autogenerate: { directory: '/go2/faq' },
 					  },
 					],
 				  },
