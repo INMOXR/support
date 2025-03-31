@@ -1,7 +1,7 @@
 ---
-title: User Instruction
+title: Quick Start
 
-description: An overview of the default frontmatter fields Starlight supports.
+description: INMO GO quick start guide.
 sidebar:
   order: 1
 ---

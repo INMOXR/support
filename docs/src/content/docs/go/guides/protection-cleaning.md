@@ -1,7 +1,7 @@
 ---
 title: Protection-Cleaning
 
-description: An overview of the default frontmatter fields Starlight supports.
+description: Learn how to properly clean and maintain your INMO GO AR Glasses, including lens care and storage guidelines.
 
 sidebar:
   order: 4

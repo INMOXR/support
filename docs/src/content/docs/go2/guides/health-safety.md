@@ -1,6 +1,6 @@
 ---
 title: Health Safety
-description: An overview of the default frontmatter fields Starlight supports.
+description: Essential health and safety guidelines for INMO GO2 users, including usage precautions, medical device compatibility, and proper handling instructions.
 sidebar:
   order: 3
 ---

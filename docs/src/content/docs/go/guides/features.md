@@ -1,6 +1,6 @@
 ---
 title: Features
-description: An overview of the default frontmatter fields Starlight supports.
+description: Discover the powerful features and capabilities of INMO GO AR Glasses, including real-time translation and hands-free operation
 sidebar:
   order: 2
 ---

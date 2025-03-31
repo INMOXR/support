@@ -1,7 +1,7 @@
 ---
 title: Health & Safety
 
-description: An overview of the default frontmatter fields Starlight supports.
+description: Important safety guidelines and health precautions for using INMO GO AR Glasses to ensure a safe and comfortable experience.
 sidebar:
   order: 3
 ---
