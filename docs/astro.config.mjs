@@ -31,7 +31,7 @@ export default defineConfig({
 			},
 			lastUpdated: true,
 			editLink: {
-				baseUrl: 'https://github.com/INMOXR/support/tree/main/',
+				baseUrl: 'https://github.com/INMOXR/support/tree/main/docs/',
 			},
 			social: {
 				email: 'mailto:support@inmoxr.com',
