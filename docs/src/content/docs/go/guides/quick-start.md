@@ -6,7 +6,7 @@ sidebar:
   order: 1
 ---
 
-## Start
+### Start
 
 Step1
 
@@ -18,15 +18,15 @@ Step1
 
 Step2 Power On
 
-![](public/images/go/go-user-instruction-poweron.png)
+![](public/images/go/go-user-instruction-poweron.PNG)
 
 **Turn on the power of INMO Go**
 
 Step3 Settings
 
-![](public/images/go/go-user-instruction-setting1.png)
+![](public/images/go/go-user-instruction-setting1.PNG)
 
-![](public/images/go/go-user-instruction-setting2.png)
+![](public/images/go/go-user-instruction-setting2.PNG)
 
 Charging
 
