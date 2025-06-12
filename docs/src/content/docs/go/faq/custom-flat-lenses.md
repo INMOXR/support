@@ -10,7 +10,7 @@ Concave lenses and flat lenses share the same concept but are named differently.
 
 **A. Conventional curved lenses have low compatibility with AR smart glasses, affecting clarity.**
 
-![](public/images/go/go-custom-lenses-1.PNG)
+![](public/images/go/go-custom-flat-lenses-1.png)
 
 Given that smart glasses have a more complex design compared to regular glasses, a cemented layer is necessary to ensure the lenses are securely attached and less prone to falling off. Additionally, considering the fit between the front and back lenses, the rear lens should feature a flat front surface design, which not only ensures a perfect fit but also enhances aesthetic appeal.
 
@@ -18,11 +18,11 @@ Given that smart glasses have a more complex design compared to regular glasses,
 
 **B. Conventional curved lenses have significant aberrations, limiting the peripheral vision when wearing AR smart glasses.**
 
-![](public/images/go/go-custom-lenses-2.PNG)
+![](public/images/go/go-custom-flat-lenses-2.png)
 
 Conventional curved lenses produce blurry peripheral images, which significantly degrade the visual experience.
 
-![](public/images/go/go-custom-lenses-3.PNG)
+![](public/images/go/go-custom-flat-lenses-3.png)
 
 Conventional curved lenses, due to poor alignment of the front surface with the waveguide, result in unstable lens positioning, causing blurry and distorted imaging. For AR smart glasses, specialized lenses designed to match the smart glasses are needed. For example, concave lenses can fit well with the waveguide, ensuring clear vision and maintaining clarity in peripheral imaging.
 
@@ -30,7 +30,7 @@ Conventional curved lenses, due to poor alignment of the front surface with the 
 
 **Perfectly Tailored Design: A concave design custom-made for AR smart glasses, with nano-polishing for enhanced clarity.**
 
-![](public/images/go/go-custom-lenses-4.PNG)
+![](public/images/go/go-custom-flat-lenses-4.png)
 
 The lens features a **concave design that perfectly aligns with the planar waveguide process, offering a clearer visual experience for smart glasses**.&#x20;
 
