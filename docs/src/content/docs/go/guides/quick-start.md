@@ -5,9 +5,8 @@ description: INMO GO quick start guide.
 sidebar:
   order: 1
 ---
-## Quick Start
 
-### Start
+## Start
 
 Step1
 
