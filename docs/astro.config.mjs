@@ -63,6 +63,21 @@ export default defineConfig({
 			customCss: ['./src/assets/landing.css'],
 			locales,
 			sidebar: [
+				// Air3的文档结构
+				{
+				  label: 'INMO Air3',
+				  items: [
+					{
+					  label: 'Guides',
+					  autogenerate: { directory: '/air3/guides' },
+					},
+					{
+					  label: 'FAQ',
+					  autogenerate: { directory: '/air3/faq' },
+					},
+				  ],
+				},
+				// GO的文档结构
 				{
 				  label: 'INMO GO',
 				  items: [
