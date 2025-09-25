@@ -3,7 +3,7 @@ title: Screen mirroring
 
 description: INMO Air3 screen mirroring.
 sidebar:
-  order: 1
+  order: 4
 ---
 
 ### Part 1

@@ -3,7 +3,7 @@ title: File management
 
 description: INMO Air3 file management.
 sidebar:
-  order: 1
+  order: 3
 ---
 
 ### Part 1
