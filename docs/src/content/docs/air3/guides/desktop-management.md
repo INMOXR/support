@@ -1,7 +1,7 @@
 ---
-title: Quick Start
+title: Desktop management
 
-description: INMO Air3 quick start guide.
+description: INMO Air3 desktop management
 sidebar:
   order: 1
 ---
