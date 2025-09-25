@@ -14,7 +14,7 @@ sidebar:
 
 ![](public/images/air3/desktop-management-1.png)
 
-![](public/images/air3/desktop-management-2.png)
+![](public/images/air3/desktop-management-2.jpg)
 
 ### Part 2
 
