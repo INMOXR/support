@@ -63,7 +63,7 @@ sidebar:
 
 > Take the Xbox Wireless Controller Bluetooth gamepad as an example
 
-![](public/images/air3/bluetooth-5.PNG)
+![](public/images/air3/bluetooth-4.PNG)
 
 1. Keep the gamepad powered on, then press and hold the X button + Home button simultaneously for 4 seconds; a fast-flashing green light indicates that it is in pairing mode.
 
