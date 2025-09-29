@@ -6,7 +6,7 @@ sidebar:
   order: 4
 ---
 
-### Part 1
+### Part 1 - Open the function in your glasses
 
 ① Access the App Library and select "Screen Mirroring" to enable the smart glasses' screen mirroring function. This feature allows you to cast the display from your mobile device to be shown on the AIR3 smart glasses.
 
@@ -18,7 +18,7 @@ Note: For screen mirroring to function correctly, please ensure that both the so
 
 ![](public/images/air3/screen-mirroring-2.png)
 
-### Part 2
+### Part 2 - Open your phone's or computer's screen mirroing
 
 ① For Apple (iOS) users: From the Control Center on your iPhone or iPad, open the "Screen Mirroring" icon, and then select the discovered INMO AIR3 smart glasses to begin screen mirroring.
 

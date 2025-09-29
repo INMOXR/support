@@ -64,7 +64,7 @@ Tip: Use a 5V/1A charger. Fully charge before first use.
 
 ## Beginning Guide
 
-### Part 1
+### Part 1 - Select language
 
 ① Select Language: Scroll up or down on the right temple's touch control to choose your desired language.
 
@@ -74,7 +74,7 @@ Tip: Use a 5V/1A charger. Fully charge before first use.
 
 ![](public/images/air3/quick-start-14.jpg)
 
-### Part 2
+### Part 2 - Agreement
 
 ③ User Agreement and Privacy Policy: Scroll up or down on the right temple's touch control to view the User Agreement and Privacy Policy.
 
@@ -84,7 +84,7 @@ Tip: Use a 5V/1A charger. Fully charge before first use.
 
 ![](public/images/air3/quick-start-16.jpg)
 
-### Part 3
+### Part 3 - Pairing ring control and touchpad device
 
 ⑤ Peripheral Pairing: Connect the "Ring" or "Touchpad." Once connected successfully, it will automatically proceed to "Ring Interaction Instructions" (if a Touchpad is connected, it will redirect to "Touchpad Interaction Instructions").
 
@@ -94,7 +94,7 @@ Tip: Use a 5V/1A charger. Fully charge before first use.
 
 ![](public/images/air3/quick-start-18.jpg)
 
-### Part 4
+### Part 4 - Familar with ring control
 
 ⑦ Ring Basic Interaction Instructions: Access "Ring Basic Interaction Instructions" and review the Ring interaction instructions. Tap "Next" to test the Ring's connectivity.
 
@@ -104,7 +104,7 @@ Tip: Use a 5V/1A charger. Fully charge before first use.
 
 ![](public/images/air3/quick-start-20.jpg)
 
-### Part 5
+### Part 5 - Power on/off and restart your glasses
 
 ① Power Off/Restart: While the device is powered on, press and hold the power button on the temple for 3 seconds to display the power options menu. Swipe the touchpad to select "Shut down" or "Restart."
 
