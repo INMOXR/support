@@ -105,7 +105,20 @@ export default defineConfig({
 					  },
 					],
 				  },
-				  // 可以继续添加其他产品的文档结构
+				  // Air2的文档结构
+				{
+					label: 'INMO Air2',
+					items: [
+					  {
+						label: 'Guides',
+						autogenerate: { directory: '/air2/guides' },
+					  },
+					  {
+						label: 'FAQ',
+						autogenerate: { directory: '/air2/faq' },
+					  },
+					],
+				  },
 			  ],
 			expressiveCode: { shiki: { langs: [markdocGrammar] } },
 			plugins: process.env.CHECK_LINKS
