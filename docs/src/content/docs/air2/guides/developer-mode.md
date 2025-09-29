@@ -6,9 +6,8 @@ sidebar:
   order: 1
 ---
 
-July 24, 2023
 
-# INMO Air2 Developer Mode
+## INMO Air2 Developer Mode
 
 ![](public/images/air2/developer-mode-1.PNG)
 
