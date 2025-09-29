@@ -20,7 +20,7 @@ sidebar:
 
 
 
-# Part 2 Taking the HM11 Bluetooth Speaker as an Example
+### Part 2 Taking the HM11 Bluetooth Speaker as an Example
 
 ![](public/images/air3/bluetooth-2.PNG)
 
@@ -31,7 +31,7 @@ sidebar:
 因眼镜不在  还需等待上传英文版图片
 
 
-# Part 3 Take the HUAWEI Mouse Bluetooth mouse as an example
+### Part 3 Take the HUAWEI Mouse Bluetooth mouse as an example
 
 ![](public/images/air3/bluetooth-3.PNG)
 
@@ -45,7 +45,7 @@ sidebar:
 
 
 
-# Part 4 Take the Xbox Wireless Controller Bluetooth gamepad as an example
+### Part 4 Take the Xbox Wireless Controller Bluetooth gamepad as an example
 
 ![](public/images/air3/bluetooth-4.PNG)
 
@@ -54,7 +54,7 @@ sidebar:
 还需等待上传英文版图片
 
 
-# Bluetooth Gamepad (Part 2)
+### Bluetooth Gamepad (Part 2)
 
 ① The "Xbox Wireless Controller" will be discoverable; click on it to pair and connect.
 ② After the connection is completed, you can download Tencent START Cloud Gaming from the App Store on the glasses and use the gamepad to operate.
@@ -64,7 +64,7 @@ Note: Whether the gamepad is compatible depends on the specific game!
 
 
 
-Part 5 - Setting Up Network and Internet 1
+### Part 5 - Setting Up Network and Internet 1
 
 
 

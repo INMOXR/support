@@ -26,14 +26,12 @@ sidebar:
 ![](public/images/air3/inmo-touchpad-user-manual-4.png)
 
 
-**Part 2 Basic Operations**
-===========================
+### Part 2 Basic Operations
 
 ![](public/images/air3/inmo-touchpad-user-manual-5.png)
 
 
-**Part 3 Power On/Off and Bluetooth Connection**
-================================================
+### Part 3 Power On/Off and Bluetooth Connection
 
 ① Power On/OffAfter powering on, Bluetooth pairing can be performed; after powering off, the device turns off directly.
 
@@ -41,7 +39,7 @@ sidebar:
 
 ③ Re-pairingFirst press and hold the camera button, then slide the switch to the left—the device will delete the existing pairing information.
 
-# **Part 4&#x20;**&#x47;lasses Connection
+### Part 4 Glasses Connection
 
 ① Go to the desktop -> select "Peripheral Management" -> tap and search. You will find the "INMO Touchpad" device, then tap to connect.
 
@@ -58,7 +56,7 @@ sidebar:
 **Note: The "INMO Touchpad" that has been paired will connect automatically after being turned on.**
 
 
-# **Part 5 Regular function keys**
+### Part 5 Regular function keys
 
 * Volume adjustment :Adjust the volume with the side volume adjustment keys.
 
@@ -78,7 +76,7 @@ sidebar:
 
 ![](public/images/air3/inmo-touchpad-user-manual-12.png)
 
-# **Part 6 Touchpad Operations**
+### Part 6 Touchpad Operations
 
 ① Move within the center area&#x20;
 
@@ -101,7 +99,7 @@ sidebar:
 
 ![](public/images/air3/inmo-touchpad-user-manual-15.png)
 
-# **Part 7 Fn Key Functions**
+### Part 7 Fn Key Functions
 
 Single tap the Fn key: Turn off the screen / Turn on the screen
 

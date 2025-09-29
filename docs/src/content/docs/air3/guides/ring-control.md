@@ -6,61 +6,64 @@ sidebar:
   order: 6
 ---
 
-# Part 1 Ring Indicator Light
+## Part 1 Ring Indicator Light
 
 The follow~~i~~ng table shows the correspondence between indicator lights and their statuses.
 The ring is paired successfully, and the indicator light turns off.
 
+![]()
+
 ![](public/images/air3/ring-1.png)
+
+## Part 2 Basic Interaction Instruction
 
 ![](public/images/air3/ring-2.png)
 
-# Part 2 Basic Interaction Instruction
+## Part 3 Ring Pairing
+
+First Connection of the Ring
+
+1. Follow the new user guide to connect the ring. After long-pressing the ring's power button to turn it on, the ring's blue light flashes, and the ring enters the scanning and pairing process. When the pairing is successful, the indicator light turns off.
 
 ![](public/images/air3/ring-3.png)
 
-**Part 3 Ring Pairing (1)**
 
-First Connection of the Ring
-① Follow the new user guide to connect the ring. After long-pressing the ring's power button to turn it on, the ring's blue light flashes, and the ring enters the scanning and pairing process. When the pairing is successful, the indicator light turns off.
+
+* If you skip the new user guide and don't connect the ring, go to the glasses desktop -> Peripheral Management -> Click and search.
 
 ![](public/images/air3/ring-4.png)
 
-
-② If you skip the new user guide and don't connect the ring, go to the glasses desktop -> Peripheral Management -> Click and search.
+* Then you can find the "INMO Ring 3" device, and click to connect.
 
 ![](public/images/air3/ring-5.png)
 
-③ Then you can find the "INMO Ring 3" device, and click to connect.
+**Note:**
+
+1. If the ring disconnects during use, it will automatically reconnect.
+
+2. If the automatic reconnection fails, go to the glasses desktop -> Peripheral Management -> **tap** "INMO Ring 3" to connect.
+
+3. If the connection fails repeatedly, you can first unbind the ring on the "Peripheral Management" page.
 
 ![](public/images/air3/ring-6.png)
 
-### Ring Pairing (2)
-
-① If the ring disconnects during use, it will automatically reconnect.
-② If the automatic reconnection fails, go to the glasses desktop -> Peripheral Management -> **tap** "INMO Ring 3" to connect.
-
-**Ring Pairing (Part 3)**
-① If the connection fails repeatedly, you can first unbind the ring on the "Peripheral Management" page.
+* Long-press the ring's power button to turn it off, then long-press both the power button and function button to turn it on (reset).
 
 ![](public/images/air3/ring-7.png)
 
-② Long-press the ring's power button to turn it off, then long-press both the power button and function button to turn it on (reset).
+Wait until the ring's blue light flashes rapidly.
 
 ![](public/images/air3/ring-8.png)
 
-③ Wait until the ring's blue light flashes rapidly.
+* Go to the glasses desktop -> Peripheral Management -> tap and search, then you'll find the "INMO Ring 3" device. Tap to connect.
+
+
+## Part 4  Ring Indicator Light
+
+Long-press the function key on the ring to calibrate the cursor/ray to the center of the screen.Note: The ray function can only be used when entering \[Spatial Multi-Screen/Discovery]
 
 ![](public/images/air3/ring-9.png)
 
-④ Go to the glasses desktop -> Peripheral Management -> tap and search, then you'll find the "INMO Ring 3" device. Tap to connect.
-
-
-# Part 4  Ring Indicator Light
-
-① Long-press the function key on the ring to calibrate the cursor/ray to the center of the screen.Note: The ray function can only be used when entering \[Spatial Multi-Screen/Discovery]
-
-![](public/images/air3/ring-10.png)
 
 
 
