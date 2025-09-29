@@ -4,7 +4,7 @@ description: INMO GO2 flashing turorial, drivers and tools download for developm
 sidebar:
   order: 5
 ---
-> Please note that INMO is not responsible for any accidental damage that occurs during the flashing process that renders the INMO GO2 unusable, as problems caused by flashing are not covered by the warranty.
+> ❗Please note: INMO is not responsible for any accidental damage that occurs during the flashing process that renders the INMO GO2 unusable, as problems caused by flashing are not covered by the warranty.
 
 ## Device ROM Flashing Process
 
