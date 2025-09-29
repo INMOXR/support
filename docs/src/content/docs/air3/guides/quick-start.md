@@ -111,4 +111,3 @@ Tip: Use a 5V/1A charger. Fully charge before first use.
 ② Force Restart: To force restart the smart glasses, press and hold the power button for approximately 10 seconds.
 
 ![](public/images/air3/quick-start-21.jpg)
-
