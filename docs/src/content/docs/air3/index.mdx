@@ -1,17 +1,36 @@
 ---
 title: INMO Air3 Documentation
-description: User guides, manuals, and support documentation for INMO Air3
+description: Welcome to the INMO Air3 support center. Here you can find all the information you need about your INMO Air3 device.
 sidebar:
   label: Overview
 ---
 
-# INMO Air3 Documentation
+import { CardGrid, Card, LinkCard } from '@astrojs/starlight/components';
 
-Welcome to the INMO Air3 support center. Here you can find all the information you need about your INMO Air3 device.
-
-## Quick Links
-
-- [Quick Start Guide](./quick-start/)
-- [User Manual](./manual/)
-- [Troubleshooting](./troubleshooting/)
-- [FAQ](./faq/)
+{/* Main Navigation Cards */}
+<CardGrid>
+  <LinkCard 
+    title="Quick Start"
+    icon="document"
+    href="https://support.inmoxr.com/air3/guides/quick-start/"
+    description="Quick start your INMO Air3."
+  />
+  <LinkCard 
+    title="APP & Manuals Downloads"
+    icon="open-book"
+    href="https://www.inmoxr.com/pages/manuals-downloads"
+    description="Downloads INMOLens app or user manuals for INMO Air3."
+  />
+  <LinkCard 
+    title="Development"
+    icon="setting"
+    href="https://github.com/INMOXR/air3-unity-sdk"
+    description="Know more about unity sdk INMO released in github."
+  />
+  <LinkCard 
+    title="Warranty"
+    icon="shield"
+    href="https://www.inmoxr.com/pages/warranty"
+    description="This Limited Warranty is a commercial guarantee voluntarily provided by INMO."
+  />
+</CardGrid>
