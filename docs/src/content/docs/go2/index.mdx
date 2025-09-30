@@ -1,17 +1,36 @@
 ---
-title: INMO GO Documentation
-description: User guides, manuals, and support documentation for INMO GO
+title: INMO GO2 Documentation
+description: User guides, manuals, and support documentation for INMO GO2
 sidebar:
   label: Overview
 ---
 
-# INMO GO Documentation
+import { CardGrid, Card, LinkCard } from '@astrojs/starlight/components';
 
-Welcome to the INMO GO support center. Here you can find all the information you need about your INMO GO device.
-
-## Quick Links
-
-- [Quick Start Guide](./quick-start/)
-- [User Manual](./manual/)
-- [Troubleshooting](./troubleshooting/)
-- [FAQ](./faq/)
+{/* Main Navigation Cards */}
+<CardGrid>
+  <LinkCard 
+    title="Quick Start"
+    icon="document"
+    href="https://support.inmoxr.com/go2/guides/quick-start/"
+    description="Quick start your INMO GO2."
+  />
+  <LinkCard 
+    title="APP & Manuals Downloads"
+    icon="open-book"
+    href="https://www.inmoxr.com/pages/manuals-downloads"
+    description="Downloads INMO GO app or user manuals for INMO GO2."
+  />
+  <LinkCard 
+    title="Development"
+    icon="setting"
+    href="https://support.inmoxr.com/go2/guides/development/"
+    description="Flahsing your INMO GO2 and start development"
+  />
+  <LinkCard 
+    title="Warranty"
+    icon="shield"
+    href="https://www.inmoxr.com/pages/warranty"
+    description="This Limited Warranty is a commercial guarantee voluntarily provided by INMO."
+  />
+</CardGrid>

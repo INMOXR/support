@@ -5,12 +5,32 @@ sidebar:
   label: Overview
 ---
 
+import { CardGrid, Card, LinkCard } from '@astrojs/starlight/components';
 
-Welcome to the INMO GO support center. Here you can find all the information you need about your INMO GO device.
-
-## Quick Links
-
-- [Quick Start Guide](./quick-start/)
-- [User Manual](./manual/)
-- [Troubleshooting](./troubleshooting/)
-- [FAQ](./faq/)
+{/* Main Navigation Cards */}
+<CardGrid>
+  <LinkCard 
+    title="Quick Start"
+    icon="document"
+    href="https://support.inmoxr.com/go/guides/quick-start/"
+    description="Quick start your INMO GO."
+  />
+  <LinkCard 
+    title="APP & Manuals Downloads"
+    icon="open-book"
+    href="https://www.inmoxr.com/pages/manuals-downloads"
+    description="Downloads INMO GO app or user manuals for INMO GO."
+  />
+  <LinkCard 
+    title="Priscription lenses"
+    icon="setting"
+    href="https://support.inmoxr.com/go/faq/custom-flat-lenses/"
+    description="Know more about custom flat lenses"
+  />
+  <LinkCard 
+    title="Warranty"
+    icon="shield"
+    href="https://www.inmoxr.com/pages/warranty"
+    description="This Limited Warranty is a commercial guarantee voluntarily provided by INMO."
+  />
+</CardGrid>

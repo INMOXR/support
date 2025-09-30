@@ -5,13 +5,32 @@ sidebar:
   label: Overview
 ---
 
-# INMO Air2 Documentation
+import { CardGrid, Card, LinkCard } from '@astrojs/starlight/components';
 
-Welcome to the INMO Air2 support center. Here you can find all the information you need about your INMO Air3 device.
-
-## Quick Links
-
-- [Quick Start Guide](./quick-start/)
-- [User Manual](./manual/)
-- [Troubleshooting](./troubleshooting/)
-- [FAQ](./faq/)
+{/* Main Navigation Cards */}
+<CardGrid>
+  <LinkCard 
+    title="User Manual"
+    icon="document"
+    href="https://drive.google.com/file/d/1Y8dicECPpjoYOayYGHcpQ-YlsG_rdodF/view?usp=sharing"
+    description="INMO Air2 user manual"
+  />
+  <LinkCard 
+    title="APP Downloads"
+    icon="open-book"
+    href="https://www.inmoxr.com/pages/manuals-downloads"
+    description="Downloads INMOLens app or user manuals for INMO Air2."
+  />
+  <LinkCard 
+    title="Development"
+    icon="setting"
+    href="https://support.inmoxr.com/air2/guides/developer-mode/"
+    description="Start INMO Air2 develop mode"
+  />
+  <LinkCard 
+    title="Warranty"
+    icon="shield"
+    href="https://www.inmoxr.com/pages/warranty"
+    description="This Limited Warranty is a commercial guarantee voluntarily provided by INMO."
+  />
+</CardGrid>
