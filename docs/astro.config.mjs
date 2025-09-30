@@ -13,15 +13,15 @@ export const locales = {
 const NETLIFY_PREVIEW_SITE = process.env.CONTEXT !== 'production' && process.env.DEPLOY_PRIME_URL;
 
 const site = NETLIFY_PREVIEW_SITE || 'https://support.inmoxr.com';
-const ogUrl = new URL('og.jpg?v=1', site).href;
-const ogImageAlt = 'INMO AR Glasses Support';
+const ogUrl = new URL('inmo-support.jpg', site).href;
+const ogImageAlt = 'INMO Support Center';
 
 export default defineConfig({
 	site,
 	trailingSlash: 'always',
 	integrations: [
 		starlight({
-			title: 'INMO Support',
+			title: 'INMO Support Center',
 			defaultLocale: 'root',
 			favicon: '/inmo-logo-black.svg',
 			logo: {
