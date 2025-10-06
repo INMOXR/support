@@ -122,15 +122,14 @@ export default defineConfig({
 				  },
 			  ],
 			expressiveCode: { shiki: { langs: [markdocGrammar] } },
-			plugins: [
-				sidebarDropdown(),
-			]
+
 			plugins: process.env.CHECK_LINKS
 				? [
 						starlightLinksValidator({
 							errorOnFallbackPages: false,
 							errorOnInconsistentLocale: true,
 						}),
+						sidebarDropdown(),
 					]
 				: [],
 		}),
