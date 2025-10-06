@@ -26,6 +26,7 @@ import {
 } from './utils/plugins';
 import { processI18nConfig } from './utils/i18n';
 import type { StarlightConfig } from './types';
+import { starlightAutolinkHeadings } from './integrations/heading-links';
 
 export default function StarlightIntegration(
 	userOpts: StarlightUserConfigWithPlugins
@@ -91,7 +92,9 @@ export default function StarlightIntegration(
 				// config or by a plugin.
 				const allIntegrations = [...config.integrations, ...integrations];
 				if (!allIntegrations.find(({ name }) => name === 'astro-expressive-code')) {
-					integrations.push(...starlightExpressiveCode({ starlightConfig, useTranslations }));
+					integrations.push(
+						...starlightExpressiveCode({ astroConfig: config, starlightConfig, useTranslations })
+					);
 				}
 				if (!allIntegrations.find(({ name }) => name === '@astrojs/sitemap')) {
 					integrations.push(starlightSitemap(starlightConfig));
@@ -127,10 +130,16 @@ export default function StarlightIntegration(
 								absolutePathToLang,
 							}),
 						],
-						rehypePlugins: [rehypeRtlCodeSupport()],
-						shikiConfig:
-							// Configure Shiki theme if the user is using the default github-dark theme.
-							config.markdown.shikiConfig.theme !== 'github-dark' ? {} : { theme: 'css-variables' },
+						rehypePlugins: [
+							rehypeRtlCodeSupport({ astroConfig: config }),
+							// Process headings and add anchor links.
+							...starlightAutolinkHeadings({
+								starlightConfig,
+								astroConfig: config,
+								useTranslations,
+								absolutePathToLang,
+							}),
+						],
 					},
 					scopedStyleStrategy: 'where',
 					// If not already configured, default to prefetching all links on hover.

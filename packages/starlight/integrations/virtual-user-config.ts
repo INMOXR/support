@@ -2,7 +2,7 @@ import type { AstroConfig, HookParameters, ViteUserConfig } from 'astro';
 import { existsSync } from 'node:fs';
 import { resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { resolveCollectionPath } from '../utils/collection';
+import { resolveCollectionPath } from '../utils/collection-fs';
 import type { StarlightConfig } from '../utils/user-config';
 import { getAllNewestCommitDate } from '../utils/git';
 import type { PluginTranslations } from '../utils/plugins';
@@ -84,6 +84,15 @@ export function vitePluginStarlightUserConfig(
 				: `import { makeAPI } from ${resolveLocalPath('../utils/gitInlined.ts')};` +
 					`const api = makeAPI(${JSON.stringify(getAllNewestCommitDate(rootPath, docsPath))});`) +
 			'export const getNewestCommitDate = api.getNewestCommitDate;',
+		/**
+		 * Module containing styles for features that can be toggled on or off such as heading anchor links.
+		 */
+		'virtual:starlight/optional-css': opts.markdown.headingLinks
+			? `import ${resolveLocalPath('../style/anchor-links.css')};`
+			: '',
+		/**
+		 * Module containing imports of user-specified custom CSS files.
+		 */
 		'virtual:starlight/user-css': opts.customCss.map((id) => `import ${resolveId(id)};`).join(''),
 		'virtual:starlight/user-images': opts.logo
 			? 'src' in opts.logo
