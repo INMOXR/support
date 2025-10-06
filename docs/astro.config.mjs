@@ -36,31 +36,31 @@ export default defineConfig({
 			social: [
 				{
 					icon: 'email',
-					https: 'mailto:support@inmoxr.com',
+					href: 'mailto:support@inmoxr.com',
 				},
 				{
 					icon: 'facebook',
-					https: 'https://www.facebook.com/inmocares',
+					href: 'https://www.facebook.com/inmocares',
 				},
 				{
 					icon: 'instagram',
-					https: 'https://www.instagram.com/inmo.xr/',
+					href: 'https://www.instagram.com/inmo.xr/',
 				},
 				{
 					icon: 'youtube',
-					https: 'https://www.youtube.com/@inmo-xr',
+					href: 'https://www.youtube.com/@inmo-xr',
 				},
 				{
 					icon: 'discord',
-					https: 'https://discord.gg/daQShJJH',
+					href: 'https://discord.gg/daQShJJH',
 				},
 				{
 					icon: 'reddit',
-					https: 'https://www.reddit.com/r/inmoxr/',
+					href: 'https://www.reddit.com/r/inmoxr/',
 				},
 				{
 					icon: 'x.com',
-					https: 'https://x.com/inmoxr',
+					href: 'https://x.com/inmoxr',
 				},
 			],
 			head: [
