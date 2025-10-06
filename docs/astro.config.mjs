@@ -4,6 +4,8 @@ import starlight from '@astrojs/starlight';
 import starlightLinksValidator from 'starlight-links-validator';
 import markdocGrammar from './grammars/markdoc.tmLanguage.json';
 
+import starlightSidebarTopics from 'starlight-sidebar-topics';
+
 export const locales = {
 	root: { label: 'English', lang: 'en' },
 	'zh-cn': { label: '简体中文', lang: 'zh-CN' },
@@ -150,14 +152,33 @@ export default defineConfig({
 			  ],
 			expressiveCode: { shiki: { langs: [markdocGrammar] } },
 
-			plugins: process.env.CHECK_LINKS
-				? [
-						starlightLinksValidator({
-							errorOnFallbackPages: false,
-							errorOnInconsistentLocale: true,
-						}),
-					]
-				: [],
+			plugins: [
+                // 现有的 starlightLinksValidator 插件
+                process.env.CHECK_LINKS
+                    ? starlightLinksValidator({
+                            errorOnFallbackPages: false,
+                            errorOnInconsistentLocale: true,
+                        })
+                    : [],
+                
+                // 2. 添加 starlightSidebarTopics 插件并配置
+                // ⚠️ 请在此处添加您的 Topics 配置 (如果有的话)
+                starlightSidebarTopics([
+                    // 这里放置插件的配置，例如：
+                    
+                    { 
+                        title: 'All Topics', 
+                        items: [
+                             // ...
+                        ] 
+                    }
+                    
+                ]),
+            ].flat(), // 使用 .flat() 来处理条件渲染导致的数组嵌套
+			// 3. 添加 Sidebar 组件覆盖
+            components: {
+                Sidebar: './src/components/Sidebar.astro',
+            },
 		}),
 	],
 });
