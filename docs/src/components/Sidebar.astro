@@ -5,5 +5,20 @@ import TopicsDropdown from 'starlight-sidebar-topics-dropdown/TopicsDropdown.ast
 
 {/* Render the topics dropdown menu. */}
 <TopicsDropdown />
-{/* Render the default sidebar. */}
+{/* Render the default sidebar. */
+				
+				  label: 'INMO Air3',
+				  items: [
+					{
+					  label: 'Guides',
+					  autogenerate: { directory: '/air3/guides' },
+					},
+					{
+					  label: 'FAQ',
+					  autogenerate: { directory: '/air3/faq' },
+					},
+				  ],
+				
+					
+}
 <Default><slot /></Default>
