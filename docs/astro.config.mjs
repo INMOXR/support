@@ -33,15 +33,36 @@ export default defineConfig({
 			editLink: {
 				baseUrl: 'https://github.com/INMOXR/support/tree/main/docs/',
 			},
-			social: {
-				email: 'mailto:support@inmoxr.com',
-				'x.com': 'https://x.com/inmoxreality',
-				facebook: 'https://www.facebook.com/inmocares',
-				instagram: 'https://www.instagram.com/inmo.xr/',
-				youtube: 'https://www.youtube.com/@inmo-xr',
-				discord: 'https://discord.gg/daQShJJH',
-				reddit: 'https://www.reddit.com/r/inmoxr/',
-			},
+			social: [
+				{
+					icon: 'email',
+					https: 'mailto:support@inmoxr.com',
+				},
+				{
+					icon: 'facebook',
+					https: 'https://www.facebook.com/inmocares',
+				},
+				{
+					icon: 'instagram',
+					https: 'https://www.instagram.com/inmo.xr/',
+				},
+				{
+					icon: 'youtube',
+					https: 'https://www.youtube.com/@inmo-xr',
+				},
+				{
+					icon: 'discord',
+					https: 'https://discord.gg/daQShJJH',
+				},
+				{
+					icon: 'reddit',
+					https: 'https://www.reddit.com/r/inmoxr/',
+				},
+				{
+					icon: 'x.com',
+					https: 'https://x.com/inmoxr',
+				},
+			],
 			head: [
 				{
 					tag: 'script',
