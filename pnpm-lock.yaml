@@ -161,19 +161,6 @@ importers:
       vitest:
         specifier: ^3.0.5
         version: 3.0.5(@types/node@18.16.19)
-  
-  packages/starlight-sidebar-topics-dropdown:
-    dependencies:
-      starlight-sidebar-topics:
-        specifier: '>=0.6'
-        version: 0.6.0(@astrojs/starlight@0.32.6(astro@5.6.1(jiti@2.4.2)(rollup@4.39.0)(typescript@5.7.2)))
-    devDependencies:
-      '@astrojs/starlight':
-        specifier: ^0.33.0
-        version: 0.33.2(astro@5.13.2(@types/node@24.3.1)(jiti@2.4.2)(rollup@4.50.0)(typescript@5.7.2))
-      astro:
-        specifier: ^5.6.1
-        version: 5.13.2(@types/node@24.3.1)(jiti@2.4.2)(rollup@4.50.0)(typescript@5.7.2)
 
   packages/starlight:
     dependencies:
