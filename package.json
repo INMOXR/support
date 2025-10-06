@@ -54,5 +54,9 @@
         "search-insights"
       ]
     }
+  },
+  "dependencies": {
+    "starlight-sidebar-topics": "^0.6.1",
+    "starlight-sidebar-topics-dropdown": "^0.5.1"
   }
 }
