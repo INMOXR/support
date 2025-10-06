@@ -167,33 +167,29 @@ export default defineConfig({
 					// 这里放置插件的配置，例如：
 
 					{
-						label: 'INMO Air3',
-						link: '/air3/',
-						icon: 'eyeglasses',
+						// 🚨 顶层的主题对象必须有一个 title 属性
+						title: 'Product Documentation', // 假设您所有的产品文档属于这个主题
 						items: [
+							// 🚨 确保您的首页或“未归类”页面也在这里
+							{ label: 'Introduction', link: '/' }, // 假设您的 index.mdx 对应根目录
+
+							// 您原有的 INMO Air3 分组，现在作为主题的 items 之一
 							{
-								label: 'Guides',
-								autogenerate: { directory: '/air3/guides' },
+								label: 'INMO Air3',
+								link: '/air3/',
+								// 插件要求 items 内部要么是 pages，要么是 topics，这里使用 pages
+								autogenerate: { directory: '/air3' }, // 直接指向目录让 Starlight 自动生成
 							},
+
+							// INMO GO 分组
 							{
-								label: 'FAQ',
-								autogenerate: { directory: '/air3/faq' },
+								label: 'INMO GO',
+								link: '/go/',
+								autogenerate: { directory: '/go' },
 							},
-						],
-					},
-					{
-						label: 'INMO GO',
-						link: '/go/',
-						icon: 'information',
-						items: [
-							{
-								label: 'Guides',
-								autogenerate: { directory: '/go/guides' },
-							},
-							{
-								label: 'FAQ',
-								autogenerate: { directory: '/go/faq' },
-							},
+
+							// 插件只处理主题归类，侧边栏本身的 autogenerate 应该留在 Starlight 的 sidebar 配置中
+							// 这里的 items 应该是 link 和 label 的列表，而不是 autogenerate 配置
 						],
 					},
 
