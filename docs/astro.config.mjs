@@ -167,18 +167,34 @@ export default defineConfig({
 					// 这里放置插件的配置，例如：
 
 					{
-						title: 'INMO Air3', // 顶部下拉菜单的主题名称
+						label: 'INMO Air3',
+						link: '/air3/',
+						icon: 'eyeglasses',
 						items: [
 							{
-								label: 'INMO Air3',
-								link: '/air3/', // 指向该主题的起始页
+								label: 'Guides',
+								autogenerate: { directory: '/air3/guides' },
 							},
 							{
-								label: 'INMO GO',
-								link: '/go/',
+								label: 'FAQ',
+								autogenerate: { directory: '/air3/faq' },
 							},
-							// ... 依此类推，列出所有主要产品主题
-						]
+						],
+					},
+					{
+						label: 'INMO GO',
+						link: '/reference/',
+						icon: 'information',
+						items: [
+							{
+								label: 'Guides',
+								autogenerate: { directory: '/go/guides' },
+							},
+							{
+								label: 'FAQ',
+								autogenerate: { directory: '/go/faq' },
+							},
+						],
 					},
 
 				]),
