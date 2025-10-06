@@ -3,7 +3,6 @@ import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import starlightLinksValidator from 'starlight-links-validator';
 import markdocGrammar from './grammars/markdoc.tmLanguage.json';
-import * as sidebarDropdown from 'starlight-sidebar-topics-dropdown';
 
 export const locales = {
 	root: { label: 'English', lang: 'en' },
@@ -129,7 +128,6 @@ export default defineConfig({
 							errorOnFallbackPages: false,
 							errorOnInconsistentLocale: true,
 						}),
-						sidebarDropdown(),
 					]
 				: [],
 		}),
