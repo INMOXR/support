@@ -183,7 +183,7 @@ export default defineConfig({
 					},
 					{
 						label: 'INMO GO',
-						link: '/reference/',
+						link: '/go/',
 						icon: 'information',
 						items: [
 							{
