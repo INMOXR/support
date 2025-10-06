@@ -92,93 +92,101 @@ export default defineConfig({
 			],
 			customCss: ['./src/assets/landing.css'],
 			locales,
-			sidebar: [
-				// Air3的文档结构
-				{
-				  label: 'INMO Air3',
-				  items: [
-					{
-					  label: 'Guides',
-					  autogenerate: { directory: '/air3/guides' },
-					},
-					{
-					  label: 'FAQ',
-					  autogenerate: { directory: '/air3/faq' },
-					},
-				  ],
-				},
-				// GO的文档结构
-				{
-				  label: 'INMO GO',
-				  items: [
-					{
-					  label: 'Guides',
-					  autogenerate: { directory: '/go/guides' },
-					},
-					{
-					  label: 'FAQ',
-					  autogenerate: { directory: '/go/faq' },
-					},
-				  ],
-				},
-				// GO2的文档结构
-				{
-					label: 'INMO GO2',
-					items: [
-					  {
-						label: 'Guides',
-						autogenerate: { directory: '/go2/guides' },
-					  },
-					  {
-						label: 'FAQ',
-						autogenerate: { directory: '/go2/faq' },
-					  },
-					],
-				  },
-				  // Air2的文档结构
-				{
-					label: 'INMO Air2',
-					items: [
-					  {
-						label: 'Guides',
-						autogenerate: { directory: '/air2/guides' },
-					  },
-					  {
-						label: 'FAQ',
-						autogenerate: { directory: '/air2/faq' },
-					  },
-					],
-				  },
-			  ],
+			// sidebar: [
+			// 	// Air3的文档结构
+			// 	{
+			// 	  label: 'INMO Air3',
+			// 	  items: [
+			// 		{
+			// 		  label: 'Guides',
+			// 		  autogenerate: { directory: '/air3/guides' },
+			// 		},
+			// 		{
+			// 		  label: 'FAQ',
+			// 		  autogenerate: { directory: '/air3/faq' },
+			// 		},
+			// 	  ],
+			// 	},
+			// 	// GO的文档结构
+			// 	{
+			// 	  label: 'INMO GO',
+			// 	  items: [
+			// 		{
+			// 		  label: 'Guides',
+			// 		  autogenerate: { directory: '/go/guides' },
+			// 		},
+			// 		{
+			// 		  label: 'FAQ',
+			// 		  autogenerate: { directory: '/go/faq' },
+			// 		},
+			// 	  ],
+			// 	},
+			// 	// GO2的文档结构
+			// 	{
+			// 		label: 'INMO GO2',
+			// 		items: [
+			// 		  {
+			// 			label: 'Guides',
+			// 			autogenerate: { directory: '/go2/guides' },
+			// 		  },
+			// 		  {
+			// 			label: 'FAQ',
+			// 			autogenerate: { directory: '/go2/faq' },
+			// 		  },
+			// 		],
+			// 	  },
+			// 	  // Air2的文档结构
+			// 	{
+			// 		label: 'INMO Air2',
+			// 		items: [
+			// 		  {
+			// 			label: 'Guides',
+			// 			autogenerate: { directory: '/air2/guides' },
+			// 		  },
+			// 		  {
+			// 			label: 'FAQ',
+			// 			autogenerate: { directory: '/air2/faq' },
+			// 		  },
+			// 		],
+			// 	  },
+			//   ],
 			expressiveCode: { shiki: { langs: [markdocGrammar] } },
 
 			plugins: [
-                // 现有的 starlightLinksValidator 插件
-                process.env.CHECK_LINKS
-                    ? starlightLinksValidator({
-                            errorOnFallbackPages: false,
-                            errorOnInconsistentLocale: true,
-                        })
-                    : [],
-                
-                // 2. 添加 starlightSidebarTopics 插件并配置
-                // ⚠️ 请在此处添加您的 Topics 配置 (如果有的话)
-                starlightSidebarTopics([
-                    // 这里放置插件的配置，例如：
-                    
-                    { 
-                        title: 'All Topics', 
-                        items: [
-                             // ...
-                        ] 
-                    }
-                    
-                ]),
-            ].flat(), // 使用 .flat() 来处理条件渲染导致的数组嵌套
+				// 现有的 starlightLinksValidator 插件
+				process.env.CHECK_LINKS
+					? starlightLinksValidator({
+						errorOnFallbackPages: false,
+						errorOnInconsistentLocale: true,
+					})
+					: [],
+
+				// 2. 添加 starlightSidebarTopics 插件并配置
+				// ⚠️ 请在此处添加您的 Topics 配置 (如果有的话)
+				starlightSidebarTopics([
+					// 这里放置插件的配置，例如：
+
+					{
+						title: 'INMO Air3', // 顶部下拉菜单的主题名称
+						items: [
+							{
+								label: 'INMO Air3',
+								link: '/air3/', // 指向该主题的起始页
+							},
+							{
+								label: 'INMO GO',
+								link: '/go/',
+							},
+							// ... 依此类推，列出所有主要产品主题
+						]
+					},
+
+				]),
+			].flat(), // 使用 .flat() 来处理条件渲染导致的数组嵌套
 			// 3. 添加 Sidebar 组件覆盖
-            components: {
-                Sidebar: './src/components/Sidebar.astro',
-            },
+			components: {
+				Sidebar: './src/components/Sidebar.astro',
+			},
 		}),
 	],
 });
