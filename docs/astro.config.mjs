@@ -22,7 +22,7 @@ const sidebarTopicsConfig = [
     {
         label: 'INMO Air3',
         icon: 'open-book',
-        link: '/air3/',
+        link: '/air3',
         items: [
 			{ label: 'Guides', autogenerate: { directory: 'air3/guides/' } },
 		],
@@ -30,7 +30,7 @@ const sidebarTopicsConfig = [
     {
         label: 'INMO GO',
 		icon: 'information',
-        link: '/go/',
+        link: '/go',
         items: [
 			{ label: 'Guides', autogenerate: { directory: 'go/guides/' } },
 		],
@@ -38,7 +38,7 @@ const sidebarTopicsConfig = [
 	{
         label: 'INMO GO2',
 		icon: 'information',
-        link: '/go2/',
+        link: '/go2',
         items: [
 			{ label: 'Guides', autogenerate: { directory: 'go2/guides/' } },
 		],
@@ -46,7 +46,7 @@ const sidebarTopicsConfig = [
 	{
         label: 'INMO Air2',
 		icon: 'information',
-        link: '/air2/',
+        link: '/air2',
         items: [
 			{ label: 'Guides', autogenerate: { directory: 'air2/guides/' } },
 		],
