@@ -181,7 +181,11 @@ export default defineConfig({
 								icon: 'open-book',
 								items: ['go/guides/quick-start', 'go/guides/features'],
 							},
-				]),
+				]
+				{
+					exclude: ['/getting-started/'],
+				}
+				),
 			].flat(), // 使用 .flat() 来处理条件渲染导致的数组嵌套
 			// 3. 添加 Sidebar 组件覆盖
 			components: {
