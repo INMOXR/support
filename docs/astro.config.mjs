@@ -44,7 +44,11 @@ const sidebarTopicsConfig = [
 		],
     },
 	{
-        label: 'INMO Air2',
+		id: 'air2',
+        label: {
+			en: 'INMO Air2',
+			'zh-cn': 'INMO Air2',
+		},
 		icon: 'information',
         link: '/air2/',
         items: [
