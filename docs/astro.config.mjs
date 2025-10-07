@@ -68,6 +68,7 @@ const starlightPlugins = [
 			'/components/*',
 			'/components/asides/',
 			'/404',
+			'/environmental-impact',
 			'/environmental-impact/*',
 		],
     }),
