@@ -169,7 +169,6 @@ export default defineConfig({
 							{
 								label: 'INMO Air3',
 								link: '/air3/',
-								icon: 'open-book',
 								// 插件要求 items 内部要么是 pages，要么是 topics，这里使用 pages
 								items: ['air3/guides/quick-start', 'air3/guides/desktop-management'],
 							},
@@ -178,7 +177,6 @@ export default defineConfig({
 							{
 								label: 'INMO GO',
 								link: '/go/',
-								icon: 'open-book',
 								items: ['go/guides/quick-start', 'go/guides/features'],
 							},
 				],
