@@ -108,6 +108,24 @@ export default defineConfig({
             customCss: ['./src/assets/landing.css'],
             locales,
             expressiveCode: { shiki: { langs: [markdocGrammar] } },
+			sidebar: [
+                {
+                  label: 'INMO Air3',
+                  autogenerate: { directory: '/air3/' }, // 使用自动生成简化配置
+                },
+                {
+                  label: 'INMO GO',
+                  autogenerate: { directory: '/go/' },
+                },
+                {
+                    label: 'INMO GO2',
+                    autogenerate: { directory: '/go2/' },
+                },
+                {
+                    label: 'INMO Air2',
+                    autogenerate: { directory: '/air2/' },
+                },
+            ],
             components: {
                 Sidebar: './src/components/Sidebar.astro',
             },
