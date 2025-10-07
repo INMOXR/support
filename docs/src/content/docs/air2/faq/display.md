@@ -1,6 +1,6 @@
 ---
 title: Display issues
-topic: INMO Air2
+
 description: INMO Air2 display issues and solutions
 sidebar:
   order: 1

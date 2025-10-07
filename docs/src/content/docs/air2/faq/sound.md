@@ -1,6 +1,6 @@
 ---
 title: Sound issues
-topic: INMO Air2
+
 description: INMO Air2 sound issues and solutions
 sidebar:
   order: 2
