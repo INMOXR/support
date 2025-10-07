@@ -8,7 +8,6 @@ import starlightSidebarTopics from 'starlight-sidebar-topics';
 
 export const locales = {
     root: { label: 'English', lang: 'en' },
-    'zh-cn': { label: '简体中文', lang: 'zh-CN' },
 };
 
 /* https://docs.netlify.com/configure-builds/environment-variables/#read-only-variables */
