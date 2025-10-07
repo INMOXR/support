@@ -1,6 +1,6 @@
 ---
 title: Quick Start
-
+topic: INMO GO
 description: INMO GO quick start guide.
 sidebar:
   order: 1

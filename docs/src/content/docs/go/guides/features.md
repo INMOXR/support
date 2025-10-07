@@ -1,5 +1,6 @@
 ---
 title: Features
+topic: INMO GO
 description: Discover the powerful features and capabilities of INMO GO AR Glasses, including real-time translation and hands-free operation
 sidebar:
   order: 2

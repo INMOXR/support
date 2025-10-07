@@ -1,5 +1,6 @@
 ---
 title: Desktop management
+topic: INMO Air3
 
 description: INMO Air3 desktop management
 sidebar:
