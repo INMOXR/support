@@ -185,6 +185,10 @@ export default defineConfig({
 			//   ],
 			expressiveCode: { shiki: { langs: [markdocGrammar] } },
 
+			components: {
+					Sidebar: './src/components/Sidebar.astro',
+				},
+
 			plugins: [
 				// 现有的 starlightLinksValidator 插件
 				process.env.CHECK_LINKS
@@ -199,10 +203,7 @@ export default defineConfig({
 				starlightSidebarTopics(sidebarTopicsConfig, {
 					exclude: ['/getting-started', '/getting-started/'],
 				}),
-				// 3. 添加 Sidebar 组件覆盖
-				components: {
-					Sidebar: './src/components/Sidebar.astro',
-				},
+			]
 		}),
 	],
 });
