@@ -62,7 +62,7 @@ const starlightPlugins = [
 			'/',
 			'/components',
 			'/components/*',
-			'/components/**/*',
+			'/components/asides/',
 			'/404',
 
 		],
