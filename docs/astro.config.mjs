@@ -20,16 +20,24 @@ const ogImageAlt = 'INMO Support Center';
 
 const sidebarTopicsConfig = [
     {
-        label: 'INMO Air3',
-        link: '/air3/',
-        icon: 'open-book',
-        items: ['air3/guides/quick-start', 'air3/guides/desktop-management'],
-    },
-    {
-        label: 'INMO GO',
-        link: '/go/',
-        icon: 'information',
-        items: ['go/guides/quick-start', 'go/guides/features'],
+        // 这个 label 会成为侧边栏下拉菜单的标题
+        label: 'INMO Products', 
+        
+        // 你原有的配置现在作为这个主题组的 items
+        items: [
+          {
+            label: 'INMO Air3',
+            link: '/air3/',
+            icon: 'open-book',
+            items: ['air3/guides/quick-start', 'air3/guides/desktop-management'],
+          },
+          {
+            label: 'INMO GO',
+            link: '/go/',
+            icon: 'information',
+            items: ['go/guides/quick-start', 'go/guides/features'],
+          },
+        ],
     },
 ];
 
