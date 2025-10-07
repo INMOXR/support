@@ -116,9 +116,9 @@ export default defineConfig({
             customCss: ['./src/assets/landing.css'],
             locales,
             expressiveCode: { shiki: { langs: [markdocGrammar] } },
-            components: {
-                Sidebar: './src/components/Sidebar.astro',
-            },
+            // components: {
+            //     Sidebar: './src/components/Sidebar.astro',
+            // },
 
             // 3. 在这里使用我们刚刚创建的 starlightPlugins 数组
             plugins: starlightPlugins,
