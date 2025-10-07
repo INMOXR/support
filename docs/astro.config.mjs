@@ -20,35 +20,24 @@ const ogImageAlt = 'INMO Support Center';
 
 // astro.config.mjs 中 plugins 数组的正确配置
 const sidebarTopicsConfig = [
-	{
-		// 🚨 顶级主题对象，用于命名下拉菜单的主题
-		title: 'INMO Products',
+    {
+        title: 'INMO Products', 
+        items: [
+            // 🚨 顶层链接：您的产品首页
+            { label: 'INMO Air3 Home', link: '/air3/' },
+            { label: 'INMO GO Home', link: '/go/' },
 
-		items: [
-			// Air3 作为一个主题项
-			{
-				label: 'INMO Air3',
-				link: '/air3/',
-				// 注意：这里 items 内部的结构可能需要简化，
-				// 确保它只包含 pages 路径字符串
-				items: [
-					'air3/guides/quick-start',
-					'air3/guides/desktop-management',
-				],
-			},
-			// GO 作为一个主题项
-			{
-				label: 'INMO GO',
-				link: '/go/',
-				items: [
-					'go/guides/quick-start',
-					'go/guides/features'
-				],
-			},
-			// ... 您可以在这里添加其他主题项
-		],
-	},
-	// ... 可以有第二个主题，如果需要
+            // 🚨 接着是 Air3 的所有子页面（不使用嵌套的 items）
+            { label: 'Air3 Quick Start', link: 'air3/guides/quick-start' },
+            { label: 'Air3 Desktop Mgmt', link: 'air3/guides/desktop-management' },
+            
+            // 🚨 接着是 GO 的所有子页面
+            { label: 'GO Quick Start', link: 'go/guides/quick-start' },
+            { label: 'GO Features', link: 'go/guides/features' },
+            
+            // ... 您可以在这里添加其他所有文档页
+        ],
+    },
 ];
 
 export default defineConfig({
