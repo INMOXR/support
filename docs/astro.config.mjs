@@ -165,34 +165,22 @@ export default defineConfig({
 				// ⚠️ 请在此处添加您的 Topics 配置 (如果有的话)
 				starlightSidebarTopics([
 					// 这里放置插件的配置，例如：
-
-					{
-						// 🚨 顶层的主题对象必须有一个 title 属性
-						title: 'Product Documentation', // 假设您所有的产品文档属于这个主题
-						items: [
-							// 🚨 确保您的首页或“未归类”页面也在这里
-							{ label: 'Introduction', link: '/' }, // 假设您的 index.mdx 对应根目录
-
 							// 您原有的 INMO Air3 分组，现在作为主题的 items 之一
 							{
 								label: 'INMO Air3',
 								link: '/air3/',
+								icon: 'open-book'
 								// 插件要求 items 内部要么是 pages，要么是 topics，这里使用 pages
-								autogenerate: { directory: '/air3' }, // 直接指向目录让 Starlight 自动生成
+								items: ['guides/quick-start', 'guides/desktop-management'],
 							},
 
 							// INMO GO 分组
 							{
 								label: 'INMO GO',
 								link: '/go/',
-								autogenerate: { directory: '/go' },
+								icon: 'open-book'
+								items: ['guides/quick-start', 'guides/features'],
 							},
-
-							// 插件只处理主题归类，侧边栏本身的 autogenerate 应该留在 Starlight 的 sidebar 配置中
-							// 这里的 items 应该是 link 和 label 的列表，而不是 autogenerate 配置
-						],
-					},
-
 				]),
 			].flat(), // 使用 .flat() 来处理条件渲染导致的数组嵌套
 			// 3. 添加 Sidebar 组件覆盖
