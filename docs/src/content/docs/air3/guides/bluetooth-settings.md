@@ -1,6 +1,6 @@
 ---
 title: Bluetooth settings
-topic: INMO Air3
+
 description: How to connect other devices through bluetooth in INMO Air3
 sidebar:
   order: 7

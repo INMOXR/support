@@ -1,6 +1,6 @@
 ---
 title: Screen mirroring
-topic: INMO Air3
+
 description: INMO Air3 screen mirroring.
 sidebar:
   order: 4

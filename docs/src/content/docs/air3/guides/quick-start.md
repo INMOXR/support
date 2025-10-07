@@ -1,6 +1,5 @@
 ---
 title: Quick Start
-topic: INMO Air3
 
 description: INMO Air3 quick start guide.
 sidebar:

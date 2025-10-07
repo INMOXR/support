@@ -1,6 +1,6 @@
 ---
 title: Screen Mirroring
-topic: INMO Air2
+
 description: How to mirror other device in INMO Air2
 sidebar:
   order: 6

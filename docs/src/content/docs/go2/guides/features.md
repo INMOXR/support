@@ -1,6 +1,6 @@
 ---
 title: Features
-topic: INMO GO2
+
 description: Explore INMO GO2's advanced features including AI-powered translation, smart note-taking, and lightweight design with 2000 Nits display.
 sidebar:
   order: 2
