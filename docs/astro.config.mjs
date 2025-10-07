@@ -20,24 +20,18 @@ const ogImageAlt = 'INMO Support Center';
 
 // astro.config.mjs 中 plugins 数组的正确配置
 const sidebarTopicsConfig = [
-    {
-        title: 'INMO Products', 
-        items: [
-            // 🚨 顶层链接：您的产品首页
-            { label: 'INMO Air3 Home', link: '/air3/' },
-            { label: 'INMO GO Home', link: '/go/' },
-
-            // 🚨 接着是 Air3 的所有子页面（不使用嵌套的 items）
-            { label: 'Air3 Quick Start', link: 'air3/guides/quick-start' },
-            { label: 'Air3 Desktop Mgmt', link: 'air3/guides/desktop-management' },
-            
-            // 🚨 接着是 GO 的所有子页面
-            { label: 'GO Quick Start', link: 'go/guides/quick-start' },
-            { label: 'GO Features', link: 'go/guides/features' },
-            
-            // ... 您可以在这里添加其他所有文档页
-        ],
-    },
+	{
+            label: 'INMO Air3',
+			link: '/air3/',
+			icon: 'open-book',
+			items: ['air3/guides/quick-start', 'air3/guides/desktop-management'],
+          },
+          {
+            label: 'INMO GO',
+            link: '/go/',
+            icon: 'information',
+            items: ['go/guides/quick-start', 'go/guides/features'],
+          },
 ];
 
 export default defineConfig({
