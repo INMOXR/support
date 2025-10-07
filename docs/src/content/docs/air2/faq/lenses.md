@@ -1,6 +1,6 @@
 ---
 title: Lenses and optic issues
-
+topic: INMO Air2
 description: INMO Air2 lenses&optic issues and solutions
 sidebar:
   order: 3

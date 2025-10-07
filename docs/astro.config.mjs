@@ -49,6 +49,7 @@ const sidebarTopicsConfig = [
         link: '/air2',
         items: [
 			{ label: 'Guides', autogenerate: { directory: 'air2/guides/' } },
+			{ label: 'FAQs', autogenerate: { directory: 'air2/faq/' } },
 		],
     },
 ];
