@@ -1,6 +1,6 @@
 ---
 title: Touchpad guide
-
+topic: INMO Air3
 description: INMO Air3 touchpad device user guide
 sidebar:
   order: 5

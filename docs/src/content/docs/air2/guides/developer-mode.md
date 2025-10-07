@@ -1,6 +1,6 @@
 ---
 title: Developer Mode
-
+topic: INMO Air2
 description: How to Enable Developer Mode on INMO Air2
 sidebar:
   order: 1

@@ -1,5 +1,6 @@
 ---
 title: Custom Flat Lenses
+topic: INMO GO
 description: INMO custom flat lenses with essilor for INMO GO AR glasses.
 sidebar:
   order: 1

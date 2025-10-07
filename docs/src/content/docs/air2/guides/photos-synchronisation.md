@@ -1,6 +1,6 @@
 ---
 title: Photos synchronisation
-
+topic: INMO Air2
 description: How to sync INMO Air2's photos
 sidebar:
   order: 5

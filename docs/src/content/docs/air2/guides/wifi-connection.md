@@ -1,6 +1,6 @@
 ---
 title: Wifi Connection
-
+topic: INMO Air2
 description: How to connect wifi and your phone's hotspot in INMO Air2
 sidebar:
   order: 2

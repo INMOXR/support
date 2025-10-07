@@ -1,6 +1,6 @@
 ---
 title: Ring control guide
-
+topic: INMO Air3
 description: INMO Air3 ring control user guide
 sidebar:
   order: 6

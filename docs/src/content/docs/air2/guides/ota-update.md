@@ -1,6 +1,6 @@
 ---
 title: OTA Update
-
+topic: INMO Air2
 description: How to OTA/update your INMO Air2
 sidebar:
   order: 3

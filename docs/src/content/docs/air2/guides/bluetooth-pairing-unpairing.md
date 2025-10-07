@@ -1,6 +1,6 @@
 ---
 title: Bluetooth Pairing/Unpairing
-
+topic: INMO Air2
 description: How to connect other device through bluetooth in INMO Air2
 sidebar:
   order: 4
