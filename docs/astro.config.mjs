@@ -50,7 +50,7 @@ const sidebarTopicsConfig = [
 const starlightPlugins = [
     // 将 starlightSidebarTopics 插件加进去
     starlightSidebarTopics(sidebarTopicsConfig, {
-        exclude: ['/getting-started', '/getting-started/', '/components', '/components/'],
+        exclude: [ '/components', '/components/*'],
     }),
 ];
 
