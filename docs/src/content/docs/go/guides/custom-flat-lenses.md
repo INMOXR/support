@@ -3,7 +3,7 @@ title: Custom Flat Lenses
 
 description: INMO custom flat lenses with essilor for INMO GO AR glasses.
 sidebar:
-  order: 1
+  order: 5
 ---
 Concave lenses and flat lenses share the same concept but are named differently. Both have a purely flat front surface and a rear surface with an S360 optical design. This design enhances the optical performance of the flat lens to better meet the eye's needs and ensures a perfect fit with the flat waveguide. Below is a comparison chart of conventional lenses and concave lenses.
 
