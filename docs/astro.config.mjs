@@ -31,6 +31,18 @@ const sidebarTopicsConfig = [
         icon: 'information',
         items: ['go/guides/quick-start', 'go/guides/features'],
     },
+	{
+        label: 'INMO GO2',
+        link: '/go2/',
+        icon: 'information',
+        items: ['go2/guides/quick-start', 'go/guides/features'],
+    },
+	{
+        label: 'INMO Air2',
+        link: '/air2/',
+        icon: 'information',
+        items: ['air2/guides/developer-mode', 'air2/guides/ota-update'],
+    },
 ];
 
 // --- 修改开始 ---
