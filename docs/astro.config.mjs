@@ -171,7 +171,7 @@ export default defineConfig({
 								link: '/air3/',
 								icon: 'open-book',
 								// 插件要求 items 内部要么是 pages，要么是 topics，这里使用 pages
-								items: ['guides/quick-start', 'guides/desktop-management'],
+								items: ['air3/guides/quick-start', 'air3/guides/desktop-management'],
 							},
 
 							// INMO GO 分组
@@ -179,7 +179,7 @@ export default defineConfig({
 								label: 'INMO GO',
 								link: '/go/',
 								icon: 'open-book',
-								items: ['guides/quick-start', 'guides/features'],
+								items: ['go/guides/quick-start', 'go/guides/features'],
 							},
 				]),
 			].flat(), // 使用 .flat() 来处理条件渲染导致的数组嵌套
