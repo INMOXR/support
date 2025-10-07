@@ -183,7 +183,7 @@ export default defineConfig({
 							},
 				],
 				{
-					exclude: ['/getting-started/'],
+					exclude: ['/getting-started'],
 				},
 				),
 			].flat(), // 使用 .flat() 来处理条件渲染导致的数组嵌套
