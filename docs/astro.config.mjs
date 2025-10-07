@@ -21,27 +21,35 @@ const ogImageAlt = 'INMO Support Center';
 const sidebarTopicsConfig = [
     {
         label: 'INMO Air3',
-        link: '/air3/',
         icon: 'open-book',
-        items: ['air3/guides/quick-start', 'air3/guides/desktop-management'],
+        link: '/air3/',
+        items: [
+			{ label: 'Guides', autogenerate: { directory: 'air3/guides/' } },
+		],
     },
     {
         label: 'INMO GO',
+		icon: 'information',
         link: '/go/',
-        icon: 'information',
-        items: ['go/guides/quick-start', 'go/guides/features'],
+        items: [
+			{ label: 'Guides', autogenerate: { directory: 'go/guides/' } },
+		],
     },
 	{
         label: 'INMO GO2',
+		icon: 'information',
         link: '/go2/',
-        icon: 'information',
-        items: ['go2/guides/quick-start', 'go/guides/features'],
+        items: [
+			{ label: 'Guides', autogenerate: { directory: 'go2/guides/' } },
+		],
     },
 	{
         label: 'INMO Air2',
+		icon: 'information',
         link: '/air2/',
-        icon: 'information',
-        items: ['air2/guides/developer-mode', 'air2/guides/ota-update'],
+        items: [
+			{ label: 'Guides', autogenerate: { directory: 'air2/guides/' } },
+		],
     },
 ];
 
@@ -108,24 +116,6 @@ export default defineConfig({
             customCss: ['./src/assets/landing.css'],
             locales,
             expressiveCode: { shiki: { langs: [markdocGrammar] } },
-			sidebar: [
-                {
-                  label: 'INMO Air3',
-                  autogenerate: { directory: '/air3/' }, // 使用自动生成简化配置
-                },
-                {
-                  label: 'INMO GO',
-                  autogenerate: { directory: '/go/' },
-                },
-                {
-                    label: 'INMO GO2',
-                    autogenerate: { directory: '/go2/' },
-                },
-                {
-                    label: 'INMO Air2',
-                    autogenerate: { directory: '/air2/' },
-                },
-            ],
             components: {
                 Sidebar: './src/components/Sidebar.astro',
             },
