@@ -18,6 +18,39 @@ const site = NETLIFY_PREVIEW_SITE || 'https://support.inmoxr.com';
 const ogUrl = new URL('inmo-support.jpg', site).href;
 const ogImageAlt = 'INMO Support Center';
 
+// astro.config.mjs 中 plugins 数组的正确配置
+const sidebarTopicsConfig = [
+	{
+		// 🚨 顶级主题对象，用于命名下拉菜单的主题
+		title: 'INMO Products',
+
+		items: [
+			// Air3 作为一个主题项
+			{
+				label: 'INMO Air3',
+				link: '/air3/',
+				// 注意：这里 items 内部的结构可能需要简化，
+				// 确保它只包含 pages 路径字符串
+				items: [
+					'air3/guides/quick-start',
+					'air3/guides/desktop-management',
+				],
+			},
+			// GO 作为一个主题项
+			{
+				label: 'INMO GO',
+				link: '/go/',
+				items: [
+					'go/guides/quick-start',
+					'go/guides/features'
+				],
+			},
+			// ... 您可以在这里添加其他主题项
+		],
+	},
+	// ... 可以有第二个主题，如果需要
+];
+
 export default defineConfig({
 	site,
 	trailingSlash: 'always',
@@ -163,32 +196,13 @@ export default defineConfig({
 
 				// 2. 添加 starlightSidebarTopics 插件并配置
 				// ⚠️ 请在此处添加您的 Topics 配置 (如果有的话)
-				starlightSidebarTopics([
-					// 这里放置插件的配置，例如：
-							// 您原有的 INMO Air3 分组，现在作为主题的 items 之一
-							{
-								label: 'INMO Air3',
-								link: '/air3/',
-								// 插件要求 items 内部要么是 pages，要么是 topics，这里使用 pages
-								items: ['air3/guides/quick-start', 'air3/guides/desktop-management'],
-							},
-
-							// INMO GO 分组
-							{
-								label: 'INMO GO',
-								link: '/go/',
-								items: ['go/guides/quick-start', 'go/guides/features'],
-							},
-				],
-				{
+				starlightSidebarTopics(sidebarTopicsConfig, {
 					exclude: ['/getting-started', '/getting-started/'],
+				}),
+				// 3. 添加 Sidebar 组件覆盖
+				components: {
+					Sidebar: './src/components/Sidebar.astro',
 				},
-				),
-			].flat(), // 使用 .flat() 来处理条件渲染导致的数组嵌套
-			// 3. 添加 Sidebar 组件覆盖
-			components: {
-				Sidebar: './src/components/Sidebar.astro',
-			},
 		}),
 	],
 });
