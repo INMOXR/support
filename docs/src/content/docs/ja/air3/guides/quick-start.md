@@ -1,12 +1,12 @@
 ---
-title: Quick Start
+title: クイックスタート
 
-description: INMO Air3 quick start guide.
+description: INMO Air3 クイックスタートガイド.
 sidebar:
   order: 1
 ---
 
-## 1. Product Overview
+## 1. 製品概要
 
 ![](public/images/air3/quick-start-1.jpg)
 
@@ -14,100 +14,100 @@ sidebar:
 
 ![](public/images/air3/quick-start-3.jpg)
 
-## 2. Operation Guide
+## 2. 操作ガイド
 
 ![](public/images/air3/quick-start-4.png)
 
 ![](public/images/air3/quick-start-5.png)
 
-## 3. Interactive Ring
+## 3. インタラクティブリング
 
 ![](public/images/air3/quick-start-6.png)
 
-## 4. Start
+## 4. 開始
 
-#### Step1 Power on
+#### ステップ1 電源を入れる
 
-Long press the power button for 2s until the blue light turns on.
+電源ボタンを2秒長押しし、青いランプが点灯するまで待ちます。  
 
 ![](public/images/air3/quick-start-7.png)
 
-#### Step2 Wear and adjust
+#### ステップ2 装着と調整
 
-Fine-tune the glasses and nose pads for comfort.
+快適になるようにメガネとノーズパッドを微調整してください。  
 
-Tip: lf uncomfortable, replace the nose pad with a suitable size.
+ヒント: 快適でない場合は、適切なサイズのノーズパッドに交換してください。 
 
 ![](public/images/air3/quick-start-8.png)
 
-#### Step3 Follow on-screen instructions
+#### ステップ3 画面の指示に従う 
 
-Use the right touchpad or ring for setup and network activation.
+セットアップとネットワークの有効化は、右側のタッチパッドまたはリングを使用して行ってください。 
 
 ![](public/images/air3/quick-start-9.png)
 
-## 5. Power LED Indicators
+## 5. 電源LEDインジケーター
 
-#### Glasses
+#### メガネ
 
-Tip: Use a 5V/1A charger. Fully charge before first use.
+ヒント: 5V/1Aの充電器を使用してください。初回使用前に完全に充電してください。  
 
 ![](public/images/air3/quick-start-10.png)
 
-#### Ring
+#### リング
 
 ![](public/images/air3/quick-start-11.png)
 
-## Prohibited Actions
+## 禁止事項
 
 ![](public/images/air3/quick-start-12.png)
 
-## Beginning Guide
+## はじめに
 
-### Part 1 - Select language
+### ステップ 1 - 言語を選択
 
-① Select Language: Scroll up or down on the right temple's touch control to choose your desired language.
+① 言語の選択: 右側のテンプルにあるタッチ操作で上下にスクロールして、希望する言語を選択します。
 
-② Once your selection is complete, swipe the touch control to proceed to the next step. Then, tap the touch control to access the "User Agreement and Privacy Policy."
+② 選択が完了したら、次のステップに進むためにタッチ操作でスワイプします。その後、タッチして「利用規約およびプライバシーポリシー」にアクセスします。  
 
 ![](public/images/air3/quick-start-13.jpg)
 
 ![](public/images/air3/quick-start-14.jpg)
 
-### Part 2 - Agreement
+### ステップ 2 - 同意
 
-③ User Agreement and Privacy Policy: Scroll up or down on the right temple's touch control to view the User Agreement and Privacy Policy.
+③ 利用規約およびプライバシーポリシー: 右側テンプルのタッチ操作で上下にスクロールして、利用規約とプライバシーポリシーを確認します。  
 
-④ Swipe left or right on the right temple's touch control to select between "Reture" and "Agree." Tap "Agree" to proceed to "Peripheral Pairing."
+④ 右側テンプルのタッチ操作で左右にスワイプして「戻る」と「同意」を選択します。「同意」をタップして「周辺機器のペアリング」へ進みます。  
 
 ![](public/images/air3/quick-start-15.jpg)
 
 ![](public/images/air3/quick-start-16.jpg)
 
-### Part 3 - Pairing ring control and touchpad device
+### ステップ 3 - リングとタッチパッドのペアリング
 
-⑤ Peripheral Pairing: Connect the "Ring" or "Touchpad." Once connected successfully, it will automatically proceed to "Ring Interaction Instructions" (if a Touchpad is connected, it will redirect to "Touchpad Interaction Instructions").
+⑤ 周辺機器のペアリング: 「リング」または「タッチパッド」を接続します。接続が成功すると、自動的に「リング操作説明」へ進みます（タッチパッドを接続した場合は「タッチパッド操作説明」にリダイレクトされます）。
 
-⑥ If you choose not to pair the "Ring" or "Touchpad" at this time, you can connect them later under "Desktop" - "Peripheral Management." Tap "Next" to proceed to "Ring Basic Interaction Instructions."
+⑥ 現時点で「リング」または「タッチパッド」をペアリングしない場合は、後で「Desktop」-「Peripheral Management」から接続できます。「次へ」をタップして「リング基本操作説明」へ進んでください。  
 
 ![](public/images/air3/quick-start-17.jpg)
 
 ![](public/images/air3/quick-start-18.jpg)
 
-### Part 4 - Familar with ring control
+### Part 4 - リング操作に慣れる 
 
-⑦ Ring Basic Interaction Instructions: Access "Ring Basic Interaction Instructions" and review the Ring interaction instructions. Tap "Next" to test the Ring's connectivity.
+⑦ リング基本操作説明: 「リング基本操作説明」にアクセスして、リングの操作方法を確認します。「次へ」をタップしてリングの接続テストを行います。  
 
-⑧ Testing and Exiting: Within the current window, users can single-tap the central square using the Ring to verify its proper function. Once the test is complete, tap "End New User Guide" to exit.
+⑧ テストと終了: 現在のウィンドウ内で、リングを使って中央の四角をシングルタップし、正常に動作するか確認できます。テストが完了したら「新規ユーザーガイドを終了」をタップして終了します。  
 
 ![](public/images/air3/quick-start-19.jpg)
 
 ![](public/images/air3/quick-start-20.jpg)
 
-### Part 5 - Power on/off and restart your glasses
+### Part 5 -  電源のオン/オフと再起動
 
-① Power Off/Restart: While the device is powered on, press and hold the power button on the temple for 3 seconds to display the power options menu. Swipe the touchpad to select "Shut down" or "Restart."
+① 電源オフ/再起動: デバイスの電源が入っている状態で、テンプルの電源ボタンを3秒間長押しすると電源オプションメニューが表示されます。タッチパッドをスワイプして「シャットダウン」または「再起動」を選択します。
 
-② Force Restart: To force restart the smart glasses, press and hold the power button for approximately 10 seconds.
+② 強制再起動: スマートグラスを強制再起動するには、電源ボタンを約10秒間長押しします。 
 
 ![](public/images/air3/quick-start-21.jpg)
