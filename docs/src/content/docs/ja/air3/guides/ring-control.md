@@ -5,10 +5,10 @@ sidebar:
   order: 6
 ---
 
-## Part 1 Ring Indicator Light
+## パート 1 リングのインジケーターライト
 
-The follow~~i~~ng table shows the correspondence between indicator lights and their statuses.
-The ring is paired successfully, and the indicator light turns off.
+以下の表はインジケーターライトとその状態の対応を示します。
+リングが正常にペアリングされるとインジケーターライトは消灯します。  
 
 ![]()
 
@@ -16,52 +16,53 @@ The ring is paired successfully, and the indicator light turns off.
 
 ![](public/images/air3/ring-2.png)
 
-## Part 2 Basic Interaction Instruction
+## パート 2 基本操作説明
 
 ![](public/images/air3/ring-3.png)
 
-## Part 3 Ring Pairing
+## パート 3 リングのペアリング
 
-First Connection of the Ring
+リングの初回接続 
 
-1. Follow the new user guide to connect the ring. After long-pressing the ring's power button to turn it on, the ring's blue light flashes, and the ring enters the scanning and pairing process. When the pairing is successful, the indicator light turns off.
+1. 新規ユーザーガイドに従ってリングを接続します。リングの電源ボタンを長押しして電源を入れると、リングの青色ランプが点滅し、スキャンおよびペアリングの状態になります。ペアリングが成功するとインジケーターライトは消灯します。  
 
 ![](public/images/air3/ring-4.png)
 
 
 
-* If you skip the new user guide and don't connect the ring, go to the glasses desktop -> Peripheral Management -> Click and search.
+* 新規ユーザーガイドをスキップしてリングを接続していない場合は、メガネのデスクトップ -> 周辺機器管理 -> タップして検索してください。  
 
 ![](public/images/air3/ring-5.png)
 
-* Then you can find the "INMO Ring 3" device, and click to connect.
+* すると「INMO Ring 3」デバイスが表示されるので、タップして接続します。  
 
 ![](public/images/air3/ring-6.png)
 
-**Note:**
+**注意：**
 
-1. If the ring disconnects during use, it will automatically reconnect.
+1. 使用中にリングが切断された場合、自動的に再接続されます。
 
-2. If the automatic reconnection fails, go to the glasses desktop -> Peripheral Management -> **tap** "INMO Ring 3" to connect.
+2. 自動再接続が失敗する場合は、メガネのデスクトップ -> 周辺機器管理 -> 「INMO Ring 3」を**タップ**して接続してください。  
 
-3. If the connection fails repeatedly, you can first unbind the ring on the "Peripheral Management" page.
+3. 接続が繰り返し失敗する場合は、まず「周辺機器管理」ページでリングのペアリングを解除してください。 
 
 ![](public/images/air3/ring-7.png)
 
-* Long-press the ring's power button to turn it off, then long-press both the power button and function button to turn it on (reset).
+* リングの電源ボタンを長押しして電源を切り、その後電源ボタンとファンクションボタンの両方を長押しして電源を入れる（リセット）操作を行います。  
 
 ![](public/images/air3/ring-8.png)
 
-Wait until the ring's blue light flashes rapidly.
+リングの青色ランプが高速に点滅するまで待ちます。  
 
 ![](public/images/air3/ring-9.jpg)
 
-* Go to the glasses desktop -> Peripheral Management -> tap and search, then you'll find the "INMO Ring 3" device. Tap to connect.
+* メガネのデスクトップ -> 周辺機器管理 -> タップして検索、すると「INMO Ring 3」デバイスが表示されるのでタップして接続します。  
+  
 
+## パート 4  リングのキャリブレーション
 
-## Part 4  Ring Indicator Light
-
-Long-press the function key on the ring to calibrate the cursor/ray to the center of the screen.Note: The ray function can only be used when entering \[Spatial Multi-Screen/Discovery]
+リングのファンクションキーを長押しすると、カーソル／レイ（ポインター）を画面中央にキャリブレーションできます。  
+注: レイ機能はに入ったときのみ使用できます。   \[Spatial Multi-Screen/Discovery]
 
 ![](public/images/air3/ring-10.png)
 
