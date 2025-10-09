@@ -1,12 +1,12 @@
 ---
-title: Bluetooth settings
+title: Bluetooth設定
 
-description: How to connect other devices through bluetooth in INMO Air3
+description: inmo air3でbluetooth経由で他のデバイスを接続する方法
 sidebar:
   order: 7
 ---
 
-### Part 1 Connect bluetooth speaker
+### パート1 bluetoothスピーカーを接続します
 
 > Taking the HM11 Bluetooth Speaker as an Example
 

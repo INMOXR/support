@@ -71,8 +71,8 @@ sidebar:
 ![](public/images/air3/inmo-touchpad-user-manual-11.png)
 
 * Home Key
-  Short press: Return to the home screen
-  Long press: activate the voice assistant
+Short press: Return to the home screen
+Long press: activate the voice assistant
 
 ![](public/images/air3/inmo-touchpad-user-manual-12.png)
 
@@ -91,11 +91,11 @@ sidebar:
 ![](public/images/air3/inmo-touchpad-user-manual-14.png)
 
 ③Slide along the side edge
-&#x20;  Scrolls pages up and down or switches between short videos.
+Scrolls pages up and down or switches between short videos.
 ④Slide along the top edge
-&#x20;  Slides pages or categories left and right.
+Slides pages or categories left and right.
 ⑤Fn + Slide along the side edge
-&#x20;  Press and hold the Fn key, then slide the left or right side to adjust screen brightness.
+Press and hold the Fn key, then slide the left or right side to adjust screen brightness.
 
 ![](public/images/air3/inmo-touchpad-user-manual-15.png)
 
