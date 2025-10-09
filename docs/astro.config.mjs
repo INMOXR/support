@@ -8,6 +8,7 @@ import starlightSidebarTopics from 'starlight-sidebar-topics';
 
 export const locales = {
     root: { label: 'English', lang: 'en' },
+    'ja': { label: '日本語', lang: 'ja' },
 };
 
 /* https://docs.netlify.com/configure-builds/environment-variables/#read-only-variables */
@@ -67,8 +68,6 @@ const starlightPlugins = [
 			'/components/*',
 			'/components/asides/',
 			'/404',
-			'/environmental-impact',
-			'/environmental-impact/*',
 		],
     }),
 ];
@@ -89,7 +88,10 @@ export default defineConfig({
     trailingSlash: 'always',
     integrations: [
         starlight({
-            title: 'INMO Support Center',
+            title: {
+                default: 'INMO Support Center',
+                'ja': 'INMO サポートセンター',
+            },
             defaultLocale: 'root',
             favicon: '/inmo-logo-black.svg',
             logo: {
