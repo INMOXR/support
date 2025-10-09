@@ -89,7 +89,7 @@ export default defineConfig({
     integrations: [
         starlight({
             title: {
-                default: 'INMO Support Center',
+                'en': 'INMO Support Center',
                 'ja': 'INMO サポートセンター',
             },
             defaultLocale: 'root',
