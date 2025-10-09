@@ -6,29 +6,29 @@ sidebar:
   order: 3
 ---
 
-### Part 1 - Manage files in glasses
+### パート1 - スマートグラス内のファイル管理
 
-On the smart glasses, tap "Files" to access the File Management page. Users can perform the following operations:
+スマートグラスで「ファイル」をタップしてファイル管理ページにアクセスします。ユーザーは以下の操作を行うことができます：  
 
-* View Files: All files and folders will be displayed in either a list or grid (icon) view. Tap a folder to open it and view its contents.
+* ファイルの表示: すべてのファイルとフォルダはリスト表示またはグリッド（アイコン）表示で表示されます。フォルダをタップすると開いて中身を確認できます。  
 
-* Create Folders: Tap the "New" button in the top-right corner of the prompt box. This button allows you to create new folders.
+* フォルダの作成: 画面右上のプロンプトボックスにある「新規」ボタンをタップして、新しいフォルダを作成できます。 
 
-* Move/Copy Files: Press and hold a file. From the prompt box in the top-right, tap the "Move to" or "Copy" options to easily reorganize your files.
+* ファイルの移動/コピー: ファイルを長押しします。画面右上のプロンプトボックスから「移動先」または「コピー」をタップして、ファイルの整理を簡単に行えます。  
 
-* Delete Files: After pressing and holding to select files, tap the "Delete" icon. This action helps to free up storage space.
+* ファイルの削除: ファイルを長押しして選択した後、「削除」アイコンをタップします。これによりストレージを解放できます。  
 
-Note: The file management features on the smart glasses currently support control exclusively via the Touchpad and Ring.
+注: スマートグラスのファイル管理機能は現在、タッチパッドとリングによる操作のみをサポートしています。  
 
 ![](public/images/air3/file-management-1.png)
 
 ![](public/images/air3/file-management-2.png)
 
-### Part 2 - Manage glasses's files with your computer
+### パート2 - コンピューターでスマートグラスのファイルを管理する  
 
-① Users can manage files by connecting the smart glasses to a computer using the official AIR3 USB data cable.
+① ユーザーは公式の AIR3 USB データケーブルを使用してスマートグラスをコンピューターに接続し、ファイルを管理できます。  
 
-② Once the smart glasses are connected to a computer via USB, locate either "IMA301" or "Internal Shared Storage" in "This PC" (or "My Computer") on your computer. You can then proceed to manage the files stored within the smart glasses.
+② スマートグラスをUSBでコンピューターに接続すると、コンピューターの「This PC」（または「My Computer」）内に表示される "IMA301" または "Internal Shared Storage" を開いて、スマートグラス内に保存されているファイルを管理できます。
 
 ![](public/images/air3/file-management-3.png)
 
