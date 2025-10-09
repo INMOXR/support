@@ -61,7 +61,7 @@ Wait until the ring's blue light flashes rapidly.
 
 Long-press the function key on the ring to calibrate the cursor/ray to the center of the screen.Note: The ray function can only be used when entering \[Spatial Multi-Screen/Discovery]
 
-![](public/images/air3/ring-9.png)
+![](public/images/air3/ring-9.jpg)
 
 
 
