@@ -6,31 +6,32 @@ sidebar:
   order: 2
 ---
 
-### Part 1 - Desktop overview
+### パート1 - デスクトップの概要 
 
-① On the Desktop, the Quick App Bar is displayed at the bottom. From left to right, it features: App Library, Frequently Used Apps, and Recent Apps.
+① デスクトップの下部にクイックアプリバーが表示されます。左から右へ、App Library（アプリライブラリ）、よく使うアプリ、最近のアプリが並んでいます。  
 
-② Below the Quick App Bar, the Status Bar displays the current time, Wi-Fi connection status, battery level, and provides access to the Control Center, Notification Center, and Background Cleanup functions.
+② クイックアプリバーの下にあるステータスバーは、現在時刻、Wi‑Fi接続状況、バッテリー残量を表示し、コントロールセンター、通知センター、バックグラウンドクリーンアップへのアクセスを提供します。
 
 ![](public/images/air3/desktop-management-1.png)
 
 ![](public/images/air3/desktop-management-2.jpg)
 
-### Part 2 - Show all apps
+### パート2 - すべてのアプリを表示
 
-① From the Desktop, navigate to the App Library. Select your desired app, then press and hold the center of the Touchpad or the Ring touch area.
+① デスクトップからApp Library（アプリライブラリ）に移動します。目的のアプリを選択して、Touchpadの中央またはRingのタッチ領域を長押しします。  
+  
 
-② Once an app is selected and long-pressed, you can perform actions such as moving or uninstalling the app. (Uninstall functionality is limited to user-downloaded applications only.)
+② アプリを選択して長押しすると、アプリの移動やアンインストールなどの操作が可能になります。（アンインストールはユーザーがダウンロードしたアプリにのみ対応します。）
 
-Note: Each page of the App Library supports a layout of 4-5-4 applications. Apps exceeding this number will be automatically moved to the next available space on the following page.
+注意: App Libraryの各ページは4-5-4のレイアウトをサポートしています。これを超えるアプリは自動的に次ページの空きスペースへ移動します。  
 
 ![](public/images/air3/desktop-management-3.jpg)
 
-## App Store
+## アプリストア
 
-① Users can navigate to Desktop > App Library > App Store to download and experience INMO's officially recommended applications.
+① ユーザーは Desktop > App Library > App Store に移動して、INMOが公式に推奨するアプリをダウンロードして体験できます。  
 
-② Other Apps: Alternatively, users can access Yingyongbao (App Treasure) to independently download other applications of interest.
+② その他のアプリ: または、Yingyongbao（App Treasure）にアクセスして、興味のある他のアプリをユーザー自身でダウンロードすることもできます。  
 
 ![](public/images/air3/desktop-management-4.png)
 
