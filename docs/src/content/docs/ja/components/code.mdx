@@ -1,12 +1,12 @@
 ---
-title: Code
-description: Learn how to display syntax highlighted code in Starlight without Markdown code blocks.
+title: コード
+description: StarlightでMarkdownのコードブロックを使わずにシンタックスハイライトされたコードを表示する方法を学びましょう。
 ---
 
 import { Code } from '@astrojs/starlight/components';
 
-The `<Code>` component renders syntax highlighted code.
-It is useful when using a [Markdown code block](/guides/authoring-content/#code-blocks) is not possible, for example, to render data coming from external sources like files, databases, or APIs.
+`<Code>`コンポーネントは、シンタックスハイライトされたコードをレンダリングします。
+これは、[Markdownのコードブロック](/ja/guides/authoring-content/#コード)を使用できない場合、例えば、ファイルやデータベース、APIから取得したデータを表示する場合に便利です。
 
 import Preview from '~/components/component-preview.astro';
 
@@ -14,9 +14,9 @@ import Preview from '~/components/component-preview.astro';
 
 <Code
 	slot="preview"
-	code={`## Welcome
+	code={`## ようこそ
 
-Hello from **space**!`}
+**宇宙**からこんにちは！`}
 lang="md"
 title="example.md"
 ins={3}
@@ -24,26 +24,26 @@ ins={3}
 
 </Preview>
 
-## Import
+## インポート
 
 ```tsx
 import { Code } from '@astrojs/starlight/components';
 ```
 
-## Usage
+## 使用方法
 
-Use the `<Code>` component to render syntax highlighted code, for example when displaying code fetched from external sources.
+外部ソースから取得したコードを表示する場合などに、`<Code>`コンポーネントを使用してシンタックスハイライトされたコードをレンダリングします。
 
-See the [Expressive Code “Code Component” docs](https://expressive-code.com/key-features/code-component/) for full details on how to use the `<Code>` component and the list of available props.
+完全な使用方法と利用可能なプロパティのリストについては、[Expressive Codeの「Codeコンポーネント」ドキュメント](https://expressive-code.com/key-features/code-component/)を参照してください。
 
 <Preview>
 
 ```mdx
 import { Code } from '@astrojs/starlight/components';
 
-export const exampleCode = `console.log('This could come from a file or CMS!');`;
+export const exampleCode = `console.log('これはファイルやCMSから来る可能性がある！');`;
 export const fileName = 'example.js';
-export const highlights = ['file', 'CMS'];
+export const highlights = ['ファイル', 'CMS'];
 
 <Code code={exampleCode} lang="js" title={fileName} mark={highlights} />
 ```
@@ -52,17 +52,17 @@ export const highlights = ['file', 'CMS'];
 
 ```markdoc
 {% code
-   code="console.log('This could come from a file or CMS!');"
+   code="console.log('これはファイルやCMSから来る可能性がある！');"
    lang="js"
    title="example.js"
-   meta="'file' 'CMS'" /%}
+   meta="'ファイル' 'CMS'" /%}
 ```
 
 </Fragment>
 
-export const exampleCode = `console.log('This could come from a file or CMS!');`;
+export const exampleCode = `console.log('これはファイルやCMSから来る可能性がある！');`;
 export const fileName = 'example.js';
-export const highlights = ['file', 'CMS'];
+export const highlights = ['ファイル', 'CMS'];
 
 <Code
 	slot="preview"
@@ -74,10 +74,10 @@ export const highlights = ['file', 'CMS'];
 
 </Preview>
 
-### Display imported code
+### インポートしたコードを表示する
 
-In MDX files and Astro components, use [Vite’s `?raw` import suffix](https://vite.dev/guide/assets#importing-asset-as-string) to import any code file as a string.
-You can then pass this imported string to the `<Code>` component to include it on your page.
+MDXファイルやAstroコンポーネント内で、[Viteの`?raw`インポートサフィックス](https://ja.vite.dev/guide/assets#importing-asset-as-string)を使用して、任意のコードファイルを文字列としてインポートできます。
+その後、このインポートした文字列を`<Code>`コンポーネントに渡して、ページにコードを表示することができます。
 
 <Preview>
 
@@ -90,14 +90,14 @@ import importedCode from '/tsconfig.json?raw';
 <Code code={importedCode} lang="json" title="tsconfig.json" />
 ```
 
-import importedCode from '../../../../../examples/basics/tsconfig.json?raw';
+import importedCode from '../../../../../../examples/basics/tsconfig.json?raw';
 
 <Code slot="preview" code={importedCode} lang="json" title="tsconfig.json" />
 
 </Preview>
 
-## `<Code>` Props
+## `<Code>` プロパティ
 
-**Implementation:** [`Code.astro`](https://github.com/expressive-code/expressive-code/blob/main/packages/astro-expressive-code/components/Code.astro)
+**実装:** [`Code.astro`](https://github.com/expressive-code/expressive-code/blob/main/packages/astro-expressive-code/components/Code.astro)
 
-The `<Code>` component accepts all the props documented in the [Expressive Code “Code Component” docs](https://expressive-code.com/key-features/code-component/#available-props).
+`<Code>`コンポーネントは、[Expressive Codeの「Codeコンポーネント」ドキュメント](https://expressive-code.com/key-features/code-component/#available-props)に記載されているすべてのプロパティを受け付けます。
