@@ -69,8 +69,9 @@ const starlightPlugins = [
 			'/components/asides/',
 			'/404',
             '*/components',
-            '*/components/*',
-            '*/components/asides',
+            '/*/components',
+            '/*/components/*',
+            
 		],
     }),
 ];
