@@ -17,9 +17,9 @@ sidebar:
 2. グラスのデスクトップで **Settings** → **Connected Devices** を開き、**Pair with New Device** をタップします。  
   
 
-![](public/images/air3/bluetooth-2.PNG)
+![](public/images/air3/ja/bluetooth-2.png)
 
-![](public/images/air3/bluetooth-3.PNG)
+![](public/images/air3/ja/bluetooth-3.png)
 
 3. 「HM11」スピーカーが検出されます。タップしてペアリング・接続します。 
 
@@ -57,13 +57,13 @@ sidebar:
 
 2. グラスのデスクトップで **Settings** > **Connected Devices** を開き、"Pair with a new device" をクリックします。  
 
-![](public/images/air3/bluetooth-7.png)
+![](public/images/air3/ja/bluetooth-7.png)
 
 3. 「HUAWEI Mouse」が検出されます。クリックしてペアリング・接続します。  
 
-![](public/images/air3/bluetooth-8.png)
+![](public/images/air3/ja/bluetooth-8.png)
 
-![](public/images/air3/bluetooth-9.png)
+![](public/images/air3/ja/bluetooth-9.png)
 
 4. 接続が完了すると、マウスでグラスの操作ができるようになります。
 
@@ -99,17 +99,17 @@ sidebar:
   
 2. 「Internet」をタップし、WLANをオンにします。  
   
-![](public/images/air3/bluetooth-12.png)  
+![](public/images/air3/ja/bluetooth-12.png)  
   
 3. 利用可能なWiFiネットワークが検出されます。  
   
 4. 接続したいWiFiネットワークをタップし、パスワードを入力して接続します。  
   
-![](public/images/air3/bluetooth-13.png)  
+![](public/images/air3/ja/bluetooth-13.png)  
   
 5. WiFiリストを下までスクロールし、→ 「Add network manually」をタップします。  
   
-![](public/images/air3/bluetooth-14.png)  
+![](public/images/air3/ja/bluetooth-14.png)  
   
 ***注意：** 接続したWiFiネットワークは自動的に保存され、次回から自動的に接続されます。*
 
