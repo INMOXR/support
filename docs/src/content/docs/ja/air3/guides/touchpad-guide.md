@@ -28,7 +28,7 @@ sidebar:
 
 ### パート2 基本操作
 
-![](public/images/air3/inmo-touchpad-user-manual-5.png)
+![](public/images/air3/ja/inmo-touchpad-user-manual-5.png)
 
 
 ### パート3 電源のオン/オフとBluetooth接続
@@ -43,15 +43,15 @@ sidebar:
 
 ① デスクトップに移動 -> 「周辺機器管理」を選択 -> タップして検索します。「INMO Touchpad」が表示されたらタップして接続します。  
 
-![](public/images/air3/inmo-touchpad-user-manual-6.png)
+![](public/images/air3/ja/inmo-touchpad-user-manual-6.png)
 
 ② 接続が完了すると「INMO Touchpad」が接続済みと表示されます。
 
-![](public/images/air3/inmo-touchpad-user-manual-7.png)
+![](public/images/air3/ja/inmo-touchpad-user-manual-7.png)
 
 ③ 「INMO Touchpad」が切断されていると表示された場合は、INMO Touchpadの電源を入れて接続してください。注：以前にペアリングした「INMO Touchpad」は電源を入れると自動的に接続されます。  
 
-![](public/images/air3/inmo-touchpad-user-manual-8.png)
+![](public/images/air3/ja/inmo-touchpad-user-manual-8.png)
 
 **注: ペアリング済みの「INMO Touchpad」は電源を入れると自動的に接続されます。**
 
@@ -68,7 +68,7 @@ sidebar:
 
 * カメラ機能キー  
 
-![](public/images/air3/inmo-touchpad-user-manual-11.png)
+![](public/images/air3/ja/inmo-touchpad-user-manual-11.png)
 
 * ホームキー
 短押し：ホーム画面に戻る  

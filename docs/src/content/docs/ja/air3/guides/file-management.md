@@ -30,9 +30,9 @@ sidebar:
 
 ② スマートグラスをUSBでコンピューターに接続すると、コンピューターの「This PC」（または「My Computer」）内に表示される "IMA301" または "Internal Shared Storage" を開いて、スマートグラス内に保存されているファイルを管理できます。
 
-![](public/images/air3/file-management-3.png)
+![](public/images/air3/ja/file-management-3.png)
 
-![](public/images/air3/file-management-4.png)
+![](public/images/air3/ja/file-management-4.png)
 
 
 
