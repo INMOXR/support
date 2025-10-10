@@ -1,7 +1,7 @@
 ---
-title: Touchpad guide
+title: タッチパッドガイド 
 
-description: INMO Air3 touchpad device user guide
+description: INMO Air3 タッチパッドデバイスのユーザーガイド
 sidebar:
   order: 5
 ---

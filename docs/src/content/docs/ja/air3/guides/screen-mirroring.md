@@ -1,7 +1,7 @@
 ---
-title: Screen mirroring
+title: 画面ミラーリング
 
-description: INMO Air3 screen mirroring.
+description: INMO Air3 の画面ミラーリング。
 sidebar:
   order: 4
 ---

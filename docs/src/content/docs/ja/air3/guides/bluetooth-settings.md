@@ -6,115 +6,112 @@ sidebar:
   order: 7
 ---
 
-### Part 1 Connect bluetooth speaker
+### パート 1 Bluetoothスピーカーの接続
 
-> Taking the HM11 Bluetooth Speaker as an Example
+> HM11 Bluetoothスピーカーを例とします
 
-1. Ensure the speaker has power. Long-press the power button of the speaker until the indicator light flashes blue, putting the speaker into discoverable mode.
+1. スピーカーに電源が入っていることを確認します。スピーカーの電源ボタンを長押しし、インジケーターライトが青く点滅するまで待ち、検出可能モードにします。  
 
 ![](public/images/air3/bluetooth-1.PNG)
 
-2. On the glasses desktop, go to **Settings** → **Connected Devices** → tap **Pair with New Device**.
+2. グラスのデスクトップで **Settings** → **Connected Devices** を開き、**Pair with New Device** をタップします。  
+  
 
 ![](public/images/air3/bluetooth-2.PNG)
 
 ![](public/images/air3/bluetooth-3.PNG)
 
-3. You will then discover the "HM11" speaker. Tap it to pair and connect.
+3. 「HM11」スピーカーが検出されます。タップしてペアリング・接続します。 
 
 ![](public/images/air3/bluetooth-4.PNG)
 
-4. After the connection is completed, you can use the speaker to play music on music apps such as QQ Music or NetEase Cloud Music.
+4. 接続が完了すると、QQ Music や NetEase Cloud Music などの音楽アプリでスピーカーを使って再生できます。
 
 
 
 
 
-### Part 2 Connect bluetooth keyboard
+### パート 2 Bluetoothキーボードを接続する 
 
-> Taking Bluetooth keyboard as an Example
+> Bluetoothキーボードを例とします
 
 ![](public/images/air3/bluetooth-5.PNG)
 
-1. Keep the keyboard powered on, then press and hold Fn + Q for 10 seconds to put the keyboard into Bluetooth pairing mode.
+1. キーボードの電源を入れたまま、Fn + Q を10秒間長押ししてBluetoothペアリングモードにします。  
 
-2. On the glasses desktop, go to Settings > Connected Devices > click "Pair with a new device".
+2. グラスのデスクトップで **Settings** > **Connected Devices** を開き、"Pair with a new device" をクリックします。  
 
-3. You will then discover the "Hi-BOW" keyboard; click on it to pair and connect.
+3. 「Hi-BOW」キーボードが検出されます。クリックしてペアリング・接続します。
 
-4. After the connection is completed, you can use the keyboard to type in applications such as WeChat and QQ.
+4. 接続が完了すると、WeChat や QQ などのアプリでキーボードを使って入力できます。 
 
 
 
-### Part 3 Connect bluetooth mouse
+### パート 3 Bluetoothマウスを接続する  
 
-> Take the HUAWEI Mouse Bluetooth mouse as an example
+> HUAWEI Mouse Bluetooth マウスを例とします  
 
 ![](public/images/air3/bluetooth-6.PNG)
 
-1. Keep the mouse powered on, then press and hold the mouse power button until the indicator light flashes yellow, putting the mouse into discoverable mode.
+1. マウスの電源を入れたまま、電源ボタンを長押ししてインジケーターライトが黄色く点滅するまで待ち、検出可能モードにします。  
 
-2. On the glasses desktop, go to Settings > Connected Devices > click "Pair with a new device".
+2. グラスのデスクトップで **Settings** > **Connected Devices** を開き、"Pair with a new device" をクリックします。  
 
 ![](public/images/air3/bluetooth-7.png)
 
-3. You will then discover the "HUAWEI Mouse"; click on it to pair and connect.
+3. 「HUAWEI Mouse」が検出されます。クリックしてペアリング・接続します。  
 
 ![](public/images/air3/bluetooth-8.png)
 
 ![](public/images/air3/bluetooth-9.png)
 
-4. After the connection is completed, you can use the mouse to operate on the glasses.
+4. 接続が完了すると、マウスでグラスの操作ができるようになります。
 
 
 
 
 
-### Part 4 Connect the bluetooth gamepad
+### パート 4 Bluetoothゲームパッドを接続する
 
-> Take the Xbox Wireless Controller Bluetooth gamepad as an example
+> Xbox Wireless Controller Bluetooth ゲームパッドを例とします
 
 ![](public/images/air3/bluetooth-10.png)
 
-1. Keep the gamepad powered on, then press and hold the X button + Home button simultaneously for 4 seconds; a fast-flashing green light indicates that it is in pairing mode.
-
-2. On the glasses desktop, go to Settings > Connected Devices > click "Pair with a new device".
-
-
-3. The "Xbox Wireless Controller" will be discoverable; click on it to pair and connect.
-
-4. After the connection is completed, you can download Tencent START Cloud Gaming from the App Store on the glasses and use the gamepad to operate.
-
-***Note:&#x20;**&#x57;hether the gamepad is compatible depends on the specific game!*
-
+1. ゲームパッドの電源を入れたまま、Xボタン + Homeボタンを同時に4秒間長押しします。高速で緑色に点滅すればペアリングモードです。  
+  
+2. グラスのデスクトップで **Settings** > **Connected Devices** を開き、"Pair with a new device" をクリックします。  
+  
+3. 「Xbox Wireless Controller」が検出されます。クリックしてペアリング・接続します。  
+  
+4. 接続が完了したら、グラスのアプリストアから Tencent START Cloud Gaming をダウンロードして、ゲームパッドで操作できます。  
+  
+***注意：** ゲームパッドの対応可否は、特定のゲームによって異なります！*  
 
 
 
 
-### Part 5 - Setting Up the Network and Internet&#xA;
 
-1. On the glasses desktop, swipe to the \[Settings] app icon and tap it to enter the secondary Settings interface.
+### パート 5 - ネットワークとインターネットの設定&#xA;
 
-![](public/images/air3/bluetooth-11.png)
-
-2. Tap "Internet", then tap to turn on WLAN.
-
-![](public/images/air3/bluetooth-12.png)
-
-3. The available WiFi networks will then be detected.
-
-4. Tap the desired WiFi network and enter the password to connect.
-
-![](public/images/air3/bluetooth-13.png)
-
-5. Scroll to the bottom of the WiFi list → tap "Add network manually".
-
-![](public/images/air3/bluetooth-14.png)
-
-***Note:&#x20;**&#x43;onnected WiFi networks will be saved automatically and will connect automatically the next time.*
-
-
-
+1. グラスのデスクトップで \[Settings] アプリのアイコンにスワイプしてタップし、セカンダリの設定画面に入ります。  
+  
+![](public/images/air3/bluetooth-11.png)  
+  
+2. 「Internet」をタップし、WLANをオンにします。  
+  
+![](public/images/air3/bluetooth-12.png)  
+  
+3. 利用可能なWiFiネットワークが検出されます。  
+  
+4. 接続したいWiFiネットワークをタップし、パスワードを入力して接続します。  
+  
+![](public/images/air3/bluetooth-13.png)  
+  
+5. WiFiリストを下までスクロールし、→ 「Add network manually」をタップします。  
+  
+![](public/images/air3/bluetooth-14.png)  
+  
+***注意：** 接続したWiFiネットワークは自動的に保存され、次回から自動的に接続されます。*
 
 
 

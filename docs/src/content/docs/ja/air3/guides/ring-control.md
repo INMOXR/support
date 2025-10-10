@@ -1,6 +1,6 @@
 ---
-title: Ring control guide
-description: INMO Air3 ring control user guide
+title: リング操作ガイド
+description: INMO Air3 リング操作ユーザーガイド 
 sidebar:
   order: 6
 ---
