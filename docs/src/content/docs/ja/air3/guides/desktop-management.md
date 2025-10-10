@@ -1,7 +1,7 @@
 ---
-title: Desktop management
+title: デスクトップ管理
 
-description: INMO Air3 desktop management
+description: INMO Air3 デスクトップ管理
 sidebar:
   order: 2
 ---
@@ -12,9 +12,9 @@ sidebar:
 
 ② クイックアプリバーの下にあるステータスバーは、現在時刻、Wi‑Fi接続状況、バッテリー残量を表示し、コントロールセンター、通知センター、バックグラウンドクリーンアップへのアクセスを提供します。
 
-![](public/images/air3/desktop-management-1.png)
+![](public/images/air3/ja/desktop-management-1.png)
 
-![](public/images/air3/desktop-management-2.jpg)
+![](public/images/air3/ja/desktop-management-2.jpg)
 
 ### パート2 - すべてのアプリを表示
 
@@ -25,7 +25,7 @@ sidebar:
 
 注意: App Libraryの各ページは4-5-4のレイアウトをサポートしています。これを超えるアプリは自動的に次ページの空きスペースへ移動します。  
 
-![](public/images/air3/desktop-management-3.jpg)
+![](public/images/air3/ja/desktop-management-3.jpg)
 
 ## アプリストア
 
@@ -33,7 +33,7 @@ sidebar:
 
 ② その他のアプリ: または、Yingyongbao（App Treasure）にアクセスして、興味のある他のアプリをユーザー自身でダウンロードすることもできます。  
 
-![](public/images/air3/desktop-management-4.png)
+![](public/images/air3/ja/desktop-management-4.png)
 
 
 

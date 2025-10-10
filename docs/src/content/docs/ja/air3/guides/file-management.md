@@ -1,7 +1,7 @@
 ---
-title: File management
+title: ファイル管理
 
-description: INMO Air3 file management.
+description: INMO Air3 ファイル管理.
 sidebar:
   order: 3
 ---
@@ -20,9 +20,9 @@ sidebar:
 
 注: スマートグラスのファイル管理機能は現在、タッチパッドとリングによる操作のみをサポートしています。  
 
-![](public/images/air3/file-management-1.png)
+![](public/images/air3/ja/file-management-1.png)
 
-![](public/images/air3/file-management-2.png)
+![](public/images/air3/ja/file-management-2.png)
 
 ### パート2 - コンピューターでスマートグラスのファイルを管理する  
 
