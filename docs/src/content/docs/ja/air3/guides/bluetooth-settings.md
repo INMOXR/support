@@ -12,7 +12,7 @@ sidebar:
 
 1. スピーカーに電源が入っていることを確認します。スピーカーの電源ボタンを長押しし、インジケーターライトが青く点滅するまで待ち、検出可能モードにします。  
 
-![](public/images/air3/bluetooth-1.PNG)
+![](public/images/air3/ja/bluetooth-1.png)
 
 2. グラスのデスクトップで **Settings** → **Connected Devices** を開き、**Pair with New Device** をタップします。  
   
@@ -95,7 +95,7 @@ sidebar:
 
 1. グラスのデスクトップで \[Settings] アプリのアイコンにスワイプしてタップし、セカンダリの設定画面に入ります。  
   
-![](public/images/air3/bluetooth-11.png)  
+![](public/images/air3/ja/bluetooth-11.png)  
   
 2. 「Internet」をタップし、WLANをオンにします。  
   
