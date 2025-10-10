@@ -14,7 +14,7 @@ sidebar:
 
 ![](public/images/air3/ja/desktop-management-1.png)
 
-![](public/images/air3/ja/desktop-management-2.jpg)
+![](public/images/air3/ja/desktop-management-2.png)
 
 ### パート2 - すべてのアプリを表示
 
@@ -25,7 +25,7 @@ sidebar:
 
 注意: App Libraryの各ページは4-5-4のレイアウトをサポートしています。これを超えるアプリは自動的に次ページの空きスペースへ移動します。  
 
-![](public/images/air3/ja/desktop-management-3.jpg)
+![](public/images/air3/ja/desktop-management-3.png)
 
 ## アプリストア
 

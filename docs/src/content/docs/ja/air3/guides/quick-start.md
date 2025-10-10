@@ -8,11 +8,11 @@ sidebar:
 
 ## 1. 製品概要
 
-![](public/images/air3/ja/quick-start-1.jpg)
+![](public/images/air3/ja/quick-start-1.png)
 
-![](public/images/air3/ja/quick-start-2.jpg)
+![](public/images/air3/ja/quick-start-2.png)
 
-![](public/images/air3/ja/quick-start-3.jpg)
+![](public/images/air3/ja/quick-start-3.png)
 
 ## 2. 操作ガイド
 
@@ -70,9 +70,9 @@ sidebar:
 
 ② 選択が完了したら、次のステップに進むためにタッチ操作でスワイプします。その後、タッチして「利用規約およびプライバシーポリシー」にアクセスします。  
 
-![](public/images/air3/ja/quick-start-13.jpg)
+![](public/images/air3/ja/quick-start-13.png)
 
-![](public/images/air3/ja/quick-start-14.jpg)
+![](public/images/air3/ja/quick-start-14.png)
 
 ### ステップ 2 - 同意
 
@@ -80,9 +80,9 @@ sidebar:
 
 ④ 右側テンプルのタッチ操作で左右にスワイプして「戻る」と「同意」を選択します。「同意」をタップして「周辺機器のペアリング」へ進みます。  
 
-![](public/images/air3/ja/quick-start-15.jpg)
+![](public/images/air3/ja/quick-start-15.png)
 
-![](public/images/air3/ja/quick-start-16.jpg)
+![](public/images/air3/ja/quick-start-16.png)
 
 ### ステップ 3 - リングとタッチパッドのペアリング
 
@@ -90,9 +90,9 @@ sidebar:
 
 ⑥ 現時点で「リング」または「タッチパッド」をペアリングしない場合は、後で「Desktop」-「Peripheral Management」から接続できます。「次へ」をタップして「リング基本操作説明」へ進んでください。  
 
-![](public/images/air3/ja/quick-start-17.jpg)
+![](public/images/air3/ja/quick-start-17.png)
 
-![](public/images/air3/ja/quick-start-18.jpg)
+![](public/images/air3/ja/quick-start-18.png)
 
 ### Part 4 - リング操作に慣れる 
 
@@ -100,9 +100,9 @@ sidebar:
 
 ⑧ テストと終了: 現在のウィンドウ内で、リングを使って中央の四角をシングルタップし、正常に動作するか確認できます。テストが完了したら「新規ユーザーガイドを終了」をタップして終了します。  
 
-![](public/images/air3/ja/quick-start-19.jpg)
+![](public/images/air3/ja/quick-start-19.png)
 
-![](public/images/air3/ja/quick-start-20.jpg)
+![](public/images/air3/ja/quick-start-20.png)
 
 ### Part 5 -  電源のオン/オフと再起動
 
@@ -110,4 +110,4 @@ sidebar:
 
 ② 強制再起動: スマートグラスを強制再起動するには、電源ボタンを約10秒間長押しします。 
 
-![](public/images/air3/ja/quick-start-21.jpg)
+![](public/images/air3/ja/quick-start-21.png)
