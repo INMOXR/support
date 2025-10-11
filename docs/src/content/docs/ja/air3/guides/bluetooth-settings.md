@@ -16,7 +16,7 @@ sidebar:
 
 2. メガネのデスクトップで **設定** → **接続済みデバイス** → **新しいデバイスとペアリング** をタップします。  
 
-![](public/images/air3/ja/bluetooth-2.png)
+![](public/images/air3/JA/bluetooth-2.png)
 
 ![](public/images/air3/ja/bluetooth-3.png)
 
