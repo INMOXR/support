@@ -1,37 +1,44 @@
 ---
-title: デスクトップ管理
+title: Desktop-Verwaltung
 
-description: INMO Air3 デスクトップ管理
+description: INMO Air3 Desktop-Verwaltung
 sidebar:
   order: 2
 ---
 
-### パート1 - デスクトップの概要 
+### Teil 1 - Desktop-Übersicht  
+  
+① Auf dem Desktop wird unten die Schnell-App-Leiste angezeigt. Von links nach rechts enthält sie: App-Bibliothek, häufig verwendete Apps und zuletzt verwendete Apps.  
+  
+② Unter der Schnell-App-Leiste zeigt die Statusleiste die aktuelle Uhrzeit, den WLAN-Verbindungsstatus, den Akkustand und bietet Zugriff auf das Kontrollzentrum, die Benachrichtigungszentrale und die Hintergrundbereinigung.  
 
-① デスクトップの下部にクイックアプリバーが表示されます。左から右へ、App Library（アプリライブラリ）、よく使うアプリ、最近のアプリが並んでいます。  
+![](public/images/air3/de/desktop-1.png)
 
-② クイックアプリバーの下にあるステータスバーは、現在時刻、Wi‑Fi接続状況、バッテリー残量を表示し、コントロールセンター、通知センター、バックグラウンドクリーンアップへのアクセスを提供します。
-
-![](public/images/air3/jp/desktop-1.png)
-
-![](public/images/air3/jp/desktop-2.png)
+![](public/images/air3/de/desktop-2.png)
 
 ### パート2 - すべてのアプリを表示
 
-① デスクトップからApp Library（アプリライブラリ）に移動します。目的のアプリを選択して、Touchpadの中央またはRingのタッチ領域を長押しします。  
+Teil 2 - Alle Apps anzeigen  
+  
+  
+① Öffnen Sie vom Desktop die App-Bibliothek. Wählen Sie die gewünschte App aus und drücken Sie dann die Mitte des Touchpads oder den Touchbereich des Rings und halten Sie gedrückt.  
+  
+  
+② Sobald eine App ausgewählt und lange gedrückt wurde, können Sie Aktionen wie Verschieben oder Deinstallieren durchführen. (Die Deinstallationsfunktion ist nur für vom Benutzer heruntergeladene Anwendungen verfügbar.)  
+  
+  
+Hinweis: Jede Seite der App-Bibliothek unterstützt ein Layout von 4-5-4 Anwendungen. Apps, die diese Anzahl überschreiten, werden automatisch auf den nächsten verfügbaren Platz auf der folgenden Seite verschoben.  
   
 
-② アプリを選択して長押しすると、アプリの移動やアンインストールなどの操作が可能になります。（アンインストールはユーザーがダウンロードしたアプリにのみ対応します。）
+![](public/images/air3/de/desktop-3.png)
 
-注意: App Libraryの各ページは4-5-4のレイアウトをサポートしています。これを超えるアプリは自動的に次ページの空きスペースへ移動します。  
-
-![](public/images/air3/jp/desktop-3.png)
-
-## アプリストア
-
-① ユーザーは Desktop > App Library > App Store に移動して、INMOが公式に推奨するアプリをダウンロードして体験できます。  
-
-② その他のアプリ: または、Yingyongbao（App Treasure）にアクセスして、興味のある他のアプリをユーザー自身でダウンロードすることもできます。  
+## App Store
+  
+① Benutzer können zu Desktop > App-Bibliothek > App Store navigieren, um INMO offiziell empfohlene Anwendungen herunterzuladen und auszuprobieren.  
+  
+  
+② Andere Apps: Alternativ können Benutzer Yingyongbao (App Treasure) aufrufen, um andere interessierende Anwendungen eigenständig herunterzuladen.  
+  
 
 ![](public/images/air3/jp/desktop-4.png)
 
