@@ -1,0 +1,89 @@
+---
+title: INMO Support
+head:
+  - tag: title
+    content: INMO Support - Manuals & FAQs
+description: INMO Product Support provides product manuals, FAQs, and technical support to help you solve problems you may encounter.
+template: splash
+editUrl: false
+lastUpdated: false
+---
+
+import { CardGrid, Card, LinkCard } from '@astrojs/starlight/components';
+import ProductCard from '~/components/product-card.astro';
+
+{/* Main Navigation Cards */}
+<CardGrid>
+  <LinkCard 
+    title="Order"
+    icon="document"
+    href="/orders/"
+  />
+  <LinkCard 
+    title="APP & Manuals Downloads"
+    icon="open-book"
+    href="https://www.inmoxr.com/pages/manuals-downloads"
+  />
+  <LinkCard 
+    title="Development"
+    icon="setting"
+    href="https://github.com/INMOXR/air3-unity-sdk"
+  />
+  <LinkCard 
+    title="Warranty"
+    icon="shield"
+    href="https://www.inmoxr.com/pages/warranty"
+  />
+</CardGrid>
+
+{/* Product Support Section */}
+<div style="margin-top: 4rem; text-align: center;">
+  <h2 style="font-size: 2.5rem; margin-bottom: 2rem;">Product Support</h2>
+  
+  <CardGrid>
+      <ProductCard 
+      title="INMO Air3"
+      image="/images/products/inmo-air3-800x400.png"
+      href="/air3/"
+    />
+      <ProductCard 
+      title="INMO GO"
+      image="/images/products/inmo-go-800x400.png"
+      href="/go/"
+    />
+    <ProductCard 
+      title="INMO GO2"
+      image="/images/products/inmo-go2-800x400.png"
+      href="/go2/"
+    />
+    <ProductCard 
+      title="INMO Air2"
+      image="/images/products/inmo-air2-800x400.png"
+      href="/air2/"
+    />
+  </CardGrid>
+</div>
+
+{/* Still Need Help Section */}
+<div style="margin-top: 5rem; text-align: center; padding-bottom: 3rem;">
+  <h2 style="font-size: 2.5rem; margin-bottom: 1rem;">Still Need Help?</h2>
+  <p style="font-size: 1.2rem; margin-bottom: 3rem;">We're happy to assist you whenever you need us.</p>
+  
+  <div style="display: flex; justify-content: center; gap: 4rem;">
+    <a href="mailto:support@inmoxr.com" style="text-decoration: none; color: inherit;">
+      <div style="display: flex; flex-direction: column; align-items: center;">
+        <div style="width: 80px; height: 80px; border-radius: 50%; background-color: #f5f5f5; display: flex; justify-content: center; align-items: center; margin-bottom: 1rem;">
+          <img src="/icons/24hours.svg" alt="24/7 Support" style="width: 40px; height: 40px;" />
+        </div>
+        <span style="font-size: 1.2rem;">Email us</span>
+      </div>
+    </a>
+    
+    <div style="display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 80px; height: 80px; border-radius: 50%; background-color: #f5f5f5; display: flex; justify-content: center; align-items: center; margin-bottom: 1rem;">
+        <img src="/icons/live-chat.svg" alt="Live Chat" style="width: 40px; height: 40px;" />
+      </div>
+      <span style="font-size: 1.2rem;">Live Chat</span>
+    </div>
+  </div>
+</div>
