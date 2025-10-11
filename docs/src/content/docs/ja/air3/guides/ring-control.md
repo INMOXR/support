@@ -54,7 +54,7 @@ sidebar:
 
 リングの青色ランプが高速に点滅するまで待ちます。  
 
-![](public/images/air3/jp/ring-9.jpg)
+![](public/images/air3/jp/ring-9.png)
 
 * メガネのデスクトップ -> 周辺機器管理 -> タップして検索、すると「INMO Ring 3」デバイスが表示されるのでタップして接続します。  
   
