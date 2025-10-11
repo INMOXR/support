@@ -6,116 +6,112 @@ sidebar:
   order: 7
 ---
 
-### パート 1 Bluetoothスピーカーを接続する
+### Teil 1 - Bluetooth-Lautsprecher verbinden
 
-> HM11 Bluetoothスピーカーを例とします
+> Als Beispiel wird der HM11 Bluetooth-Lautsprecher verwendet
 
-1. スピーカーの電源が入っていることを確認します。スピーカーの電源ボタンを長押しし、インジケーターライトが青く点滅するまで押し続けてください。これでスピーカーは検出可能モードになります。  
+1. Stellen Sie sicher, dass der Lautsprecher eingeschaltet ist. Halten Sie die Einschalttaste des Lautsprechers gedrückt, bis die Anzeige blau blinkt, und versetzen Sie den Lautsprecher in den Suchmodus.  
 
-![](public/images/air3/jp/bluetooth-1.png)
+![](public/images/air3/de/bluetooth-1.png)
 
-2. メガネのデスクトップで **設定** → **接続済みデバイス** → **新しいデバイスとペアリング** をタップします。  
+2. Auf dem Brillendesktop gehen Sie zu **Einstellungen** → **Verbundene Geräte** → tippen Sie auf **Mit neuem Gerät koppeln**. 
 
-![](public/images/air3/jp/bluetooth-2.png)
+![](public/images/air3/de/bluetooth-2.png)
 
-![](public/images/air3/jp/bluetooth-3.png)
+![](public/images/air3/de/bluetooth-3.png)
 
-3. 'HM11' スピーカーが検出されます。タップしてペアリング・接続してください。 
+3. Anschließend wird der Lautsprecher "HM11" erkannt. Tippen Sie darauf, um zu koppeln und die Verbindung herzustellen.
 
 ![](public/images/air3/bluetooth-4.PNG)
 
-4. 接続が完了したら、QQ Music や NetEase Cloud Music などの音楽アプリでスピーカーから音楽を再生できます。  
+4. Nach erfolgreicher Verbindung können Sie den Lautsprecher zum Musikhören in Apps wie QQ Music oder NetEase Cloud Music verwenden.  
 
 
 
 
 
-### パート 2 Bluetoothキーボードを接続する
+### Teil 2 - Bluetooth-Tastatur verbinden
 
-> Bluetoothキーボードを例とします
+> Als Beispiel wird eine Bluetooth-Tastatur verwendet
 
 ![](public/images/air3/bluetooth-5.PNG)
 
-1. キーボードの電源を入れたまま、Fn + Q を10秒間押し続けて、キーボードをBluetoothペアリングモードにします。  
+1. Schalten Sie die Tastatur ein und halten Sie dann Fn + Q für 10 Sekunden gedrückt, um die Tastatur in den Bluetooth-Kopplungsmodus zu versetzen.  
   
-2. メガネのデスクトップで **設定 (Settings)** > **接続済みデバイス (Connected Devices)** > 「新しいデバイスとペアリング (Pair with a new device)」をクリックします。  
+2. Auf dem Brillendesktop gehen Sie zu Einstellungen > Verbundene Geräte > "Mit neuem Gerät koppeln".  
   
-3. 'Hi-BOW' キーボードが検出されます。クリックしてペアリング・接続してください。  
+3. Sie sollten dann die Tastatur "Hi-BOW" sehen; tippen Sie darauf, um zu koppeln und die Verbindung herzustellen.  
   
-4. 接続が完了したら、WeChat や QQ などのアプリでキーボードを使って入力できます。
+4. Nach erfolgreicher Verbindung können Sie die Tastatur in Anwendungen wie WeChat und QQ zum Eingeben verwenden.  
 
 
 
-### パート 3 Bluetoothマウスを接続する  
+### Teil 3 - Bluetooth-Maus verbinden
 
-> 例：HUAWEI Mouse Bluetooth マウス
+> Als Beispiel wird die HUAWEI Mouse Bluetooth-Maus verwendet
 
 ![](public/images/air3/bluetooth-6.PNG)
 
-1. マウスの電源を入れたまま、マウスの電源ボタンを長押ししてインジケーターライトが黄色に点滅するまで待ちます。これでマウスは検出可能モードになります。  
+1. Schalten Sie die Maus ein und halten Sie dann die Einschalttaste gedrückt, bis die Anzeige gelb blinkt; dadurch versetzen Sie die Maus in den Suchmodus.  
+  
+  
+2. Auf dem Brillendesktop gehen Sie zu Einstellungen > Verbundene Geräte > "Mit neuem Gerät koppeln".  
 
-2. メガネのデスクトップで **設定 (Settings)** > **接続済みデバイス (Connected Devices)** > 「新しいデバイスとペアリング (Pair with a new device)」をクリックします。  
+![](public/images/air3/de/bluetooth-7.png)
 
-![](public/images/air3/jp/bluetooth-7.png)
+3. Anschließend wird die "HUAWEI Mouse" erkannt; tippen Sie darauf, um zu koppeln und die Verbindung herzustellen.   
 
-3. 'HUAWEI Mouse' が検出されます。クリックしてペアリング・接続してください。 
-
-![](public/images/air3/jp/bluetooth-8.png)
+![](public/images/air3/de/bluetooth-8.png)
 
 ![](public/images/air3/bluetooth-9.png)
 
-4. 接続が完了したら、メガネ上でマウスを使って操作できます。
+4. Nach erfolgreicher Verbindung können Sie die Maus zur Steuerung der Brille verwenden.  
 
 
 
 
 
-### パート 4 Bluetoothゲームパッドを接続する 
+### Teil 4 - Bluetooth-Gamepad verbinden
 
-> 例：Xbox Wireless Controller Bluetooth ゲームパッド 
+> Als Beispiel wird der Xbox Wireless Controller verwendet
 
 ![](public/images/air3/bluetooth-10.png)
 
-1. ゲームパッドの電源を入れたまま、XボタンとHomeボタンを同時に4秒間押し続けます。緑色のライトが高速で点滅したら、ペアリングモードになっています。  
+1. Schalten Sie das Gamepad ein und halten Sie gleichzeitig die X-Taste und die Home-Taste für 4 Sekunden gedrückt; ein schnell blinkendes grünes Licht zeigt den Kopplungsmodus an.  
+  
+2. Auf dem Brillendesktop gehen Sie zu Einstellungen > Verbundene Geräte > "Mit neuem Gerät koppeln".  
   
   
-2. メガネのデスクトップで **設定 (Settings)** > **接続済みデバイス (Connected Devices)** > 「新しいデバイスとペアリング (Pair with a new device)」をクリックします。  
+3. Der "Xbox Wireless Controller" wird gefunden; tippen Sie darauf, um zu koppeln und die Verbindung herzustellen.  
   
+4. Nach erfolgreicher Verbindung können Sie Tencent START Cloud Gaming aus dem App Store der Brille herunterladen und das Gamepad zur Steuerung verwenden.  
   
+***Hinweis:** Ob das Gamepad kompatibel ist, hängt vom jeweiligen Spiel ab!*  
+
+
+
+
+### Teil 5 - Netzwerk und Internet einrichten&#xA;
+
+1. Auf dem Brillendesktop wischen Sie zum \[Einstellungen] App-Symbol und tippen es an, um die sekundäre Einstellungsoberfläche zu öffnen.  
+
+![](public/images/air3/de/bluetooth-11.png)
+
+2. Tippen Sie auf "Internet" und aktivieren Sie WLAN.   
+
+![](public/images/air3/de/bluetooth-12.png)
+
+3. Die verfügbaren Wi‑Fi-Netzwerke werden erkannt.  
   
-3. 'Xbox Wireless Controller' が検出されます。クリックしてペアリング・接続してください。  
-  
-  
-4. 接続が完了したら、メガネの App Store から Tencent START（クラウドゲーム）をダウンロードして、ゲームパッドで操作できます。  
-  
-  
-***注意：ゲームパッドの対応可否はゲームごとに異なります！***  
+4. Tippen Sie auf das gewünschte Wi‑Fi-Netzwerk und geben Sie das Passwort ein, um die Verbindung herzustellen.   
 
+![](public/images/air3/de/bluetooth-13.png)
 
+5. Scrollen Sie zum Ende der Wi‑Fi-Liste → tippen Sie auf "Netzwerk manuell hinzufügen".
 
+![](public/images/air3/de/bluetooth-14.png)
 
-
-### パート 5 - ネットワークとインターネットの設定&#xA;
-
-1. メガネのデスクトップで \[設定] アプリアイコンにスワイプしてタップし、二次設定画面に入ります。  
-
-![](public/images/air3/jp/bluetooth-11.png)
-
-2. 「Internet」をタップし、WLAN をオンにします。  
-
-![](public/images/air3/jp/bluetooth-12.png)
-
-3. 利用可能な Wi-Fi ネットワークが検出されます。  
-
-4. 接続したい Wi-Fi ネットワークをタップし、パスワードを入力して接続してください。  
-
-![](public/images/air3/jp/bluetooth-13.png)
-
-5. Wi-Fi リストの下部までスクロールし、「Add network manually」をタップします。
-
-![](public/images/air3/jp/bluetooth-14.png)
-
-***注意：&#x20;**&#x43;接続した Wi-Fi ネットワークは自動的に保存され、次回以降自動で接続されます。*
+***Hinweis:** Verbundene Wi‑Fi-Netzwerke werden automatisch gespeichert und beim nächsten Mal automatisch verbunden.*
 
 
 
