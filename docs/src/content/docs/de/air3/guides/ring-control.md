@@ -1,70 +1,68 @@
 ---
-title: リング操作ガイド
-description: INMO Air3 リング操作ユーザーガイド 
+title: Ring-Steuerungsanleitung  
+
+description: Benutzerhandbuch zur Ringsteuerung des INMO Air3
 sidebar:
   order: 6
 ---
 
-## パート 1 リングのインジケーターライト
+## パート 1 Teil 1 - Ring-Anzeigeleuchte  
 
-以下の表はインジケーターライトとその状態の対応を示します。
-リングが正常にペアリングされるとインジケーターライトは消灯します。  
+Die folgende Tabelle zeigt die Zuordnung zwischen den Anzeigeleuchten und ihren Zuständen.  
+Wenn der Ring erfolgreich gekoppelt ist, erlischt die Anzeigeleuchte. 
 
 ![]()
 
-![](public/images/air3/jp/ring-1.png)
+![](public/images/air3/de/ring-1.png)
 
-![](public/images/air3/jp/ring-2.png)
+![](public/images/air3/de/ring-2.png)
 
-## パート 2 基本操作説明
+## Teil 2 - Grundlegende Interaktionsanleitung
 
-![](public/images/air3/jp/ring-3.png)
+![](public/images/air3/de/ring-3.png)
 
-## パート 3 リングのペアリング
+## Teil 3 - Ring koppeln  
 
-リングの初回接続 
+Erstverbindung des Rings 
 
-1. 新規ユーザーガイドに従ってリングを接続します。リングの電源ボタンを長押しして電源を入れると、リングの青色ランプが点滅し、スキャンおよびペアリングの状態になります。ペアリングが成功するとインジケーターライトは消灯します。  
+1. Folgen Sie dem Einführungsleitfaden, um den Ring zu verbinden. Halten Sie die Einschalttaste des Rings lange gedrückt, um ihn einzuschalten; die blaue LED des Rings beginnt zu blinken und der Ring startet den Scan- und Kopplungsprozess. Sobald die Kopplung erfolgreich ist, erlischt die Anzeigeleuchte.  
 
-![](public/images/air3/jp/ring-4.png)
+![](public/images/air3/de/ring-4.png)
 
 
+* Wenn Sie den Einführungsleitfaden übersprungen haben und den Ring nicht verbunden haben, gehen Sie auf dem Brillen-Desktop zu Peripheral Management -> Click and search.  
 
-* 新規ユーザーガイドをスキップしてリングを接続していない場合は、メガネのデスクトップ -> 周辺機器管理 -> タップして検索してください。  
+![](public/images/air3/de/ring-5.png)
 
-![](public/images/air3/jp/ring-5.png)
-
-* すると「INMO Ring 3」デバイスが表示されるので、タップして接続します。  
+* Dort finden Sie das Gerät "INMO Ring 3" und können darauf klicken, um die Verbindung herzustellen.  
 
 ![](public/images/air3/jp/ring-6.png)
 
-**注意：**
+**Hinweis:**  
 
-1. 使用中にリングが切断された場合、自動的に再接続されます。
-
-2. 自動再接続が失敗する場合は、メガネのデスクトップ -> 周辺機器管理 -> 「INMO Ring 3」を**タップ**して接続してください。  
-
-3. 接続が繰り返し失敗する場合は、まず「周辺機器管理」ページでリングのペアリングを解除してください。 
-
-![](public/images/air3/jp/ring-7.png)
-
-* リングの電源ボタンを長押しして電源を切り、その後電源ボタンとファンクションボタンの両方を長押しして電源を入れる（リセット）操作を行います。  
-
-![](public/images/air3/jp/ring-8.png)
-
-リングの青色ランプが高速に点滅するまで待ちます。  
-
-![](public/images/air3/jp/ring-9.png)
-
-* メガネのデスクトップ -> 周辺機器管理 -> タップして検索、すると「INMO Ring 3」デバイスが表示されるのでタップして接続します。  
+1. Wenn der Ring während der Verwendung die Verbindung verliert, stellt er automatisch die Verbindung wieder her.   
   
+2. Wenn die automatische Wiederverbindung fehlschlägt, gehen Sie auf dem Brillen-Desktop zu Peripheral Management -> **tippen** Sie auf "INMO Ring 3", um die Verbindung herzustellen.  
+  
+3. Wenn die Verbindung wiederholt fehlschlägt, können Sie den Ring zuerst auf der Seite "Peripheral Management" entkoppeln.  
 
-## パート 4  リングのキャリブレーション
+![](public/images/air3/de/ring-7.png)
 
-リングのファンクションキーを長押しすると、カーソル／レイ（ポインター）を画面中央にキャリブレーションできます。  
-注: レイ機能はに入ったときのみ使用できます。   \[Spatial Multi-Screen/Discovery]
+* Halten Sie die Einschalttaste des Rings lange gedrückt, um ihn auszuschalten. Halten Sie anschließend sowohl die Einschalttaste als auch die Funktionstaste lange gedrückt, um ihn einzuschalten (Zurücksetzen).  
 
-![](public/images/air3/jp/ring-10.png)
+![](public/images/air3/de/ring-8.png)
+
+Warten Sie, bis die blaue LED des Rings schnell blinkt.  
+
+![](public/images/air3/de/ring-9.png)
+
+* Gehen Sie auf dem Brillen-Desktop zu Peripheral Management -> tap and search, dann finden Sie das Gerät "INMO Ring 3". Tippen Sie darauf, um die Verbindung herzustellen.  
+
+## Teil 4 - Ring-Anzeigeleuchte  
+  
+Halten Sie die Funktionstaste am Ring gedrückt, um den Cursor/Strahl auf die Bildschirmmitte zu kalibrieren. Hinweis: Die Strahl-Funktion kann nur verwendet werden, wenn Sie in \[Spatial Multi-Screen/Discovery] sind.  
+
+![](public/images/air3/de/ring-10.png)
 
 
 
