@@ -20,9 +20,9 @@ sidebar:
 
 注: スマートグラスのファイル管理機能は現在、タッチパッドとリングによる操作のみをサポートしています。  
 
-![](public/images/air3/JP/file-1.png)
+![](public/images/air3/JA/file-1.png)
 
-![](public/images/air3/JP/file-2.png)
+![](public/images/air3/JA/file-2.png)
 
 ### パート2 - コンピューターでスマートグラスのファイルを管理する  
 
@@ -30,9 +30,9 @@ sidebar:
 
 ② スマートグラスをUSBでコンピューターに接続すると、コンピューターの「This PC」（または「My Computer」）内に表示される "IMA301" または "Internal Shared Storage" を開いて、スマートグラス内に保存されているファイルを管理できます。
 
-![](public/images/air3/JP/file-3.png)
+![](public/images/air3/JA/file-3.png)
 
-![](public/images/air3/JP/file-4.png)
+![](public/images/air3/JA/file-4.png)
 
 
 
