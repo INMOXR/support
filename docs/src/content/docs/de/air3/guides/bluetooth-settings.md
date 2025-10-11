@@ -1,7 +1,7 @@
 ---
-title: Bluetooth設定
+title: Bluetooth-Einstellungen
 
-description: INMO Air3で他のデバイスをBluetoothで接続する方法
+description: So verbinden Sie andere Geräte über Bluetooth im INMO Air3
 sidebar:
   order: 7
 ---

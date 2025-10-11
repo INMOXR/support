@@ -1,113 +1,113 @@
 ---
-title: クイックスタート
+title: Schnellstart
 
-description: INMO Air3 クイックスタートガイド.
+description: INMO Air3 Schnellstartanleitung.
 sidebar:
   order: 1
 ---
 
-## 1. 製品概要
+## 1. Produktübersicht
 
-![](public/images/air3/jp/quick-start-1.png)
+![](public/images/air3/de/quick-start-1.png)
 
-![](public/images/air3/jp/quick-start-2.png)
+![](public/images/air3/de/quick-start-2.png)
 
-![](public/images/air3/jp/quick-start-3.png)
+![](public/images/air3/de/quick-start-3.png)
 
-## 2. 操作ガイド
+## 2. Bedienungsanleitung
 
-![](public/images/air3/jp/quick-start-4.png)
+![](public/images/air3/de/quick-start-4.png)
 
-![](public/images/air3/jp/quick-start-5.png)
+![](public/images/air3/de/quick-start-5.png)
 
-## 3. インタラクティブリング
+## 3. Interaktiver Ring  
 
-![](public/images/air3/jp/quick-start-6.png)
+![](public/images/air3/de/quick-start-6.png)
 
-## 4. 開始
+## 4. Starten
 
-#### ステップ1 電源を入れる
+#### Schritt 1 Einschalten
 
-電源ボタンを2秒長押しし、青いランプが点灯するまで待ちます。  
+Drücken und halten Sie die Einschalttaste 2 Sekunden lang, bis die blaue LED leuchtet. 
 
-![](public/images/air3/jp/quick-start-7.png)
+![](public/images/air3/de/quick-start-7.png)
 
-#### ステップ2 装着と調整
+#### Schritt 2 Aufsetzen und anpassen
 
-快適になるようにメガネとノーズパッドを微調整してください。  
+Passen Sie die Brille und die Nasenpads fein an, um den Tragekomfort zu optimieren.  
+  
+Tipp: Falls sie unbequem sind, tauschen Sie das Nasenpad durch eine passende Größe aus.
 
-ヒント: 快適でない場合は、適切なサイズのノーズパッドに交換してください。 
+![](public/images/air3/de/quick-start-8.png)
 
-![](public/images/air3/jp/quick-start-8.png)
+#### Schritt 3 Befolgen Sie die Anweisungen auf dem Bildschirm
 
-#### ステップ3 画面の指示に従う 
+Verwenden Sie das rechte Touchpad oder den Ring für die Einrichtung und die Netzwerkaktivierung.  
 
-セットアップとネットワークの有効化は、右側のタッチパッドまたはリングを使用して行ってください。 
+![](public/images/air3/de/quick-start-9.png)
 
-![](public/images/air3/jp/quick-start-9.png)
+## 5. LED-Anzeigen (Strom)  
 
-## 5. 電源LEDインジケーター
+#### Brille  
 
-#### メガネ
+Tipp: Verwenden Sie ein 5V/1A-Ladegerät. Vor der ersten Verwendung vollständig aufladen.
 
-ヒント: 5V/1Aの充電器を使用してください。初回使用前に完全に充電してください。  
+![](public/images/air3/de/quick-start-10.png)
 
-![](public/images/air3/jp/quick-start-10.png)
+#### Ring
 
-#### リング
+![](public/images/air3/de/quick-start-11.png)
 
-![](public/images/air3/jp/quick-start-11.png)
+## Verbotene Handlungen
 
-## 禁止事項
+![](public/images/air3/de/quick-start-12.png)
 
-![](public/images/air3/jp/quick-start-12.png)
+## Einsteigeranleitung
 
-## はじめに
+### Teil 1 - Sprache auswählen
 
-### ステップ 1 - 言語を選択
+① Sprache auswählen: Scrollen Sie mit der Touchsteuerung am rechten Bügel nach oben oder unten, um die gewünschte Sprache zu wählen.  
+  
+② Nachdem Sie Ihre Auswahl getroffen haben, wischen Sie mit der Touchsteuerung, um zum nächsten Schritt zu gelangen. Tippen Sie dann auf die Touchsteuerung, um die "Nutzervereinbarung und Datenschutzbestimmungen" zu öffnen.  
 
-① 言語の選択: 右側のテンプルにあるタッチ操作で上下にスクロールして、希望する言語を選択します。
+![](public/images/air3/de/quick-start-13.png)
 
-② 選択が完了したら、次のステップに進むためにタッチ操作でスワイプします。その後、タッチして「利用規約およびプライバシーポリシー」にアクセスします。  
+![](public/images/air3/de/quick-start-14.jpg)
 
-![](public/images/air3/jp/quick-start-13.png)
+### Teil 2 - Vereinbarung 
 
-![](public/images/air3/jp/quick-start-14.png)
+③ Nutzervereinbarung und Datenschutzbestimmungen: Scrollen Sie mit der Touchsteuerung am rechten Bügel nach oben oder unten, um die Nutzervereinbarung und die Datenschutzbestimmungen anzusehen.  
+  
+④ Wischen Sie mit der Touchsteuerung am rechten Bügel nach links oder rechts, um zwischen "Zurück" und "Zustimmen" zu wählen. Tippen Sie auf "Zustimmen", um mit der "Peripherie-Kopplung" fortzufahren.  
 
-### ステップ 2 - 同意
+![](public/images/air3/de/quick-start-15.png)
 
-③ 利用規約およびプライバシーポリシー: 右側テンプルのタッチ操作で上下にスクロールして、利用規約とプライバシーポリシーを確認します。  
+![](public/images/air3/de/quick-start-16.jpg)
 
-④ 右側テンプルのタッチ操作で左右にスワイプして「戻る」と「同意」を選択します。「同意」をタップして「周辺機器のペアリング」へ進みます。  
+### Teil 3 - Ring-Steuerung und Touchpad-Gerät koppeln
 
-![](public/images/air3/jp/quick-start-15.png)
+⑤ Peripherie-Kopplung: Verbinden Sie den "Ring" oder das "Touchpad". Nach erfolgreicher Verbindung wird automatisch zu den "Anweisungen zur Ring-Interaktion" weitergeleitet (bei Verbindung eines Touchpads wird zu den "Anweisungen zur Touchpad-Interaktion" weitergeleitet).  
+  
+⑥ Wenn Sie den "Ring" oder das "Touchpad" zu diesem Zeitpunkt nicht koppeln möchten, können Sie sie später unter "Desktop" - "Peripherie-Verwaltung" verbinden. Tippen Sie auf "Weiter", um zu den "Grundlegenden Ring-Interaktionsanweisungen" zu gelangen.  
 
-![](public/images/air3/jp/quick-start-16.png)
+![](public/images/air3/de/quick-start-17.png)
 
-### ステップ 3 - リングとタッチパッドのペアリング
+![](public/images/air3/de/quick-start-18.png)
 
-⑤ 周辺機器のペアリング: 「リング」または「タッチパッド」を接続します。接続が成功すると、自動的に「リング操作説明」へ進みます（タッチパッドを接続した場合は「タッチパッド操作説明」にリダイレクトされます）。
+### Teil 4 - Mit der Ring-Steuerung vertraut machen
 
-⑥ 現時点で「リング」または「タッチパッド」をペアリングしない場合は、後で「Desktop」-「Peripheral Management」から接続できます。「次へ」をタップして「リング基本操作説明」へ進んでください。  
+⑦ Grundlegende Ring-Interaktionsanweisungen: Öffnen Sie die "Grundlegenden Ring-Interaktionsanweisungen" und lesen Sie die Ring-Interaktionsanweisungen. Tippen Sie auf "Weiter", um die Verbindung des Rings zu testen.   
+  
+⑧ Testen und Beenden: In diesem Fenster können Benutzer mit dem Ring einmal auf das zentrale Quadrat tippen, um die Funktion zu überprüfen. Nach Abschluss des Tests tippen Sie auf "Neue Nutzeranleitung beenden", um zu schließen.  
 
-![](public/images/air3/jp/quick-start-17.png)
+![](public/images/air3/de/quick-start-19.png)
 
-![](public/images/air3/jp/quick-start-18.png)
+![](public/images/air3/de/quick-start-20.png)
 
-### Part 4 - リング操作に慣れる 
+### Teil 5 - Ein-/Ausschalten und Neustarten Ihrer Brille
 
-⑦ リング基本操作説明: 「リング基本操作説明」にアクセスして、リングの操作方法を確認します。「次へ」をタップしてリングの接続テストを行います。  
+① Ausschalten/Neustarten: Wenn das Gerät eingeschaltet ist, drücken und halten Sie die Einschalttaste am Bügel 3 Sekunden lang, um das Menü mit den Stromoptionen anzuzeigen. Wischen Sie auf dem Touchpad, um "Herunterfahren" oder "Neustart" auszuwählen.  
+  
+② Erzwingter Neustart: Um einen erzwungenen Neustart der Smart-Brille durchzuführen, drücken und halten Sie die Einschalttaste etwa 10 Sekunden lang.  
 
-⑧ テストと終了: 現在のウィンドウ内で、リングを使って中央の四角をシングルタップし、正常に動作するか確認できます。テストが完了したら「新規ユーザーガイドを終了」をタップして終了します。  
-
-![](public/images/air3/jp/quick-start-19.png)
-
-![](public/images/air3/jp/quick-start-20.png)
-
-### Part 5 -  電源のオン/オフと再起動
-
-① 電源オフ/再起動: デバイスの電源が入っている状態で、テンプルの電源ボタンを3秒間長押しすると電源オプションメニューが表示されます。タッチパッドをスワイプして「シャットダウン」または「再起動」を選択します。
-
-② 強制再起動: スマートグラスを強制再起動するには、電源ボタンを約10秒間長押しします。 
-
-![](public/images/air3/jp/quick-start-21.png)
+![](public/images/air3/de/quick-start-21.png)
