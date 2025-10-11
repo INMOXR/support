@@ -9,6 +9,7 @@ import starlightSidebarTopics from 'starlight-sidebar-topics';
 export const locales = {
     root: { label: 'English', lang: 'en' },
     'ja': { label: '日本語', lang: 'ja' },
+    'de': { label: 'Deutsch', lang: 'de' },
 };
 
 /* https://docs.netlify.com/configure-builds/environment-variables/#read-only-variables */
@@ -95,6 +96,7 @@ export default defineConfig({
             title: {
                 'en': 'INMO Support Center',
                 'ja': 'INMO サポートセンター',
+                'de': 'INMO Support-Center',
             },
             defaultLocale: 'root',
             favicon: '/inmo-logo-black.svg',
