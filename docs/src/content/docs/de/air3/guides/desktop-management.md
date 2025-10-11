@@ -16,9 +16,7 @@ sidebar:
 
 ![](public/images/air3/de/desktop-2.png)
 
-### パート2 - すべてのアプリを表示
-
-Teil 2 - Alle Apps anzeigen  
+### Teil 2 - Alle Apps anzeigen  
   
   
 ① Öffnen Sie vom Desktop die App-Bibliothek. Wählen Sie die gewünschte App aus und drücken Sie dann die Mitte des Touchpads oder den Touchbereich des Rings und halten Sie gedrückt.  

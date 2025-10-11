@@ -1,38 +1,38 @@
 ---
-title: ファイル管理
+title: Dateiverwaltung
 
-description: INMO Air3 ファイル管理.
+description: INMO Air3 Dateiverwaltung.
 sidebar:
   order: 3
 ---
 
-### パート1 - スマートグラス内のファイル管理
+### Teil 1 - Dateien in der Brille verwalten
 
-スマートグラスで「ファイル」をタップしてファイル管理ページにアクセスします。ユーザーは以下の操作を行うことができます：  
+In den Smartglasses tippen Sie auf "Files", um die Dateiverwaltungsseite zu öffnen. Benutzer können folgende Vorgänge ausführen:  
+  
+* Dateien anzeigen: Alle Dateien und Ordner werden entweder in einer Listen- oder Raster (Symbol)-Ansicht angezeigt. Tippen Sie auf einen Ordner, um ihn zu öffnen und dessen Inhalt anzusehen.  
+  
+* Ordner erstellen: Tippen Sie im oberen rechten Bereich des Pop-up-Fensters auf die Schaltfläche "New". Mit dieser Schaltfläche können Sie neue Ordner erstellen。  
+  
+* Dateien verschieben/kopieren: Drücken und halten Sie eine Datei. Tippen Sie im oberen rechten Bereich des Pop-up-Fensters auf die Optionen "Move to" oder "Copy", um Ihre Dateien einfach neu zu organisieren.  
+  
+* Dateien löschen: Nachdem Sie Dateien durch Drücken und Halten ausgewählt haben, tippen Sie auf das Symbol "Delete". Diese Aktion hilft, Speicherplatz freizugeben.  
+  
+Hinweis: Die Dateiverwaltungsfunktionen in den Smartglasses unterstützen derzeit ausschließlich die Steuerung über das Touchpad und den Ring.  
 
-* ファイルの表示: すべてのファイルとフォルダはリスト表示またはグリッド（アイコン）表示で表示されます。フォルダをタップすると開いて中身を確認できます。  
+![](public/images/air3/de/file-1.png)
 
-* フォルダの作成: 画面右上のプロンプトボックスにある「新規」ボタンをタップして、新しいフォルダを作成できます。 
+![](public/images/air3/de/file-2.png)
 
-* ファイルの移動/コピー: ファイルを長押しします。画面右上のプロンプトボックスから「移動先」または「コピー」をタップして、ファイルの整理を簡単に行えます。  
+### Teil 2 - Dateien der Brille mit Ihrem Computer verwalten
 
-* ファイルの削除: ファイルを長押しして選択した後、「削除」アイコンをタップします。これによりストレージを解放できます。  
+① Benutzer können Dateien verwalten, indem sie die Smartglasses mit dem offiziellen AIR3 USB-Datenkabel an einen Computer anschließen.  
+  
+② Sobald die Smartglasses per USB mit einem Computer verbunden sind, finden Sie auf Ihrem Computer unter "This PC" (oder "My Computer") entweder "IMA301" oder "Internal Shared Storage". Sie können dann die in den Smartglasses gespeicherten Dateien verwalten.  
 
-注: スマートグラスのファイル管理機能は現在、タッチパッドとリングによる操作のみをサポートしています。  
+![](public/images/air3/de/file-3.png)
 
-![](public/images/air3/jp/file-1.png)
-
-![](public/images/air3/jp/file-2.png)
-
-### パート2 - コンピューターでスマートグラスのファイルを管理する  
-
-① ユーザーは公式の AIR3 USB データケーブルを使用してスマートグラスをコンピューターに接続し、ファイルを管理できます。  
-
-② スマートグラスをUSBでコンピューターに接続すると、コンピューターの「This PC」（または「My Computer」）内に表示される "IMA301" または "Internal Shared Storage" を開いて、スマートグラス内に保存されているファイルを管理できます。
-
-![](public/images/air3/jp/file-3.png)
-
-![](public/images/air3/jp/file-4.png)
+![](public/images/air3/de/file-4.png)
 
 
 
