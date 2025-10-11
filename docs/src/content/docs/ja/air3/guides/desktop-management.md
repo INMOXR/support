@@ -12,9 +12,9 @@ sidebar:
 
 ② クイックアプリバーの下にあるステータスバーは、現在時刻、Wi‑Fi接続状況、バッテリー残量を表示し、コントロールセンター、通知センター、バックグラウンドクリーンアップへのアクセスを提供します。
 
-![](public/images/air3/JA/desktop-1.png)
+![](public/images/air3/jp/desktop-1.png)
 
-![](public/images/air3/JA/desktop-2.png)
+![](public/images/air3/jp/desktop-2.png)
 
 ### パート2 - すべてのアプリを表示
 
@@ -25,7 +25,7 @@ sidebar:
 
 注意: App Libraryの各ページは4-5-4のレイアウトをサポートしています。これを超えるアプリは自動的に次ページの空きスペースへ移動します。  
 
-![](public/images/air3/JA/desktop-3.png)
+![](public/images/air3/jp/desktop-3.png)
 
 ## アプリストア
 
@@ -33,7 +33,7 @@ sidebar:
 
 ② その他のアプリ: または、Yingyongbao（App Treasure）にアクセスして、興味のある他のアプリをユーザー自身でダウンロードすることもできます。  
 
-![](public/images/air3/JA/desktop-4.png)
+![](public/images/air3/jp/desktop-4.png)
 
 
 

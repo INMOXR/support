@@ -12,13 +12,13 @@ sidebar:
 
 1. スピーカーの電源が入っていることを確認します。スピーカーの電源ボタンを長押しし、インジケーターライトが青く点滅するまで押し続けてください。これでスピーカーは検出可能モードになります。  
 
-![](public/images/air3/JA/bluetooth-1.png)
+![](public/images/air3/jp/bluetooth-1.png)
 
 2. メガネのデスクトップで **設定** → **接続済みデバイス** → **新しいデバイスとペアリング** をタップします。  
 
-![](public/images/air3/JA/bluetooth-2.png)
+![](public/images/air3/jp/bluetooth-2.png)
 
-![](public/images/air3/JA/bluetooth-3.png)
+![](public/images/air3/jp/bluetooth-3.png)
 
 3. 'HM11' スピーカーが検出されます。タップしてペアリング・接続してください。 
 
@@ -56,11 +56,11 @@ sidebar:
 
 2. メガネのデスクトップで **設定 (Settings)** > **接続済みデバイス (Connected Devices)** > 「新しいデバイスとペアリング (Pair with a new device)」をクリックします。  
 
-![](public/images/air3/JA/bluetooth-7.png)
+![](public/images/air3/jp/bluetooth-7.png)
 
 3. 'HUAWEI Mouse' が検出されます。クリックしてペアリング・接続してください。 
 
-![](public/images/air3/JA/bluetooth-8.png)
+![](public/images/air3/jp/bluetooth-8.png)
 
 ![](public/images/air3/bluetooth-9.png)
 
@@ -99,21 +99,21 @@ sidebar:
 
 1. メガネのデスクトップで \[設定] アプリアイコンにスワイプしてタップし、二次設定画面に入ります。  
 
-![](public/images/air3/JA/bluetooth-11.png)
+![](public/images/air3/jp/bluetooth-11.png)
 
 2. 「Internet」をタップし、WLAN をオンにします。  
 
-![](public/images/air3/JA/bluetooth-12.png)
+![](public/images/air3/jp/bluetooth-12.png)
 
 3. 利用可能な Wi-Fi ネットワークが検出されます。  
 
 4. 接続したい Wi-Fi ネットワークをタップし、パスワードを入力して接続してください。  
 
-![](public/images/air3/JA/bluetooth-13.png)
+![](public/images/air3/jp/bluetooth-13.png)
 
 5. Wi-Fi リストの下部までスクロールし、「Add network manually」をタップします。
 
-![](public/images/air3/JA/bluetooth-14.png)
+![](public/images/air3/jp/bluetooth-14.png)
 
 ***注意：&#x20;**&#x43;接続した Wi-Fi ネットワークは自動的に保存され、次回以降自動で接続されます。*
 

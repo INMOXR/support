@@ -12,13 +12,13 @@ sidebar:
 
 ![]()
 
-![](public/images/air3/JA/ring-1.png)
+![](public/images/air3/jp/ring-1.png)
 
-![](public/images/air3/JA/ring-2.png)
+![](public/images/air3/jp/ring-2.png)
 
 ## パート 2 基本操作説明
 
-![](public/images/air3/JA/ring-3.png)
+![](public/images/air3/jp/ring-3.png)
 
 ## パート 3 リングのペアリング
 
@@ -26,17 +26,17 @@ sidebar:
 
 1. 新規ユーザーガイドに従ってリングを接続します。リングの電源ボタンを長押しして電源を入れると、リングの青色ランプが点滅し、スキャンおよびペアリングの状態になります。ペアリングが成功するとインジケーターライトは消灯します。  
 
-![](public/images/air3/JA/ring-4.png)
+![](public/images/air3/jp/ring-4.png)
 
 
 
 * 新規ユーザーガイドをスキップしてリングを接続していない場合は、メガネのデスクトップ -> 周辺機器管理 -> タップして検索してください。  
 
-![](public/images/air3/JA/ring-5.png)
+![](public/images/air3/jp/ring-5.png)
 
 * すると「INMO Ring 3」デバイスが表示されるので、タップして接続します。  
 
-![](public/images/air3/JA/ring-6.png)
+![](public/images/air3/jp/ring-6.png)
 
 **注意：**
 
@@ -46,15 +46,15 @@ sidebar:
 
 3. 接続が繰り返し失敗する場合は、まず「周辺機器管理」ページでリングのペアリングを解除してください。 
 
-![](public/images/air3/JA/ring-7.png)
+![](public/images/air3/jp/ring-7.png)
 
 * リングの電源ボタンを長押しして電源を切り、その後電源ボタンとファンクションボタンの両方を長押しして電源を入れる（リセット）操作を行います。  
 
-![](public/images/air3/JA/ring-8.png)
+![](public/images/air3/jp/ring-8.png)
 
 リングの青色ランプが高速に点滅するまで待ちます。  
 
-![](public/images/air3/JA/ring-9.jpg)
+![](public/images/air3/jp/ring-9.jpg)
 
 * メガネのデスクトップ -> 周辺機器管理 -> タップして検索、すると「INMO Ring 3」デバイスが表示されるのでタップして接続します。  
   
@@ -64,7 +64,7 @@ sidebar:
 リングのファンクションキーを長押しすると、カーソル／レイ（ポインター）を画面中央にキャリブレーションできます。  
 注: レイ機能はに入ったときのみ使用できます。   \[Spatial Multi-Screen/Discovery]
 
-![](public/images/air3/JA/ring-10.png)
+![](public/images/air3/jp/ring-10.png)
 
 
 
