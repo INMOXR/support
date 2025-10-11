@@ -1,28 +1,28 @@
 ---
-title: 画面ミラーリング
+title: Bildschirmspiegelung
 
-description: INMO Air3 の画面ミラーリング。
+description: INMO Air3 Bildschirmspiegelung.
 sidebar:
   order: 4
 ---
 
-### パート1 - メガネで機能を開く
+### Teil 1 - Funktion in den Smartglasses aktivieren  
+  
+① Öffnen Sie die App Library und wählen Sie "Screen Mirroring", um die Bildschirmspiegelungsfunktion der Smartglasses zu aktivieren. Mit dieser Funktion können Sie die Anzeige Ihres Mobilgeräts auf den AIR3 Smartglasses wiedergeben.  
+  
+② Sobald Sie sich auf der "Screen Mirroring"-Seite befinden, aktiviert die Smartglasses die Gerätesuche. Bitte bleiben Sie auf dieser Seite, bis die Bildschirmspiegelung gestartet wurde.  
+  
+Hinweis: Damit die Bildschirmspiegelung korrekt funktioniert, stellen Sie bitte sicher, dass sowohl das Quellgerät (das Gerät, von dem übertragen wird) als auch die AIR3 Smartglasses mit demselben WLAN-Netzwerk verbunden sind.  
 
-① アプリライブラリにアクセスし、「画面ミラーリング」を選択して、スマートグラスの画面ミラーリング機能を有効にします。この機能により、モバイル端末の表示をAIR3スマートグラスにキャストして表示できます。
+![](public/images/air3/de/screen-mirroring-1.png)
 
-② 「画面ミラーリング」ページに入ると、スマートグラスがデバイスの検出を有効にします。画面ミラーリングが開始されるまでこのページを開いたままにしてください。  
+![](public/images/air3/de/screen-mirroring-2.png)
 
-注: 画面ミラーリングを正常に動作させるには、送信元デバイス（キャスト元）とAIR3スマートグラスの両方が同じWi‑Fiネットワークに接続されていることを確認してください。  
-
-![](public/images/air3/jp/screen-mirroring-1.png)
-
-![](public/images/air3/jp/screen-mirroring-2.png)
-
-### パート2 - スマートフォンまたはコンピューターで画面ミラーリングを開始する
-
-① Apple（iOS）ユーザー: iPhoneまたはiPadのコントロールセンターから「画面ミラーリング」アイコンを開き、検出されたINMO AIR3スマートグラスを選択して画面ミラーリングを開始します。  
-
-② Androidユーザー: 携帯電話のコントロールセンターから「画面ミラーリング」アイコンを開き、INMO AIR3スマートグラスを選択して画面ミラーリングを開始します。  
+### Teil 2 - Bildschirmspiegelung auf Ihrem Telefon oder Computer öffnen  
+  
+① Für Apple (iOS)-Nutzer: Öffnen Sie auf Ihrem iPhone oder iPad das Kontrollzentrum und tippen Sie auf das Symbol "Screen Mirroring". Wählen Sie dann die angezeigten INMO AIR3 Smartglasses, um die Bildschirmspiegelung zu starten.  
+  
+② Für Android-Nutzer: Öffnen Sie auf Ihrem Telefon das Kontrollzentrum und tippen Sie auf das Symbol "Screen Mirroring". Wählen Sie dann das Gerät INMO AIR3 Smartglasses, um die Bildschirmspiegelung zu starten.  
 
 ![](public/images/air3/screen-mirroring-3.jpg)
 

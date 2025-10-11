@@ -36,7 +36,7 @@ Erstverbindung des Rings
 
 * Dort finden Sie das Gerät "INMO Ring 3" und können darauf klicken, um die Verbindung herzustellen.  
 
-![](public/images/air3/jp/ring-6.png)
+![](public/images/air3/de/ring-6.png)
 
 **Hinweis:**  
 

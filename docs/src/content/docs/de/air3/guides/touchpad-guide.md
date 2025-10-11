@@ -1,128 +1,131 @@
 ---
-title: タッチパッドガイド 
+title: Touchpad-Anleitung 
 
-description: INMO Air3 タッチパッドデバイスのユーザーガイド
+description: Benutzerhandbuch für das INMO Air3 Touchpad
 sidebar:
   order: 5
 ---
 
-### パート1 ステータスインジケーター &#x20;
-
-* 緑色ライト: 完全充電  
+### Teil 1 - Statusanzeigen  
+  
+* Grüne Leuchte: Vollständig aufgeladen  
 
 ![](public/images/air3/inmo-touchpad-user-manual-1.png)
 
-* 赤色ライト: 充電中 
+* Rote Leuchte: Laden
 
 ![](public/images/air3/inmo-touchpad-user-manual-2.png)
 
-* 低バッテリー: タッチすると赤色ライトが点滅します。 
-
+* Niedriger Akku: Die rote Leuchte blinkt beim Berühren.  
 
 ![](public/images/air3/inmo-touchpad-user-manual-3.png)
 
-* 青色点滅: Bluetooth ブロードキャスト中
+* Blinkende blaue Leuchte: Bluetooth-Sendezustand  
 
 ![](public/images/air3/inmo-touchpad-user-manual-4.png)
 
 
-### パート2 基本操作
+### Teil 2 - Grundlegende Bedienung
 
-![](public/images/air3/jp/inmo-touchpad-user-manual-5.png)
-
-
-### パート3 電源のオン/オフとBluetooth接続
-
-① 電源のオン/オフ：電源を入れるとBluetoothペアリングが可能になります。電源を切るとデバイスはそのままオフになります。  
-
-② 接続方法：電源を入れると青色LEDが点滅します。このとき、Bluetooth名「INMO Touchpad」を検索してペアリングしてください。初回ペアリング後は、電源を入れるたびに自動的に接続されます。  
-
-③ 再ペアリング：まずカメラボタンを長押しし、その後スイッチを左にスライドします。これで既存のペアリング情報が削除されます。  
-
-### パート4 メガネとの接続
-
-① デスクトップに移動 -> 「周辺機器管理」を選択 -> タップして検索します。「INMO Touchpad」が表示されたらタップして接続します。  
-
-![](public/images/air3/jp/inmo-touchpad-user-manual-6.png)
-
-② 接続が完了すると「INMO Touchpad」が接続済みと表示されます。
-
-![](public/images/air3/jp/inmo-touchpad-user-manual-7.png)
-
-③ 「INMO Touchpad」が切断されていると表示された場合は、INMO Touchpadの電源を入れて接続してください。注：以前にペアリングした「INMO Touchpad」は電源を入れると自動的に接続されます。  
-
-![](public/images/air3/jp/inmo-touchpad-user-manual-8.png)
-
-**注: ペアリング済みの「INMO Touchpad」は電源を入れると自動的に接続されます。**
+![](public/images/air3/de/inmo-touchpad-user-manual-5.png)
 
 
-### パート5 通常の機能キー
+### Teil 3 - Ein-/Ausschalten und Bluetooth-Verbindung  
 
-* 音量調整：側面のボリュームキーで音量を調整します。
+① Ein-/Ausschalten  
+Nach dem Einschalten kann eine Bluetooth-Kopplung durchgeführt werden; nach dem Ausschalten wird das Gerät direkt abgeschaltet.  
+  
+② Verbindungsart  
+Nach dem Einschalten blinkt die blaue LED. In diesem Zustand kann der Bluetooth-Name "INMO Touchpad" gesucht und zur Kopplung ausgewählt werden. Nach der ersten Kopplung verbindet sich das Gerät bei jedem Einschalten automatisch.  
+
+③ Neu-Kopplung  
+Zuerst die Kamerataste drücken und halten, dann den Schalter nach links schieben — das Gerät löscht die vorhandenen Kopplungsinformationen.  
+  
+  
+### Teil 4 - Verbindung mit den Brillen  
+  
+① Gehen Sie zum Desktop -> wählen Sie "Peripheral Management" -> tippen Sie auf "tap and search". Sie finden das Gerät "INMO Touchpad", tippen Sie darauf, um die Verbindung herzustellen.  
+
+![](public/images/air3/inmo-touchpad-user-manual-6.png)
+
+② Nach Abschluss der Verbindung wird angezeigt, dass "INMO Touchpad" verbunden ist.  
+
+![](public/images/air3/de/inmo-touchpad-user-manual-7.png)
+
+③ Wenn angezeigt wird, dass "INMO Touchpad" getrennt ist, müssen Sie das "INMO Touchpad" einschalten, um die Verbindung wiederherzustellen. Hinweis: Ein zuvor gekoppeltes "INMO Touchpad" verbindet sich beim Einschalten automatisch.   
+
+![](public/images/air3/de/inmo-touchpad-user-manual-8.jpg)
+
+**Hinweis: Ein bereits gekoppeltes "INMO Touchpad" verbindet sich nach dem Einschalten automatisch.**  
+
+
+### Teil 5 - Reguläre Funktionstasten  
+  
+* Lautstärkeanpassung: Stellen Sie die Lautstärke mit den seitlichen Lautstärketasten ein.  
 
 ![](public/images/air3/inmo-touchpad-user-manual-9.png)
 
-* 戻るキー 短押し：前の画面に戻る 
+* Zurück-Taste Kurzer Tipp: Zur vorherigen Ebene zurückkehren 
 
 ![](public/images/air3/inmo-touchpad-user-manual-10.png)
 
-* カメラ機能キー  
+* Kamerafunktionstaste 
 
-![](public/images/air3/jp/inmo-touchpad-user-manual-11.png)
+![](public/images/air3/de/inmo-touchpad-user-manual-11.png)
 
-* ホームキー
-短押し：ホーム画面に戻る  
-長押し：音声アシスタントを起動 
+* Home-Taste  
+Kurz drücken: Zur Startseite zurückkehren  
+Langes Drücken: Sprachassistent aktivieren 
 
 ![](public/images/air3/inmo-touchpad-user-manual-12.png)
 
-### パート6 タッチパッドの操作 
+### Teil 6 - Touchpad-Bedienung 
 
-① 中央エリア内を移動&#x20;
+① Bewegung im zentralen Bereich &#x20;
 
-&#x20;   カーソルを移動します。
+&#x20;   Bewegt den Cursor
 
 ![](public/images/air3/inmo-touchpad-user-manual-13.png)
 
-② 中央エリア内をクリック&#x20;
+② Klicken im zentralen Bereich&#x20;
 
-&#x20;   画面をクリックします。
+&#x20;   Klickt auf den Bildschirm. 
 
 ![](public/images/air3/inmo-touchpad-user-manual-14.png)
 
-③ 側面をスライド&#x20;
+③ Wischen entlang der Seitenkante &#x20;
 
-&#x20;   ページを上下にスクロールしたり、短い動画を切り替えたりします。
+&#x20;   Scrollt Seiten nach oben und unten oder wechselt zwischen Kurzvideos. 
 
-④ 上部をスライド&#x20;
+④ Wischen entlang der oberen Kante&#x20;
 
-&#x20;   ページやカテゴリを左右にスライドします。  
+&#x20;   Verschiebt Seiten oder Kategorien nach links und rechts.  
 
-⑤ Fn + 側面をスライド&#x20;
+⑤ Fn + Wischen entlang der Seitenkante  &#x20;
 
-&#x20;   Fnキーを押し続けたまま左右をスライドすると画面の明るさを調整できます。  
+&#x20;   Halten Sie die Fn-Taste gedrückt und wischen Sie links oder rechts, um die Bildschirmhelligkeit anzupassen.  
 
 ![](public/images/air3/inmo-touchpad-user-manual-15.png)
 
-### パート7 Fnキーの機能 
-
-Fnキーを単押：画面をオフ/オン
+### Teil 7 - Fn-Tasten-Funktionen
+  
+Einmaliges Tippen der Fn-Taste: Bildschirm aus-/einschalten  
 
 
 ![](public/images/air3/inmo-touchpad-user-manual-16.png)
 
-Fn + カメラキー：再生 / 一時停止  
+Fn + Kamera-Taste: Musik abspielen / pausieren   
 
 
 ![](public/images/air3/inmo-touchpad-user-manual-17.png)
 
-Fn + 音量上：前のトラックへ 
+Fn + Lauter: Vorheriger Titel  
 
 
 ![](public/images/air3/inmo-touchpad-user-manual-18.png)
 
 
-Fn + 音量下：次のトラックへ  
+Fn + Leiser: Nächster Titel   
 
 
 ![](public/images/air3/inmo-touchpad-user-manual-19.png)
