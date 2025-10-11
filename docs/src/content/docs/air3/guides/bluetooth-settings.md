@@ -111,7 +111,7 @@ sidebar:
 
 ![](public/images/air3/bluetooth-14.png)
 
-***Note:&#x20;**&#x43;onnected WiFi networks will be saved automatically and will connect automatically the next time.*
+***Note:&#x20;**&#x43;connected WiFi networks will be saved automatically and will connect automatically the next time.*
 
 
 
