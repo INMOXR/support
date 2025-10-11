@@ -20,9 +20,9 @@ In den Smartglasses tippen Sie auf "Files", um die Dateiverwaltungsseite zu öff
   
 Hinweis: Die Dateiverwaltungsfunktionen in den Smartglasses unterstützen derzeit ausschließlich die Steuerung über das Touchpad und den Ring.  
 
-![](public/images/air3/de/file-1.png)
+![](public/images/air3/de/file-management-1.png)
 
-![](public/images/air3/de/file-2.png)
+![](public/images/air3/de/file-management-2.png)
 
 ### Teil 2 - Dateien der Brille mit Ihrem Computer verwalten
 
@@ -30,9 +30,9 @@ Hinweis: Die Dateiverwaltungsfunktionen in den Smartglasses unterstützen derzei
   
 ② Sobald die Smartglasses per USB mit einem Computer verbunden sind, finden Sie auf Ihrem Computer unter "This PC" (oder "My Computer") entweder "IMA301" oder "Internal Shared Storage". Sie können dann die in den Smartglasses gespeicherten Dateien verwalten.  
 
-![](public/images/air3/de/file-3.png)
+![](public/images/air3/de/file-management-3.png)
 
-![](public/images/air3/de/file-4.png)
+![](public/images/air3/de/file-management-4.png)
 
 
 
