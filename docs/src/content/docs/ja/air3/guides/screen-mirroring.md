@@ -14,9 +14,9 @@ sidebar:
 
 注: 画面ミラーリングを正常に動作させるには、送信元デバイス（キャスト元）とAIR3スマートグラスの両方が同じWi‑Fiネットワークに接続されていることを確認してください。  
 
-![](public/images/air3/ja/screen-mirroring-1.png)
+![](public/images/air3/JP/screen-mirroring-1.png)
 
-![](public/images/air3/ja/screen-mirroring-2.png)
+![](public/images/air3/JP/screen-mirroring-2.png)
 
 ### パート2 - スマートフォンまたはコンピューターで画面ミラーリングを開始する
 
