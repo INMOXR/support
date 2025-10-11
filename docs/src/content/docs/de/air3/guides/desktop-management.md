@@ -21,7 +21,7 @@ sidebar:
   
 ① Öffnen Sie vom Desktop die App-Bibliothek. Wählen Sie die gewünschte App aus und drücken Sie dann die Mitte des Touchpads oder den Touchbereich des Rings und halten Sie gedrückt.  
   
-  
+
 ② Sobald eine App ausgewählt und lange gedrückt wurde, können Sie Aktionen wie Verschieben oder Deinstallieren durchführen. (Die Deinstallationsfunktion ist nur für vom Benutzer heruntergeladene Anwendungen verfügbar.)  
   
   
@@ -38,7 +38,7 @@ Hinweis: Jede Seite der App-Bibliothek unterstützt ein Layout von 4-5-4 Anwendu
 ② Andere Apps: Alternativ können Benutzer Yingyongbao (App Treasure) aufrufen, um andere interessierende Anwendungen eigenständig herunterzuladen.  
   
 
-![](public/images/air3/jp/desktop-management-4.png)
+![](public/images/air3/de/desktop-management-4.png)
 
 
 
