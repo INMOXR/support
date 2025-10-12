@@ -8,9 +8,9 @@ sidebar:
 
 ## 1. Produktübersicht
 
-![](public/images/air3/de/quick-start-1.png)
+![](public/images/air3/de/quick-start-1.jpg)
 
-![](public/images/air3/de/quick-start-2.png)
+![](public/images/air3/de/quick-start-2.jpg)
 
 ![](public/images/air3/de/quick-start-3.png)
 

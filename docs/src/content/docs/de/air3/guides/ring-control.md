@@ -6,7 +6,7 @@ sidebar:
   order: 6
 ---
 
-## パート 1 Teil 1 - Ring-Anzeigeleuchte  
+## Teil 1 - Ring-Anzeigeleuchte  
 
 Die folgende Tabelle zeigt die Zuordnung zwischen den Anzeigeleuchten und ihren Zuständen.  
 Wenn der Ring erfolgreich gekoppelt ist, erlischt die Anzeigeleuchte. 
