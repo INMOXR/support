@@ -30,27 +30,27 @@ sidebar:
 ![](public/images/air3/de/inmo-touchpad-user-manual-5.png)
 
 
-### Teil 3 - Ein-/Ausschalten und Bluetooth-Verbindung  
+### Teil 3 - Ein- und Ausschalten und Bluetooth-Konnektivität
 
-① Ein-/Ausschalten  
-Nach dem Einschalten kann eine Bluetooth-Kopplung durchgeführt werden; nach dem Ausschalten wird das Gerät direkt abgeschaltet.  
+① Ein- und Ausschalten 
+Nach dem Einschalten ist das Gerät bereit für die Bluetooth-Kop plung. Bluetooth wird getrennt, wenn das Gerät ausgeschaltet wird.
   
-② Verbindungsart  
-Nach dem Einschalten blinkt die blaue LED. In diesem Zustand kann der Bluetooth-Name "INMO Touchpad" gesucht und zur Kopplung ausgewählt werden. Nach der ersten Kopplung verbindet sich das Gerät bei jedem Einschalten automatisch.  
+② Verbindungsmethode 
+Nach dem Einschalten blinkt eine blaue LED, die anzeigt, dass es erkennbarist. Suchen Sie dann nach dem Bluetooth-Namen "INMO Touchpad" zur Kopplung. Nach der ersten Kopplung verbindet sich das Gerät bei jedem Einschalten automatisch. 
 
-③ Neu-Kopplung  
-Zuerst die Kamerataste drücken und halten, dann den Schalter nach links schieben — das Gerät löscht die vorhandenen Kopplungsinformationen.  
+③ Erneutes Koppeln 
+Halten Sie die Kamerataste gedrückt und schalten Sie dann das Gerät ein. Dadurch werden zuvor verbundene Geräteinformationen gelöscht und das Gerät ist bereit für eine neue Kopplung.
   
   
 ### Teil 4 - Verbindung mit den Brillen  
   
-① Gehen Sie zum Desktop -> wählen Sie "Peripheral Management" -> tippen Sie auf "tap and search". Sie finden das Gerät "INMO Touchpad", tippen Sie darauf, um die Verbindung herzustellen.  
+① Öffnen Sie den Desktop -> INMO Touchpad Management -> klicken und suchen Sie. Sie finden das Gerät "INMO Touchpad". Klicken Sie zum Verbinden.
 
 ![](public/images/air3/inmo-touchpad-user-manual-6.png)
 
 ② Nach Abschluss der Verbindung wird angezeigt, dass "INMO Touchpad" verbunden ist.  
 
-![](public/images/air3/de/inmo-touchpad-user-manual-7.png)
+![](public/images/air3/de/inmo-touchpad-user-manual-7.jpg)
 
 ③ Wenn angezeigt wird, dass "INMO Touchpad" getrennt ist, müssen Sie das "INMO Touchpad" einschalten, um die Verbindung wiederherzustellen. Hinweis: Ein zuvor gekoppeltes "INMO Touchpad" verbindet sich beim Einschalten automatisch.   
 
@@ -59,17 +59,17 @@ Zuerst die Kamerataste drücken und halten, dann den Schalter nach links schiebe
 **Hinweis: Ein bereits gekoppeltes "INMO Touchpad" verbindet sich nach dem Einschalten automatisch.**  
 
 
-### Teil 5 - Reguläre Funktionstasten  
+### Teil 5 - Grundlegende Funktionstasten
   
-* Lautstärkeanpassung: Stellen Sie die Lautstärke mit den seitlichen Lautstärketasten ein.  
+* Lautstärkeanpassung: Passen Sie die Lautstärke mit den seitlichen Lautstärketasten an. 
 
 ![](public/images/air3/inmo-touchpad-user-manual-9.png)
 
-* Zurück-Taste Kurzer Tipp: Zur vorherigen Ebene zurückkehren 
+* Zurück-Taste: Kurzes Drücken: Kehrt zur vorherigen Seite zurück oder beendet den Kameramodus. 
 
 ![](public/images/air3/inmo-touchpad-user-manual-10.png)
 
-* Kamerafunktionstaste 
+* Kamerataste
 
 ![](public/images/air3/de/inmo-touchpad-user-manual-11.png)
 
@@ -109,23 +109,27 @@ Langes Drücken: Sprachassistent aktivieren
 
 ### Teil 7 - Fn-Tasten-Funktionen
   
-Einmaliges Tippen der Fn-Taste: Bildschirm aus-/einschalten  
+**Einzelnes Drücken der Fn-Taste:** 
+Schaltet den Bildschirm aus/ein.
 
 
 ![](public/images/air3/inmo-touchpad-user-manual-16.png)
 
-Fn + Kamera-Taste: Musik abspielen / pausieren   
+**Fn + Kamera-Taste:** 
+Musik abspielen / pausieren   
 
 
 ![](public/images/air3/inmo-touchpad-user-manual-17.png)
 
-Fn + Lauter: Vorheriger Titel  
+**Fn + Lauter:** 
+Vorheriger Titel  
 
 
 ![](public/images/air3/inmo-touchpad-user-manual-18.png)
 
 
-Fn + Leiser: Nächster Titel   
+**Fn + Leiser:** 
+Nächster Titel   
 
 
 ![](public/images/air3/inmo-touchpad-user-manual-19.png)
