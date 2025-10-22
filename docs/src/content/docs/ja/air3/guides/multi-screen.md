@@ -16,7 +16,7 @@ sidebar:
 
 PS：画面のずれが発生していますか？\[設定] - \[システム] - \[センサーキャリブレーション] でデバイスをキャリブレーションしてください。
 
-![](public/images/air3/multi-screen-2.png)
+![](public/images/air3/jp/multi-screen-2.png)
 
 
 ③ Ring3の光線（レイ）方式で操作を行います。

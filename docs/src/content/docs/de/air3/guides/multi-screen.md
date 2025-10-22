@@ -16,7 +16,7 @@ sidebar:
 
 PS: Erleben Sie Bildschirmdrift? Bitte kalibrieren Sie das Gerät unter \[Einstellungen] - \[System] - \[Sensorkalibrierung].
 
-![](public/images/air3/multi-screen-2.png)
+![](public/images/air3/de/multi-screen-2.png)
 
 
 ③ Die Interaktion erfolgt über die Ring3-Strahlmethode.
