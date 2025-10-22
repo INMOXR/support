@@ -18,11 +18,11 @@ sidebar:
 
 PS: Experiencing screen drift? Please calibrate the device in \[Settings] - \[System] - \[Sensor Calibration].
 
-③Interaction is performed using the Ring3 ray method.
+③ Interaction is performed using the Ring3 ray method.
 
 ![](public/images/air3/multi-screen-3.jpg)
 
-④Use the ray to select the app you want to open, then tap the ring on the confirmation panel to access the app. Currently, it supports opening up to three apps simultaneously.
+④ Use the ray to select the app you want to open, then tap the ring on the confirmation panel to access the app. Currently, it supports opening up to three apps simultaneously.
 
 (The following shows that the Google webpage and the file webpage are open simultaneously.)
 
