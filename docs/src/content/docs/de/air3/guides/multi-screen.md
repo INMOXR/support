@@ -14,9 +14,10 @@ sidebar:
 
 ② Diese App unterstützt nur die Interaktion über Ring3.
 
+PS: Erleben Sie Bildschirmdrift? Bitte kalibrieren Sie das Gerät unter \[Einstellungen] - \[System] - \[Sensorkalibrierung].
+
 ![](public/images/air3/multi-screen-2.png)
 
-PS: Erleben Sie Bildschirmdrift? Bitte kalibrieren Sie das Gerät unter \[Einstellungen] - \[System] - \[Sensorkalibrierung].
 
 ③ Die Interaktion erfolgt über die Ring3-Strahlmethode.
 

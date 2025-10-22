@@ -14,9 +14,10 @@ sidebar:
 
 ② This app only supports interaction via Ring3.
 
+PS: Experiencing screen drift? Please calibrate the device in \[Settings] - \[System] - \[Sensor Calibration].
+
 ![](public/images/air3/multi-screen-2.png)
 
-PS: Experiencing screen drift? Please calibrate the device in \[Settings] - \[System] - \[Sensor Calibration].
 
 ③ Interaction is performed using the Ring3 ray method.
 
