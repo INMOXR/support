@@ -26,6 +26,7 @@ const sidebarTopicsConfig = [
         link: '/air3/',
         items: [
 			{ label: 'Guides', autogenerate: { directory: 'air3/guides' } },
+            { label: 'Development', autogenerate: { directory: 'air3/development' } },
 		],
     },
     {
