@@ -6,11 +6,11 @@ sidebar:
   order: 8
 ---
 
-### Part 1 マルチスクリーンスペースの利用を開始する
+### パート 1 マルチスクリーンスペースの利用を開始する
 
 ① \[デスクトップ] - \[App Library] に移動し、Multi-Screen Space アプリを選択します。
 
-![](public/images/air3/jp/multi-screen-1.png)
+![](public/images/air3/jp/multi-screen-1.jpg)
 
 ② このアプリはRing3でのみ操作できます。
 
