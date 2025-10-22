@@ -1,48 +1,47 @@
 ---
-title: Start Multi-Screen Mode
+title: マルチスクリーンモードを開始
 
-description: Start Multi-Screen Mode
+description: マルチスクリーンモードを開始
 sidebar:
   order: 8
 ---
 
-### Part 1 Getting Started with Multi-Screen Space
+### Part 1 マルチスクリーンスペースの利用を開始する
 
-① Go to \[Desktop] - \[App Library] - select the Multi-Screen Space app.
+① \[デスクトップ] - \[App Library] に移動し、Multi-Screen Space アプリを選択します。
 
-![](public/images/air3/multi-screen-1.PNG)
+![](public/images/air3/jp/multi-screen-1.png)
 
-② This app only supports interaction via Ring3.
+② このアプリはRing3でのみ操作できます。
 
 ![](public/images/air3/multi-screen-2.png)
 
-PS: Experiencing screen drift? Please calibrate the device in \[Settings] - \[System] - \[Sensor Calibration].
+PS：画面のずれが発生していますか？\[設定] - \[システム] - \[センサーキャリブレーション] でデバイスをキャリブレーションしてください。
 
-③Interaction is performed using the Ring3 ray method.
+③Ring3の光線（レイ）方式で操作を行います。
 
 ![](public/images/air3/multi-screen-3.jpg)
 
-④Use the ray to select the app you want to open, then tap the ring on the confirmation panel to access the app. Currently, it supports opening up to three apps simultaneously.
+④開きたいアプリを光線で選択し、確認パネルでリングをタップするとアプリにアクセスできます。現在、最大3つのアプリまで同時に開くことができます。
 
-(The following shows that the Google webpage and the file webpage are open simultaneously.)
+(以下はGoogleのウェブページとファイルのウェブページが同時に開いている例を示しています。)
 
 ![](public/images/air3/multi-screen-4.jpg)
 
 ![](public/images/air3/multi-screen-5.jpg)
 
-⑤Tap to swap the sorting positions of the apps.
+⑤タップしてアプリの表示順を入れ替えます。
 
 ![](public/images/air3/multi-screen-6.jpg)
 
-⑥ Drag the bottom-right corner of an app to adjust its display size.
+⑥ アプリの右下隅をドラッグして、表示サイズを調整します。
 
 ![](public/images/air3/multi-screen-7.png)
 
-⑦ Point the ray pointer here, press and hold the confirmation button on the Ring3 operation ring, and you can drag the floating window.
+⑦ 光線ポインターをここに合わせ、Ring3操作リングの確認ボタンを長押しすると、フローティングウィンドウをドラッグできます。
 
 ![](public/images/air3/multi-screen-8.png)
 
-⑧ Point the ray pointer here, and click to close the opened window.
+⑧ 光線ポインターをここに合わせ、クリックすると開いているウィンドウを閉じます。
 
 ![](public/images/air3/multi-screen-9.png)
-
