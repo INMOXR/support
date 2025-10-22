@@ -1,5 +1,5 @@
 ---
-title: Unlock Developer Mode and Access Key Device
+title: Unlock Developer Mode
 
 description: How to unlock deverloper mode and access key device
 sidebar:
