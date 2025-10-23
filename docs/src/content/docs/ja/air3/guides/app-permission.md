@@ -10,7 +10,7 @@ sidebar:
 
 ① On the glasses desktop, swipe to the \[Settings] app icon and tap it to enter the Settings interface.
 
-![](public/images/air3/jp/permissions-1.PNG)
+![](public/images/air3/jp/permissions-1.png)
 
 ② Tap "Apps" to view Recent apps, All apps, Default apps, idle apps, and special app access.
 
