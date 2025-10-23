@@ -10,7 +10,7 @@ sidebar:
 
 ① Wischen Sie auf dem Brillen-Desktop zum Symbol der \[Einstellungen]-App und tippen Sie darauf, um die Einstellungen-Oberfläche aufzurufen.
 
-![](public/images/air3/de/permissions-1.PNG)
+![](public/images/air3/de/permissions-1.png)
 
 ② Tippen Sie auf "Apps", um zuletzt verwendete Apps, alle Apps, Standard-Apps, inaktive Apps und speziellen App-Zugriff anzuzeigen.
 
