@@ -3,7 +3,7 @@ title: Firmware Updates for Your Glasses
 
 description: Firmware Updates for Your Glasses
 sidebar:
-  order: 20
+  order: 21
 ---
 
 ### Part 1 Update Detection & Initiation

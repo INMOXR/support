@@ -3,7 +3,7 @@ title: Setting Up the Voice Assistant
 
 description: Setting Up the Voice Assistant
 sidebar:
-  order: 16
+  order: 17
 ---
 
 ① On the glasses desktop, swipe to the \[Settings] app icon and tap it to enter the Settings interface.

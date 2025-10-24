@@ -3,7 +3,7 @@ title: Enable and Manage Location Settings
 
 description: Enable and Manage Location Settings
 sidebar:
-  order: 15
+  order: 16
 ---
 
 ### Part 1 Enable Location & Authorization

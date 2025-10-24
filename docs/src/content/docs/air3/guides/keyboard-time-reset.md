@@ -3,7 +3,7 @@ title: Keyboard, Time & Reset System Settings Guide
 
 description: Keyboard, Time & Reset System Settings Guide
 sidebar:
-  order: 18
+  order: 19
 ---
 
 ① Tap "System" → "On-Screen Keyboard" to select the desired input method keyboard.

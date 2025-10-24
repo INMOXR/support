@@ -3,7 +3,7 @@ title: Desktop management
 
 description: INMO Air3 desktop management
 sidebar:
-  order: 2
+  order: 3
 ---
 
 ### Part 1 - Desktop overview

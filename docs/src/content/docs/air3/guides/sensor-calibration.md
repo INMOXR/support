@@ -3,7 +3,7 @@ title: Sensor Calibration and Reset Guide
 
 description: Sensor Calibration and Reset Guide
 sidebar:
-  order: 19
+  order: 20
 ---
 
 ① On the glasses desktop, swipe to the \[Settings] app icon and tap it to enter the Settings interface.

@@ -3,7 +3,7 @@ title: Screen mirroring
 
 description: INMO Air3 screen mirroring.
 sidebar:
-  order: 4
+  order: 5
 ---
 
 ### Part 1 - Open the function in your glasses
