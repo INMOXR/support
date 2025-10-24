@@ -3,7 +3,7 @@ title: Dateiverwaltung
 
 description: INMO Air3 Dateiverwaltung.
 sidebar:
-  order: 3
+  order: 4
 ---
 
 ### Teil 1 - Dateien in der Brille verwalten

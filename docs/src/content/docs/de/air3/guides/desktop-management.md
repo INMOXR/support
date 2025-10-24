@@ -3,7 +3,7 @@ title: desktop-management-Verwaltung
 
 description: INMO Air3 desktop-management-Verwaltung
 sidebar:
-  order: 2
+  order: 3
 ---
 
 ### Teil 1 - desktop-management-Übersicht  

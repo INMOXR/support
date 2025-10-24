@@ -3,7 +3,7 @@ title: Bildschirmspiegelung
 
 description: INMO Air3 Bildschirmspiegelung.
 sidebar:
-  order: 4
+  order: 5
 ---
 
 ### Teil 1 - Funktion in den Smartglasses aktivieren  

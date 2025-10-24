@@ -3,7 +3,7 @@ title: App-Berechtigungen einstellen
 
 description: App-Berechtigungen einstellen
 sidebar:
-  order: 10
+  order: 11
 ---
 
 ### Teil 1 Zugriff auf App-Einstellungen

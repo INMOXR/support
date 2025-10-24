@@ -3,7 +3,7 @@ title: Ring-Steuerungsanleitung
 
 description: Benutzerhandbuch zur Ringsteuerung des INMO Air3
 sidebar:
-  order: 6
+  order: 7
 ---
 
 ## Teil 1 - Ring-Anzeigeleuchte  

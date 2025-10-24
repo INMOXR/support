@@ -3,7 +3,7 @@ title: Bluetooth-Einstellungen
 
 description: So verbinden Sie andere Geräte über Bluetooth im INMO Air3
 sidebar:
-  order: 7
+  order: 8
 ---
 
 ### Teil 1 - Bluetooth-Lautsprecher verbinden
