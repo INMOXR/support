@@ -6,7 +6,7 @@ sidebar:
   order: 1
 ---
 
-## 1. Produktübersicht
+## Teil 1. Produktübersicht
 
 ![](public/images/air3/de/quick-start-1.jpg)
 
@@ -14,17 +14,17 @@ sidebar:
 
 ![](public/images/air3/de/quick-start-3.png)
 
-## 2. Bedienungsanleitung
+## Teil 2. Bedienungsanleitung
 
 ![](public/images/air3/de/quick-start-4.png)
 
 ![](public/images/air3/de/quick-start-5.png)
 
-## 3. Interaktiver Ring  
+## Teil 3. Interaktiver Ring  
 
 ![](public/images/air3/de/quick-start-6.png)
 
-## 4. Starten
+## Teil 4. Starten
 
 #### Schritt 1 Einschalten
 
@@ -46,7 +46,7 @@ Verwenden Sie das rechte Touchpad oder den Ring für die Einrichtung und die Net
 
 ![](public/images/air3/de/quick-start-9.png)
 
-## 5. LED-Anzeigen (Strom)  
+## Teil 5. LED-Anzeigen (Strom)  
 
 #### Brille  
 

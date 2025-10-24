@@ -1,5 +1,5 @@
 ---
-title: Schnellstart
+title: Schnellstartanleitung
 
 description: INMO Air3 Schnellstartanleitung.
 sidebar:

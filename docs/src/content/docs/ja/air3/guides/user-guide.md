@@ -6,7 +6,7 @@ sidebar:
   order: 1
 ---
 
-## 1. 製品概要
+## パート 1. 製品概要
 
 ![](public/images/air3/jp/quick-start-1.png)
 
@@ -14,17 +14,17 @@ sidebar:
 
 ![](public/images/air3/jp/quick-start-3.png)
 
-## 2. 操作ガイド
+## パート 2. 操作ガイド
 
 ![](public/images/air3/jp/quick-start-4.png)
 
 ![](public/images/air3/jp/quick-start-5.png)
 
-## 3. インタラクティブリング
+## パート 3. インタラクティブリング
 
 ![](public/images/air3/jp/quick-start-6.png)
 
-## 4. 開始
+## パート 4. 開始
 
 #### ステップ1 電源を入れる
 
@@ -46,7 +46,7 @@ sidebar:
 
 ![](public/images/air3/jp/quick-start-9.png)
 
-## 5. 電源LEDインジケーター
+## パート 5. 電源LEDインジケーター
 
 #### メガネ
 

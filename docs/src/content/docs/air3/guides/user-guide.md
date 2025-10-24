@@ -6,7 +6,7 @@ sidebar:
   order: 1
 ---
 
-## 1. Product Overview
+## Part 1. Product Overview
 
 ![](public/images/air3/quick-start-1.jpg)
 
@@ -14,17 +14,17 @@ sidebar:
 
 ![](public/images/air3/quick-start-3.jpg)
 
-## 2. Operation Guide
+## Part 2. Operation Guide
 
 ![](public/images/air3/quick-start-4.png)
 
 ![](public/images/air3/quick-start-5.png)
 
-## 3. Interactive Ring
+## Part 3. Interactive Ring
 
 ![](public/images/air3/quick-start-6.png)
 
-## 4. Start
+## Part 4. Start
 
 #### Step1 Power on
 
@@ -46,7 +46,7 @@ Use the right touchpad or ring for setup and network activation.
 
 ![](public/images/air3/quick-start-9.png)
 
-## 5. Power LED Indicators
+## Part 5. Power LED Indicators
 
 #### Glasses
 
