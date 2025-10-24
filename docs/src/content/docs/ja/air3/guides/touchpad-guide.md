@@ -3,7 +3,7 @@ title: タッチパッドガイド
 
 description: INMO Air3 タッチパッドデバイスのユーザーガイド
 sidebar:
-  order: 5
+  order: 6
 ---
 
 ### パート 1 ステータスインジケーター &#x20;

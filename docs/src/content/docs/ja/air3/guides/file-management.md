@@ -3,7 +3,7 @@ title: ファイル管理
 
 description: INMO Air3 ファイル管理.
 sidebar:
-  order: 3
+  order: 4
 ---
 
 ### パート 1 - スマートグラス内のファイル管理

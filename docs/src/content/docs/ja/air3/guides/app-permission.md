@@ -3,7 +3,7 @@ title: App permissions settings
 
 description: App permissions settings
 sidebar:
-  order: 10
+  order: 11
 ---
 
 ### パート 1 アプリ設定へのアクセス

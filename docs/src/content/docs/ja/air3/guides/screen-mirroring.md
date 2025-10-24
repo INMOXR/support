@@ -3,7 +3,7 @@ title: 画面ミラーリング
 
 description: INMO Air3 の画面ミラーリング。
 sidebar:
-  order: 4
+  order: 5
 ---
 
 ### パート 1 - メガネで機能を開く

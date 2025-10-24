@@ -3,7 +3,7 @@ title: デスクトップ管理
 
 description: INMO Air3 デスクトップ管理
 sidebar:
-  order: 2
+  order: 3
 ---
 
 ### パート 1 - デスクトップの概要 

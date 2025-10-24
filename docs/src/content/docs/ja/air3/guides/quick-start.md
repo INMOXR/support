@@ -3,7 +3,7 @@ title: クイックスタート
 
 description: INMO Air3 クイックスタートガイド.
 sidebar:
-  order: 1
+  order: 2
 ---
 
 ## はじめに
