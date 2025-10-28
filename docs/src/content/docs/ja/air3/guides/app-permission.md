@@ -8,25 +8,25 @@ sidebar:
 
 ### パート 1 アプリ設定へのアクセス
 
-① On the glasses desktop, swipe to the \[Settings] app icon and tap it to enter the Settings interface.
+① グラスのデスクトップで、[設定]アプリアイコンにスワイプしてタップし、設定インターフェースに入ります。
 
 ![](public/images/air3/jp/permissions-1.png)
 
-② Tap "Apps" to view Recent apps, All apps, Default apps, idle apps, and special app access.
+② 「アプリ」をタップして、最近使ったアプリ、すべてのアプリ、デフォルトアプリ、アイドル状態のアプリ、および特別なアプリのアクセスを表示します。
 
 ![](public/images/air3/jp/permissions-2.png)
 
 ### パート 2 アプリの詳細と権限管理
 
-① Tap "Apps" to view app information.
+① 「アプリ」をタップしてアプリ情報を表示します。
 
 ![](public/images/air3/jp/permissions-3.png)
 
-② Special app access allows you to set app permissions.
+② 特別なアプリのアクセスでは、アプリの権限を設定できます。
 
 ![](public/images/air3/jp/permissions-4.png)
 
-Note: This is similar to the Apps section on an Android phone.
+注：これはAndroidスマートフォンのアプリセクションと似ています。
 
 
 
