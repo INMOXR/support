@@ -3,7 +3,7 @@ title: グラスのファームウェアアップデート
   
 description: グラスのファームウェアアップデート  
 sidebar:  
-  order: 21  
+  order: 21  
 ---  
   
   

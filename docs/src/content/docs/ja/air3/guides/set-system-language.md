@@ -3,7 +3,7 @@ title: 言語設定ガイド
 
 description: INMO Air3のシステム言語を設定する  
 sidebar:  
-  order: 18  
+  order: 18  
 ---  
   
   

@@ -3,7 +3,7 @@ title: 画面の明るさ設定
   
 description: 画面の明るさ設定  
 sidebar:  
-  order: 15  
+  order: 15  
 ---  
   
   

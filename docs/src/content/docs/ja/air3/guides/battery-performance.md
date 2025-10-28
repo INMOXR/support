@@ -3,7 +3,7 @@ title: バッテリーとパフォーマンス設定
   
 description: バッテリーとパフォーマンス設定  
 sidebar:  
-  order: 12  
+  order: 12  
 ---  
   
   
