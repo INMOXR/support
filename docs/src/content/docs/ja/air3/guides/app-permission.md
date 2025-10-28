@@ -1,7 +1,7 @@
 ---
-title: App permissions settings
+title: アプリの権限設定
 
-description: App permissions settings
+description: アプリの権限設定
 sidebar:
   order: 11
 ---
