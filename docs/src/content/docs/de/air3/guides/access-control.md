@@ -1,7 +1,7 @@
 ---
-title: Access the Control Center
+title: Auf das Kontrollzentrum zugreifen
 
-description: Access the Control Center
+description: Auf das Kontrollzentrum zugreifen
 sidebar:
   order: 24
 ---
