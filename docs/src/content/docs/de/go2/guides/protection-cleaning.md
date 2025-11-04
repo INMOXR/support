@@ -1,18 +1,19 @@
 ---
-title: Protection & Cleaning
+title: Schutz und Reinigung
 
-description: Detailed guide on maintaining and cleaning your INMO GO2 AR Glasses, including lens care instructions and proper storage 
+description: Erfahren Sie, wie Sie Ihre INMO GO AR-Brille richtig reinigen und pflegen, einschließlich Linsenpflege und Aufbewahrungsrichtlinien.
 sidebar:
   order: 4
 ---
-#### Routine maintenance for the main body of the product
 
-Use a balloon or a soft brush to remove dust from the inside or gap of the opticalwaveguide lenses
+#### Routinemäßige Wartung des Hauptgehäuses des Produkts
 
-#### Lens Care
+Verwenden Sie einen Blasebalg oder eine weiche Bürste, um Staub aus dem Inneren oder den Spalten der optischen Wellenleiterlinsen zu entfernen.
 
-Wipe the optical waveguide lenses with the glass cloth supplied as an accessory
+#### Linsenpflege
 
-#### Storage
+Wischen Sie die optischen Wellenleiterlinsen mit dem als Zubehör gelieferten Brillenputztuch ab.
 
-In storage or transportation, the product should be stored in portable glasses to avoid damage
+#### Lagerung
+
+Bei Lagerung oder Transport sollte das Produkt in einem tragbaren Brillenetui aufbewahrt werden, um Beschädigungen zu vermeiden.

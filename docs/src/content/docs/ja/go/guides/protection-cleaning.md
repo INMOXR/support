@@ -1,19 +1,19 @@
 ---
-title: Protection & Cleaning
+title: 保護とクリーニング
 
-description: Learn how to properly clean and maintain your INMO GO AR Glasses, including lens care and storage guidelines.
-
+description: INMO GO ARグラスの適切なクリーニングとメンテナンス方法、レンズのお手入れと保管ガイドラインについて学びましょう。
 sidebar:
   order: 4
 ---
-#### Routine maintenance for the main body of the product
 
-Use a balloon or a soft brush to remove dust from the inside or gap of the opticalwaveguide lenses
+#### 製品本体のルーティンメンテナンス
 
-#### Lens Care
+光学導波路レンズの内部または隙間から、ブロアーまたは柔らかいブラシを使用してほこりを取り除きます
 
-Wipe the optical waveguide lenses with the glass cloth supplied as an accessory
+#### レンズのお手入れ
 
-#### Storage
+光学導波路レンズは、付属品として提供されている眼鏡拭きで拭いてください
 
-In storage or transportation, the product should be stored in portable glasses to avoid damage
+#### 保管
+
+保管または輸送の際は、損傷を避けるため、製品をポータブルグラスケースに保管してください
