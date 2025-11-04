@@ -3,7 +3,7 @@ title: PS5 Remote Play：The Ultimate LAN Guide
 
 description: PS5 Remote Play：The Ultimate LAN Guide
 sidebar:
-  order: 25
+  order: 26
 ---
 
 * **It’s called MirrorPlay on Apple devices and PSPlay on Android devices—they have the same functionality. Android version supports Chinese, while the Apple version does not.**
