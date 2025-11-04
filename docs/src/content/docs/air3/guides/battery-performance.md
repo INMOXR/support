@@ -6,7 +6,7 @@ sidebar:
   order: 12
 ---
 
-## Part 1 Display & System Performance Modes
+### Part 1 Display & System Performance Modes
 
 ① On the glasses desktop, swipe to the \[Settings] app icon and tap it to enter the Settings interface.
 
@@ -23,7 +23,7 @@ sidebar:
 Note: Power Saving Mode cannot be enabled while the device is charging.
 
 
-## Part 2 Power Saving Mode Configuration & Functionality
+### Part 2 Power Saving Mode Configuration & Functionality
 
 ① Under "Battery" → "Power Saving Mode", you can set the activation and deactivation times.
 

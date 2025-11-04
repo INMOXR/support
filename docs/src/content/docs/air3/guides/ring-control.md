@@ -6,7 +6,7 @@ sidebar:
   order: 7
 ---
 
-## Part 1 Ring Indicator Light
+### Part 1 Ring Indicator Light
 
 The follow~~i~~ng table shows the correspondence between indicator lights and their statuses.
 The ring is paired successfully, and the indicator light turns off.
@@ -17,11 +17,11 @@ The ring is paired successfully, and the indicator light turns off.
 
 ![](public/images/air3/ring-2.png)
 
-## Part 2 Basic Interaction Instruction
+### Part 2 Basic Interaction Instruction
 
 ![](public/images/air3/ring-3.png)
 
-## Part 3 Ring Pairing
+### Part 3 Ring Pairing
 
 First Connection of the Ring
 
@@ -60,7 +60,7 @@ Wait until the ring's blue light flashes rapidly.
 * Go to the glasses desktop -> Peripheral Management -> tap and search, then you'll find the "INMO Ring 3" device. Tap to connect.
 
 
-## Part 4  Ring Indicator Light
+### Part 4  Ring Indicator Light
 
 Long-press the function key on the ring to calibrate the cursor/ray to the center of the screen.Note: The ray function can only be used when entering \[Spatial Multi-Screen/Discovery]
 

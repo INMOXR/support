@@ -6,7 +6,7 @@ sidebar:
   order: 16
 ---
 
-## Part 1 Enable Location & Authorization
+### Part 1 Enable Location & Authorization
 
 ① On the glasses desktop, swipe to the \[Settings] app icon and tap it to enter the Settings interface.
 
@@ -19,7 +19,7 @@ sidebar:
 Note: This is similar to location permissions on an Android phone.
 
 
-## Part 2 App Permissions & Advanced Location
+### Part 2 App Permissions & Advanced Location
 
 ① App Location Permissions → You can modify the location permissions for apps.
 

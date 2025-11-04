@@ -6,7 +6,7 @@ sidebar:
   order: 16
 ---
 
-## Teil 1 Standort aktivieren & Autorisierung
+### Teil 1 Standort aktivieren & Autorisierung
 
 ① Wischen Sie auf dem Brillen-Desktop zum Symbol der \[Einstellungen]-App und tippen Sie darauf, um die Einstellungen-Oberfläche aufzurufen.
 
@@ -18,7 +18,7 @@ sidebar:
 
 Hinweis: Dies ist ähnlich den Standortberechtigungen auf einem Android-Telefon.
 
-## Teil 2 App-Berechtigungen & erweiterter Standort
+### Teil 2 App-Berechtigungen & erweiterter Standort
 
 ① App-Standortberechtigungen → Sie können die Standortberechtigungen für Apps ändern.
 

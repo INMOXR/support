@@ -6,7 +6,7 @@ sidebar:
   order: 11
 ---
 
-## Teil 1 Zugriff auf App-Einstellungen
+### Teil 1 Zugriff auf App-Einstellungen
 
 ① Wischen Sie auf dem Brillen-Desktop zum Symbol der \[Einstellungen]-App und tippen Sie darauf, um die Einstellungen-Oberfläche aufzurufen.
 
@@ -16,7 +16,7 @@ sidebar:
 
 ![](public/images/air3/de/permissions-2.png)
 
-## Teil 2 App-Details und Berechtigungsverwaltung
+### Teil 2 App-Details und Berechtigungsverwaltung
 
 ① Tippen Sie auf "Apps", um App-Informationen anzuzeigen.
 

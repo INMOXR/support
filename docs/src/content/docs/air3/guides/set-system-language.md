@@ -6,7 +6,7 @@ sidebar:
   order: 18
 ---
 
-## Part 1 Default Language Setup
+### Part 1 Default Language Setup
 
 ① On the glasses desktop, swipe to the \[Settings] app icon and tap it to enter the Settings interface.
 
@@ -18,7 +18,7 @@ sidebar:
 
 ![](public/images/air3/language-setting-3.png)
 
-## Part 2 Multilingual Management
+### Part 2 Multilingual Management
 
 ① Tap "System" → "Language" → "System Language" → "Add Language".
 

@@ -6,7 +6,7 @@ sidebar:
   order: 23
 ---
 
-## Part 1 Managing App Notification Settings
+### Part 1 Managing App Notification Settings
 
 ① On the glasses desktop, swipe to the \[Settings] app icon and tap it to enter the Settings interface.
 
@@ -20,7 +20,7 @@ sidebar:
 
 Note: Notification pop-ups will disappear after 5 seconds.
 
-## Part 2 Notification History & Access Permissions
+### Part 2 Notification History & Access Permissions
 
 ① After enabling "Notifications" → "Notification History", recent notifications will be displayed here.
 
