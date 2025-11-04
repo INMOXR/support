@@ -6,7 +6,7 @@ sidebar:
   order: 4
 ---
 
-### Part 1 - Manage files in glasses
+### Part 1  Manage files in glasses
 
 On the smart glasses, tap "Files" to access the File Management page. Users can perform the following operations:
 
@@ -24,7 +24,7 @@ Note: The file management features on the smart glasses currently support contro
 
 ![](public/images/air3/file-management-2.png)
 
-### Part 2 - Manage glasses's files with your computer
+### Part 2 Manage glasses's files with your computer
 
 ① Users can manage files by connecting the smart glasses to a computer using the official AIR3 USB data cable.
 

@@ -60,7 +60,7 @@ Wait until the ring's blue light flashes rapidly.
 * Go to the glasses desktop -> Peripheral Management -> tap and search, then you'll find the "INMO Ring 3" device. Tap to connect.
 
 
-### Part 4  Ring Indicator Light
+### Part 4 Ring Indicator Light
 
 Long-press the function key on the ring to calibrate the cursor/ray to the center of the screen.Note: The ray function can only be used when entering \[Spatial Multi-Screen/Discovery]
 

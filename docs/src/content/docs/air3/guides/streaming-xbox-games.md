@@ -6,7 +6,7 @@ sidebar:
   order: 25
 ---
 
-### Step 1: Console Side: Required Settings for Xbox
+#### Step 1: Console Side-Required Settings for Xbox
 
 1. Turn on your console and log in with your account. Ensure the region of your device is a location that supports streaming services, such as the United States or Europe—Chinese mainland editions are not supported.
 
@@ -24,7 +24,7 @@ sidebar:
 
 - **Completion of Console Setup**: No need to re-adjust console settings for subsequent streaming via either the official App or XBXPlay
 
-### Step 2: Download the XBXPlay client.
+#### Step 2: Download the XBXPlay client.
 
 1. After installing XBXPlay, launch the application and first tap the menu in the top-left corner.
 
@@ -44,7 +44,7 @@ Next, select "Register a new Xbox".
 
 4. After completing the full Microsoft account login process, you can start streaming. Consistent with the Xbox official App, the interface only retains one connection button—there’s no need to manually distinguish between local streaming and remote streaming, as the system will automatically adapt to the connection method.
 
-### Step 3 Remote Streaming: Port Mapping List
+#### Remote Streaming: Port Mapping List
 
 * Below is the port list for Xbox Remote Streaming:
 

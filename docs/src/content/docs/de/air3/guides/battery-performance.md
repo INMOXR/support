@@ -6,7 +6,7 @@ sidebar:
   order: 12
 ---
 
-### Teil 1 Anzeige- & Systemleistungsmodi
+### Teil 1 Anzeige & Systemleistungsmodi
 
 ① Wischen Sie auf dem Brillen-Desktop zum Symbol der \[Einstellungen]-App und tippen Sie darauf, um die Einstellungen-Oberfläche aufzurufen.
 

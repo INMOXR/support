@@ -10,7 +10,9 @@ sidebar:
 
 **Those with a public IP address can continue reading.**
 
-### Scenario 1: Branded Router with Official SystemReturn to the software homepage - select the red-circled option
+### Scenario 1
+
+Branded Router with Official SystemReturn to the software homepage - select the red-circled option
 
 ![](public/images/air3/ps5-wan-1.PNG)
 
@@ -23,9 +25,13 @@ sidebar:
 ![](public/images/air3/ps5-wan-3.png)
 
 
-### **Scenario 2**: For the router with UPnP - simply enable UPnP.
+## Scenario 2
 
-### **Scenario 3**: Manually setting up DDNS on a router
+For the router with UPnP - simply enable UPnP.
+
+### Scenario 3
+
+Manually setting up DDNS on a router
 
 Manual Configuration of Router Port Forwarding:
 

@@ -6,7 +6,7 @@ sidebar:
   order: 21
 ---
 
-### Teil 1 Update-Erkennung & -Initiierung
+### Teil 1 Update-Erkennung & Initiierung
 
 ① Wischen Sie auf dem Brillen-Desktop zum Symbol der \[Einstellungen]-App und tippen Sie darauf, um die Einstellungen-Oberfläche aufzurufen.
 

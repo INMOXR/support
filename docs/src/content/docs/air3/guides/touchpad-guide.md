@@ -6,7 +6,7 @@ sidebar:
   order: 6
 ---
 
-### Part 1 Status Indicators &#x20;
+### Part 1 Status Indicators
 
 * Green Light: Fully Charged
 

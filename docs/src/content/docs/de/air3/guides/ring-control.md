@@ -6,7 +6,7 @@ sidebar:
   order: 7
 ---
 
-### Teil 1 - Ring-Anzeigeleuchte  
+### Teil 1  Ring-Anzeigeleuchte  
 
 Die folgende Tabelle zeigt die Zuordnung zwischen den Anzeigeleuchten und ihren Zuständen.  
 Wenn der Ring erfolgreich gekoppelt ist, erlischt die Anzeigeleuchte. 
@@ -17,11 +17,11 @@ Wenn der Ring erfolgreich gekoppelt ist, erlischt die Anzeigeleuchte.
 
 ![](public/images/air3/de/ring-2.png)
 
-### Teil 2 - Grundlegende Interaktionsanleitung
+### Teil 2  Grundlegende Interaktionsanleitung
 
 ![](public/images/air3/de/ring-3.png)
 
-### Teil 3 - Ring koppeln  
+### Teil 3  Ring koppeln  
 
 Erstverbindung des Rings 
 
@@ -58,7 +58,7 @@ Warten Sie, bis die blaue LED des Rings schnell blinkt.
 
 * Gehen Sie auf dem Brillen-Desktop zu Peripheral Management -> tap and search, dann finden Sie das Gerät "INMO Ring 3". Tippen Sie darauf, um die Verbindung herzustellen.  
 
-### Teil 4 - Ring-Anzeigeleuchte  
+### Teil 4  Ring-Anzeigeleuchte  
   
 Halten Sie die Funktionstaste am Ring gedrückt, um den Cursor/Strahl auf die Bildschirmmitte zu kalibrieren. Hinweis: Die Strahl-Funktion kann nur verwendet werden, wenn Sie in \[Spatial Multi-Screen/Discovery] sind.  
 

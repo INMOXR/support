@@ -8,7 +8,7 @@ sidebar:
 
 ## Einsteigeranleitung
 
-### Teil 1 - Sprache auswählen
+### Teil 1  Sprache auswählen
 
 ① Sprache auswählen: Scrollen Sie mit der Touchsteuerung am rechten Bügel nach oben oder unten, um die gewünschte Sprache zu wählen.  
   
@@ -18,7 +18,7 @@ sidebar:
 
 ![](public/images/air3/de/quick-start-14.jpg)
 
-### Teil 2 - Vereinbarung 
+### Teil 2  Vereinbarung 
 
 ③ Nutzervereinbarung und Datenschutzbestimmungen: Scrollen Sie mit der Touchsteuerung am rechten Bügel nach oben oder unten, um die Nutzervereinbarung und die Datenschutzbestimmungen anzusehen.  
   
@@ -28,7 +28,7 @@ sidebar:
 
 ![](public/images/air3/de/quick-start-16.jpg)
 
-### Teil 3 - Ring-Steuerung und Touchpad-Gerät koppeln
+### Teil 3  Ring-Steuerung und Touchpad-Gerät koppeln
 
 ⑤ Peripherie-Kopplung: Verbinden Sie den "Ring" oder das "Touchpad". Nach erfolgreicher Verbindung wird automatisch zu den "Anweisungen zur Ring-Interaktion" weitergeleitet (bei Verbindung eines Touchpads wird zu den "Anweisungen zur Touchpad-Interaktion" weitergeleitet).  
   
@@ -38,7 +38,7 @@ sidebar:
 
 ![](public/images/air3/de/quick-start-18.png)
 
-### Teil 4 - Mit der Ring-Steuerung vertraut machen
+### Teil 4 Mit der Ring-Steuerung vertraut machen
 
 ⑦ Grundlegende Ring-Interaktionsanweisungen: Öffnen Sie die "Grundlegenden Ring-Interaktionsanweisungen" und lesen Sie die Ring-Interaktionsanweisungen. Tippen Sie auf "Weiter", um die Verbindung des Rings zu testen.   
   
@@ -48,7 +48,7 @@ sidebar:
 
 ![](public/images/air3/de/quick-start-20.png)
 
-### Teil 5 - Ein-/Ausschalten und Neustarten Ihrer Brille
+### Teil 5  Ein-/Ausschalten und Neustarten Ihrer Brille
 
 ① Ausschalten/Neustarten: Wenn das Gerät eingeschaltet ist, drücken und halten Sie die Einschalttaste am Bügel 3 Sekunden lang, um das Menü mit den Stromoptionen anzuzeigen. Wischen Sie auf dem Touchpad, um "Herunterfahren" oder "Neustart" auszuwählen.  
   
