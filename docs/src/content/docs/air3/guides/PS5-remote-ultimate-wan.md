@@ -1,7 +1,7 @@
 ---
-title: PS5 Remote Play: The Ultimate WAN/Internet Guide
+title: PS5 Remote Play： The Ultimate WAN/Internet Guide
 
-description: PS5 Remote Play: The Ultimate WAN/Internet Guide
+description: PS5 Remote Play： The Ultimate WAN/Internet Guide
 sidebar:
   order: 27
 ---
@@ -23,7 +23,9 @@ sidebar:
 ![](public/images/air3/ps5-wan-3.png)
 
 
-## **Scenario 2**: For the router with UPnP - simply enable UPnP.&#xA;&#xA;**Scenario 3**:Manually setting up DDNS on a router
+## **Scenario 2**: For the router with UPnP - simply enable UPnP.
+
+## **Scenario 3**: Manually setting up DDNS on a router
 
 Manual Configuration of Router Port Forwarding:
 
