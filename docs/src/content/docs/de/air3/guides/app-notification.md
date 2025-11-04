@@ -6,7 +6,7 @@ sidebar:
   order: 23
 ---
 
-### Teil 1 Verwaltung der App-Benachrichtigungs-Einstellungen
+## Teil 1 Verwaltung der App-Benachrichtigungs-Einstellungen
 
 ① Wischen Sie auf dem Brillen-Desktop zum Symbol der \[Einstellungen]-App und tippen Sie darauf, um die Einstellungen-Oberfläche aufzurufen.
 
@@ -20,7 +20,7 @@ sidebar:
 
 Hinweis: Benachrichtigungs-Pop-ups verschwinden nach 5 Sekunden.
 
-### Teil 2 Benachrichtigungsverlauf & Zugriffsberechtigungen
+## Teil 2 Benachrichtigungsverlauf & Zugriffsberechtigungen
 
 ① Nach der Aktivierung von "Benachrichtigungen" → "Benachrichtigungsverlauf" werden die letzten Benachrichtigungen hier angezeigt.
 

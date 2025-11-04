@@ -6,7 +6,7 @@ sidebar:
   order: 3
 ---
 
-### Teil 1 - desktop-management-Übersicht  
+## Teil 1 - desktop-management-Übersicht  
   
 ① Auf dem Desktop wird unten die Schnell-App-Leiste angezeigt. Von links nach rechts enthält sie: App-Bibliothek, häufig verwendete Apps und zuletzt verwendete Apps.  
   
@@ -16,7 +16,7 @@ sidebar:
 
 ![](public/images/air3/de/desktop-management-2.png)
 
-### Teil 2 - Alle Apps anzeigen  
+## Teil 2 - Alle Apps anzeigen  
   
   
 ① Öffnen Sie vom Desktop die App-Bibliothek. Wählen Sie die gewünschte App aus und drücken Sie dann die Mitte des Touchpads oder den Touchbereich des Rings und halten Sie gedrückt.  

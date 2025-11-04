@@ -26,13 +26,13 @@ sidebar:
 
 ## Part 4. Start
 
-#### Step1 Power on
+### Step1 Power on
 
 Long press the power button for 2s until the blue light turns on.
 
 ![](public/images/air3/quick-start-7.png)
 
-#### Step2 Wear and adjust
+### Step2 Wear and adjust
 
 Fine-tune the glasses and nose pads for comfort.
 
@@ -40,7 +40,7 @@ Tip: lf uncomfortable, replace the nose pad with a suitable size.
 
 ![](public/images/air3/quick-start-8.png)
 
-#### Step3 Follow on-screen instructions
+### Step3 Follow on-screen instructions
 
 Use the right touchpad or ring for setup and network activation.
 
@@ -48,13 +48,13 @@ Use the right touchpad or ring for setup and network activation.
 
 ## Part 5. Power LED Indicators
 
-#### Glasses
+### Glasses
 
 Tip: Use a 5V/1A charger. Fully charge before first use.
 
 ![](public/images/air3/quick-start-10.png)
 
-#### Ring
+### Ring
 
 ![](public/images/air3/quick-start-11.png)
 

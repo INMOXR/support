@@ -6,7 +6,7 @@ sidebar:
   order: 3
 ---
 
-### Part 1 - Desktop overview
+## Part 1 - Desktop overview
 
 ① On the Desktop, the Quick App Bar is displayed at the bottom. From left to right, it features: App Library, Frequently Used Apps, and Recent Apps.
 
@@ -16,7 +16,7 @@ sidebar:
 
 ![](public/images/air3/desktop-management-2.jpg)
 
-### Part 2 - Show all apps
+## Part 2 - Show all apps
 
 ① From the Desktop, navigate to the App Library. Select your desired app, then press and hold the center of the Touchpad or the Ring touch area.
 

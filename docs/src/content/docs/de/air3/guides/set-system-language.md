@@ -6,7 +6,7 @@ sidebar:
   order: 18
 ---
 
-### Teil 1 Standard-Spracheinrichtung
+## Teil 1 Standard-Spracheinrichtung
 
 ① Wischen Sie auf dem Brillen-Desktop zum Symbol der \[Einstellungen]-App und tippen Sie darauf, um die Einstellungen-Oberfläche aufzurufen.
 
@@ -18,7 +18,7 @@ sidebar:
 
 ![](public/images/air3/de/language-setting-3.png)
 
-### Teil 2 Mehrsprachige Verwaltung
+## Teil 2 Mehrsprachige Verwaltung
 
 ① Tippen Sie auf "System" → "Sprache" → "Systemsprache" → "Sprache hinzufügen".
 

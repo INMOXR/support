@@ -6,7 +6,7 @@ sidebar:
   order: 4
 ---
 
-### Teil 1 - Dateien in der Brille verwalten
+## Teil 1 - Dateien in der Brille verwalten
 
 In den Smartglasses tippen Sie auf "Files", um die Dateiverwaltungsseite zu öffnen. Benutzer können folgende Vorgänge ausführen:  
   
@@ -24,7 +24,7 @@ Hinweis: Die Dateiverwaltungsfunktionen in den Smartglasses unterstützen derzei
 
 ![](public/images/air3/de/file-management-2.png)
 
-### Teil 2 - Dateien der Brille mit Ihrem Computer verwalten
+## Teil 2 - Dateien der Brille mit Ihrem Computer verwalten
 
 ① Benutzer können Dateien verwalten, indem sie die Smartglasses mit dem offiziellen AIR3 USB-Datenkabel an einen Computer anschließen.  
   

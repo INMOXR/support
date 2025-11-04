@@ -6,7 +6,7 @@ sidebar:
   order: 9
 ---
 
-### Teil 1 Erste Schritte mit dem Multi-Bildschirm-Bereich
+## Teil 1 Erste Schritte mit dem Multi-Bildschirm-Bereich
 
 ① Gehen Sie zu \[Desktop] - \[App Library] - wählen Sie die Multi-Screen Space App aus.
 

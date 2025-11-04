@@ -6,7 +6,7 @@ sidebar:
   order: 13
 ---
 
-### Part 1 System Storage Overview
+## Part 1 System Storage Overview
 
 ① On the glasses desktop, swipe to the \[Settings] app icon and tap it to enter the Settings interface.
 
@@ -22,7 +22,7 @@ sidebar:
 
 Note: This is similar to the storage section on an Android phone.
 
-### Part 2 App & File Storage Details
+## Part 2 App & File Storage Details
 
 ① Apps → Storage Used by Apps.
 

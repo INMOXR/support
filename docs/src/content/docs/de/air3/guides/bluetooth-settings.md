@@ -6,7 +6,7 @@ sidebar:
   order: 8
 ---
 
-### Teil 1 - Bluetooth-Lautsprecher verbinden
+## Teil 1 - Bluetooth-Lautsprecher verbinden
 
 > Als Beispiel wird der HM11 Bluetooth-Lautsprecher verwendet
 
@@ -30,7 +30,7 @@ sidebar:
 
 
 
-### Teil 2 - Bluetooth-Tastatur verbinden
+## Teil 2 - Bluetooth-Tastatur verbinden
 
 > Als Beispiel wird eine Bluetooth-Tastatur verwendet
 
@@ -46,7 +46,7 @@ sidebar:
 
 
 
-### Teil 3 - Bluetooth-Maus verbinden
+## Teil 3 - Bluetooth-Maus verbinden
 
 > Als Beispiel wird die HUAWEI Mouse Bluetooth-Maus verwendet
 
@@ -71,7 +71,7 @@ sidebar:
 
 
 
-### Teil 4 - Bluetooth-Gamepad verbinden
+## Teil 4 - Bluetooth-Gamepad verbinden
 
 > Als Beispiel wird der Xbox Wireless Controller verwendet
 
@@ -91,7 +91,7 @@ sidebar:
 
 
 
-### Teil 5 - Netzwerk und Internet einrichten&#xA;
+## Teil 5 - Netzwerk und Internet einrichten&#xA;
 
 1. Auf dem Brillendesktop wischen Sie zum \[Einstellungen] App-Symbol und tippen es an, um die sekundäre Einstellungsoberfläche zu öffnen.  
 

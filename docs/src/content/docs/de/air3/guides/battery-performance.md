@@ -6,7 +6,7 @@ sidebar:
   order: 12
 ---
 
-### Teil 1 Anzeige- & Systemleistungsmodi
+## Teil 1 Anzeige- & Systemleistungsmodi
 
 ① Wischen Sie auf dem Brillen-Desktop zum Symbol der \[Einstellungen]-App und tippen Sie darauf, um die Einstellungen-Oberfläche aufzurufen.
 
@@ -22,7 +22,7 @@ sidebar:
 
 Hinweis: Der Energiesparmodus kann nicht aktiviert werden, während das Gerät geladen wird.
 
-### Teil 2 Konfiguration & Funktionalität des Energiesparmodus
+## Teil 2 Konfiguration & Funktionalität des Energiesparmodus
 
 ① Unter "Akku" → "Energiesparmodus" können Sie die Aktivierungs- und Deaktivierungszeiten einstellen.
 

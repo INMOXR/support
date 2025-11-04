@@ -39,7 +39,7 @@ sidebar:
 
 ![](public/images/air3/ps5-lan-7.png)
 
-### Possible Issues
+## Possible Issues
 
 Due to the fact that PSN servers are located outside your region, you may encounter a situation where your PS5 is not detected after logging into your account. If this happens, please make a note of your **PSN-Account-ID** (the string of numbers displayed below your account name).
 
@@ -67,7 +67,7 @@ The binding of the host and software has been completed.
 
 *🔺If the binding still fails after manually entering the ID, the only remaining method is to use a proxy to enable the global mode (e.g., for logging into PSN).*
 
-### Software Recommendation Settings
+## Software Recommendation Settings
 
 Settings (primarily for image quality selection)
 

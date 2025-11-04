@@ -6,7 +6,7 @@ sidebar:
   order: 5
 ---
 
-### Teil 1 - Funktion in den Smartglasses aktivieren  
+## Teil 1 - Funktion in den Smartglasses aktivieren  
   
 ① Öffnen Sie die App Library und wählen Sie "Screen Mirroring", um die Bildschirmspiegelungsfunktion der Smartglasses zu aktivieren. Mit dieser Funktion können Sie die Anzeige Ihres Mobilgeräts auf den AIR3 Smartglasses wiedergeben.  
   
@@ -18,7 +18,7 @@ Hinweis: Damit die Bildschirmspiegelung korrekt funktioniert, stellen Sie bitte 
 
 ![](public/images/air3/de/screen-mirroring-2.png)
 
-### Teil 2 - Bildschirmspiegelung auf Ihrem Telefon oder Computer öffnen  
+## Teil 2 - Bildschirmspiegelung auf Ihrem Telefon oder Computer öffnen  
   
 ① Für Apple (iOS)-Nutzer: Öffnen Sie auf Ihrem iPhone oder iPad das Kontrollzentrum und tippen Sie auf das Symbol "Screen Mirroring". Wählen Sie dann die angezeigten INMO AIR3 Smartglasses, um die Bildschirmspiegelung zu starten.  
   

@@ -6,7 +6,7 @@ sidebar:
   order: 9
 ---
 
-### Part 1 Getting Started with Multi-Screen Space
+## Part 1 Getting Started with Multi-Screen Space
 
 ① Go to \[Desktop] - \[App Library] - select the Multi-Screen Space app.
 

@@ -6,7 +6,7 @@ sidebar:
   order: 6
 ---
 
-### Teil 1 - Statusanzeigen  
+## Teil 1 - Statusanzeigen  
   
 * Grüne Leuchte: Vollständig aufgeladen  
 
@@ -25,12 +25,12 @@ sidebar:
 ![](public/images/air3/inmo-touchpad-user-manual-4.png)
 
 
-### Teil 2 - Grundlegende Bedienung
+## Teil 2 - Grundlegende Bedienung
 
 ![](public/images/air3/de/inmo-touchpad-user-manual-5.png)
 
 
-### Teil 3 - Ein- und Ausschalten und Bluetooth-Konnektivität
+## Teil 3 - Ein- und Ausschalten und Bluetooth-Konnektivität
 
 ① Ein- und Ausschalten 
 Nach dem Einschalten ist das Gerät bereit für die Bluetooth-Kop plung. Bluetooth wird getrennt, wenn das Gerät ausgeschaltet wird.
@@ -42,7 +42,7 @@ Nach dem Einschalten blinkt eine blaue LED, die anzeigt, dass es erkennbarist. S
 Halten Sie die Kamerataste gedrückt und schalten Sie dann das Gerät ein. Dadurch werden zuvor verbundene Geräteinformationen gelöscht und das Gerät ist bereit für eine neue Kopplung.
   
   
-### Teil 4 - Verbindung mit den Brillen  
+## Teil 4 - Verbindung mit den Brillen  
   
 ① Öffnen Sie den Desktop -> INMO Touchpad Management -> klicken und suchen Sie. Sie finden das Gerät "INMO Touchpad". Klicken Sie zum Verbinden.
 
@@ -59,7 +59,7 @@ Halten Sie die Kamerataste gedrückt und schalten Sie dann das Gerät ein. Dadur
 **Hinweis: Ein bereits gekoppeltes "INMO Touchpad" verbindet sich nach dem Einschalten automatisch.**  
 
 
-### Teil 5 - Grundlegende Funktionstasten
+## Teil 5 - Grundlegende Funktionstasten
   
 * Lautstärkeanpassung: Passen Sie die Lautstärke mit den seitlichen Lautstärketasten an. 
 
@@ -79,7 +79,7 @@ Langes Drücken: Sprachassistent aktivieren
 
 ![](public/images/air3/inmo-touchpad-user-manual-12.png)
 
-### Teil 6 - Touchpad-Bedienung 
+## Teil 6 - Touchpad-Bedienung 
 
 ① Bewegung im zentralen Bereich &#x20;
 
@@ -107,7 +107,7 @@ Langes Drücken: Sprachassistent aktivieren
 
 ![](public/images/air3/inmo-touchpad-user-manual-15.png)
 
-### Teil 7 - Fn-Tasten-Funktionen
+## Teil 7 - Fn-Tasten-Funktionen
   
 **Einzelnes Drücken der Fn-Taste:** 
 Schaltet den Bildschirm aus/ein.

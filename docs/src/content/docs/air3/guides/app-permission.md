@@ -6,7 +6,7 @@ sidebar:
   order: 11
 ---
 
-### Part 1 Accessing App Settings
+## Part 1 Accessing App Settings
 
 ① On the glasses desktop, swipe to the \[Settings] app icon and tap it to enter the Settings interface.
 
@@ -16,7 +16,7 @@ sidebar:
 
 ![](public/images/air3/permissions-2.png)
 
-### Part 2 App Details & Permissions Management
+## Part 2 App Details & Permissions Management
 
 ① Tap "Apps" to view app information.
 

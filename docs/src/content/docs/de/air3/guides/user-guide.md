@@ -26,13 +26,13 @@ sidebar:
 
 ## Teil 4. Starten
 
-#### Schritt 1 Einschalten
+### Schritt 1 Einschalten
 
 Dr체cken und halten Sie die Einschalttaste 2 Sekunden lang, bis die blaue LED leuchtet. 
 
 ![](public/images/air3/de/quick-start-7.png)
 
-#### Schritt 2 Aufsetzen und anpassen
+### Schritt 2 Aufsetzen und anpassen
 
 Passen Sie die Brille und die Nasenpads fein an, um den Tragekomfort zu optimieren.  
   
@@ -40,7 +40,7 @@ Tipp: Falls sie unbequem sind, tauschen Sie das Nasenpad durch eine passende Gr�
 
 ![](public/images/air3/de/quick-start-8.png)
 
-#### Schritt 3 Befolgen Sie die Anweisungen auf dem Bildschirm
+### Schritt 3 Befolgen Sie die Anweisungen auf dem Bildschirm
 
 Verwenden Sie das rechte Touchpad oder den Ring f체r die Einrichtung und die Netzwerkaktivierung.  
 
@@ -48,13 +48,13 @@ Verwenden Sie das rechte Touchpad oder den Ring f체r die Einrichtung und die Net
 
 ## Teil 5. LED-Anzeigen (Strom)  
 
-#### Brille  
+### Brille  
 
 Tipp: Verwenden Sie ein 5V/1A-Ladeger채t. Vor der ersten Verwendung vollst채ndig aufladen.
 
 ![](public/images/air3/de/quick-start-10.png)
 
-#### Ring
+### Ring
 
 ![](public/images/air3/de/quick-start-11.png)
 

@@ -6,7 +6,7 @@ sidebar:
   order: 13
 ---
 
-### Teil 1 System-Speicherübersicht
+## Teil 1 System-Speicherübersicht
 
 ① Wischen Sie auf dem Brillen-Desktop zum Symbol der \[Einstellungen]-App und tippen Sie darauf, um die Einstellungen-Oberfläche aufzurufen.
 
@@ -22,7 +22,7 @@ sidebar:
 
 Hinweis: Dies ist ähnlich dem Speicherbereich auf einem Android-Telefon.
 
-### Teil 2 App- & Datei-Speicherdetails
+## Teil 2 App- & Datei-Speicherdetails
 
 ① Apps → Von Apps verwendeter Speicherplatz.
 

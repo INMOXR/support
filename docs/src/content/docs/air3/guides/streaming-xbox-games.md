@@ -6,7 +6,7 @@ sidebar:
   order: 25
 ---
 
-### Step 1: Console Side: Required Settings for Xbox
+## Step 1: Console Side: Required Settings for Xbox
 
 1. Turn on your console and log in with your account. Ensure the region of your device is a location that supports streaming services, such as the United States or Europe—Chinese mainland editions are not supported.
 

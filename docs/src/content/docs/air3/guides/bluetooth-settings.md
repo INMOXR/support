@@ -6,7 +6,7 @@ sidebar:
   order: 8
 ---
 
-### Part 1 Connect bluetooth speaker
+## Part 1 Connect bluetooth speaker
 
 > Taking the HM11 Bluetooth Speaker as an Example
 
@@ -30,7 +30,7 @@ sidebar:
 
 
 
-### Part 2 Connect bluetooth keyboard
+## Part 2 Connect bluetooth keyboard
 
 > Taking Bluetooth keyboard as an Example
 
@@ -46,7 +46,7 @@ sidebar:
 
 
 
-### Part 3 Connect bluetooth mouse
+## Part 3 Connect bluetooth mouse
 
 > Take the HUAWEI Mouse Bluetooth mouse as an example
 
