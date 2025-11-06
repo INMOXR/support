@@ -22,7 +22,7 @@ sidebar:
 
 ![](public/images/air3/ps5-lan-3.PNG)
 
-* Geben Sie den Pincode, der derzeit auf Ihrer PS-Konsole angezeigt wird, in das Feld **Registrierungsnummer** ein und tippen Sie dann unten auf **PS5 registrieren** (Register PS5).
+* Geben Sie den Pincode, der derzeit aufsIhrer PS-Konsole angezeigt wird, in das Feld **Registrierungsnummer** ein und tippen Sie dann unten auf **PS5 registrieren** (Register PS5).
 
 ![](public/images/air3/ps5-lan-4.png)
 
