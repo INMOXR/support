@@ -18,7 +18,7 @@ Note: For screen mirroring to function correctly, please ensure that both the so
 
 ![](public/images/air3/screen-mirroring-2.png)
 
-### Part 2  Open your phone's or computer's screen mirroing
+### Part 2  Open your phone's or computer's screen mirroring
 
 ① For Apple (iOS) users: From the Control Center on your iPhone or iPad, open the "Screen Mirroring" icon, and then select the discovered INMO AIR3 smart glasses to begin screen mirroring.
 
