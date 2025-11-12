@@ -3,7 +3,7 @@ title: Screen Mirroring Tutorial
 
 description: Screen Mirroring Tutorial
 sidebar:
-  order: 28
+  order: 6
 ---
 
 ## Step 1 **Operations on the glasses side**

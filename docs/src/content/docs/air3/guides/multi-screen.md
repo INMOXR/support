@@ -3,7 +3,7 @@ title: Start Multi-Screen Mode
 
 description: Start Multi-Screen Mode
 sidebar:
-  order: 9
+  order: 18
 ---
 
 ### Part 1 Getting Started with Multi-Screen Space

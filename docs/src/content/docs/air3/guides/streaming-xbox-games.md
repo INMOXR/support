@@ -3,7 +3,7 @@ title: Guide to Streaming Xbox Games
 
 description: Guide to Streaming Xbox Games (Including Console & Streaming Device Setup)
 sidebar:
-  order: 25
+  order: 50
 ---
 
 #### Step 1: Console Side-Required Settings for Xbox

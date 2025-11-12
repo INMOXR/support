@@ -3,7 +3,7 @@ title: Ring control guide
 
 description: INMO Air3 ring control user guide
 sidebar:
-  order: 7
+  order: 12
 ---
 
 ### Part 1 Ring Indicator Light

@@ -3,7 +3,7 @@ title: How to View Notifications
 
 description: How to View Notifications
 sidebar:
-  order: 22
+  order: 31
 ---
 
 ① Tap the desktop notification center to view message notifications.

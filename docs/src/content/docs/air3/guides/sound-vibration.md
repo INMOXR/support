@@ -3,7 +3,7 @@ title: Sound & Vibration Settings
 
 description: Sound & Vibration Settings
 sidebar:
-  order: 14
+  order: 24
 ---
 
 ① On the glasses desktop, swipe to the \[Settings] app icon and tap it to enter the Settings interface.

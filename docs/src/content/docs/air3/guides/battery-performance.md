@@ -3,7 +3,7 @@ title: Battery and Performance Settings
 
 description: Battery and Performance Settings
 sidebar:
-  order: 12
+  order: 22
 ---
 
 ### Part 1 Display & System Performance Modes

@@ -3,7 +3,7 @@ title: Screen Brightness setting
 
 description: Screen Brightness setting
 sidebar:
-  order: 15
+  order: 25
 ---
 
 ① On the glasses desktop, swipe to the \[Settings] app icon and tap it to enter the Settings interface.

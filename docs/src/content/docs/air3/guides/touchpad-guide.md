@@ -3,7 +3,7 @@ title: Touchpad guide
 
 description: INMO Air3 touchpad device user guide
 sidebar:
-  order: 6
+  order: 11
 ---
 
 ### Part 1 Status Indicators

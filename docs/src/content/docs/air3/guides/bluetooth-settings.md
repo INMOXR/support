@@ -3,7 +3,7 @@ title: Bluetooth settings
 
 description: How to connect other devices through bluetooth in INMO Air3
 sidebar:
-  order: 8
+  order: 15
 ---
 
 ### Part 1 Connect bluetooth speaker

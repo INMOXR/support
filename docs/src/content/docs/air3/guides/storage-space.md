@@ -3,7 +3,7 @@ title: Storage Space of INMO Air3
 
 description: Storage Space of INMO Air3
 sidebar:
-  order: 13
+  order: 23
 ---
 
 ### Part 1 System Storage Overview

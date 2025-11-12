@@ -3,7 +3,7 @@ title: PS5 Remote Play： The Ultimate WAN/Internet Guide
 
 description: PS5 Remote Play： The Ultimate WAN/Internet Guide
 sidebar:
-  order: 27
+  order: 52
 ---
 
 **★There is a necessary condition for external network streaming: a public IP address.**

@@ -3,7 +3,7 @@ title: App Notifications Settings
 
 description: App Notifications Settings
 sidebar:
-  order: 23
+  order: 32
 ---
 
 ### Part 1 Managing App Notification Settings

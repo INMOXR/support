@@ -3,7 +3,7 @@ title: Language Settings Guide
 
 description: Set INMO Air3 system language
 sidebar:
-  order: 18
+  order: 28
 ---
 
 ### Part 1 Default Language Setup
