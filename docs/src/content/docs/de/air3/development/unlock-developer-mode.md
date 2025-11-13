@@ -1,39 +1,41 @@
----
-title: Unlock Developer Mode
-
-description: How to unlock deverloper mode and access key device
-sidebar:
-  order: 1
----
-
-### Part 1
-
-① On the glasses desktop, swipe to the \[Settings] app icon and tap it to enter the Settings interface.
-
-![](public/images/air3/unlock-developer-1.png)
-
-② Tap "About the Smart Glasses" → View the smart glasses' basic information: \[Device Name], \[System Version].
-
-![](public/images/air3/unlock-developer-2.png)
-
-③ Device Name → Tap it to modify the device name.
-
-
-### Part 2
-
-① About the Smart Glasses → Device Identifier \[Build Number], which is the version number of our smart glasses.
-
-![](public/images/air3/unlock-developer-3.png)
-
-② Tap \[Build Number] 10 times to enter Developer Mode.
-
-![](public/images/air3/unlock-developer-4.png)
-
-Note: Non-professionals are not advised to perform this operation to enter Developer Mode.
-
-
-
-
-
-
-
+---  
+title: Entwicklermodus freischalten  
+  
+description: So schalten Sie den Entwicklermodus frei und greifen auf wichtige Geräteeinstellungen zu  
+sidebar:  
+  order: 1  
+---  
+  
+  
+### Teil 1 Geräteinfos & Einstellungen  
+  
+① Auf dem Startbildschirm der Brille wischen Sie zum Symbol der [Einstellungen]-App und tippen Sie darauf, um die Einstellungen-Oberfläche zu öffnen.  
+  
+  
+![](public/images/air3/unlock-developer-1.png)  
+  
+  
+② Tippen Sie auf „Über die Smart Glasses“ → Zeigen Sie die grundlegenden Informationen der Smart Glasses an: [Gerätename], [Systemversion].  
+  
+  
+![](public/images/air3/unlock-developer-2.png)  
+  
+  
+③ Gerätename → Tippen Sie darauf, um den Gerätenamen zu ändern.  
+  
+  
+### Teil 2 Entwicklermodus aktivieren  
+  
+① Über die Smart Glasses → Geräte-ID [Build-Nummer], dies ist die Versionsnummer unserer Smart Glasses.  
+  
+  
+![](public/images/air3/unlock-developer-3.png)  
+  
+  
+② Tippen Sie 10 Mal auf [Build-Nummer], um den Entwicklermodus zu aktivieren.  
+  
+  
+![](public/images/air3/unlock-developer-4.png)  
+  
+  
+Hinweis: Nicht-Profis wird davon abgeraten, diesen Vorgang durchzuführen, um den Entwicklermodus zu aktivieren.

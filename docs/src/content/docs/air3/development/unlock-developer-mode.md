@@ -6,7 +6,7 @@ sidebar:
   order: 1
 ---
 
-### Part 1
+### Part 1 Device Info & Settings
 
 ① On the glasses desktop, swipe to the \[Settings] app icon and tap it to enter the Settings interface.
 
@@ -19,7 +19,7 @@ sidebar:
 ③ Device Name → Tap it to modify the device name.
 
 
-### Part 2
+### Part 2 Enable Developer Mode
 
 ① About the Smart Glasses → Device Identifier \[Build Number], which is the version number of our smart glasses.
 
