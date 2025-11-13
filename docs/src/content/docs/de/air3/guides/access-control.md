@@ -3,7 +3,7 @@ title: Auf das Kontrollzentrum zugreifen
 
 description: Auf das Kontrollzentrum zugreifen
 sidebar:
-  order: 24
+  order: 38
 ---
 
 ①Tap on the desktop notification center to view message notifications.Note: You need to turn on the app notification switch.

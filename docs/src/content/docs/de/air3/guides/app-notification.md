@@ -3,7 +3,7 @@ title: App-Benachrichtigungs-Einstellungen
 
 description: App-Benachrichtigungs-Einstellungen
 sidebar:
-  order: 23
+  order: 32
 ---
 
 ### Teil 1 Verwaltung der App-Benachrichtigungs-Einstellungen

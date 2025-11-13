@@ -1,8 +1,8 @@
 ---  
-title: So schauen Sie 3D-Videos an  
+title: Wie man 3D-Videos ansieht
   
   
-description: So schauen Sie 3D-Videos an  
+description: Wie man 3D-Videos ansieht 
 sidebar:  
   order: 80  
 ---  

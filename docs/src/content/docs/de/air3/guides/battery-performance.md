@@ -1,9 +1,9 @@
 ---
-title: Akku- und Leistungs-Einstellungen
+title: Akku-und Leistungs-Einstellungen
 
-description: Akku- und Leistungs-Einstellungen
+description: Akku-und Leistungs-Einstellungen
 sidebar:
-  order: 12
+  order: 22
 ---
 
 ### Teil 1 Anzeige & Systemleistungsmodi
