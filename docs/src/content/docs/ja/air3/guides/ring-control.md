@@ -3,7 +3,7 @@ title: リング操作ガイド
 
 description: INMO Air3 リング操作ユーザーガイド 
 sidebar:
-  order: 7
+  order: 12
 ---
 
 ## パート 1 リングのインジケーターライト

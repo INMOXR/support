@@ -3,7 +3,7 @@ title: アプリ通知設定
 
 description: アプリ通知設定
 sidebar:
-  order: 23
+  order: 32
 ---
 
 ### パート 1 アプリ通知設定の管理

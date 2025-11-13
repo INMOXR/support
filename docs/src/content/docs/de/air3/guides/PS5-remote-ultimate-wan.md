@@ -3,7 +3,7 @@ title: PS5 Remote Play： Der ultimative WAN/Internet-Leitfaden
 
 description: PS5 Remote Play： Der ultimative WAN/Internet-Leitfaden
 sidebar:
-  order: 27
+  order: 52
 ---
 
 **★Eine notwendige Bedingung für das Streaming über das externe Netzwerk: eine öffentliche IP-Adresse.**

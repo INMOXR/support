@@ -3,15 +3,13 @@ title: Ring-Steuerungsanleitung
 
 description: Benutzerhandbuch zur Ringsteuerung des INMO Air3
 sidebar:
-  order: 7
+  order: 12
 ---
 
 ### Teil 1  Ring-Anzeigeleuchte  
 
 Die folgende Tabelle zeigt die Zuordnung zwischen den Anzeigeleuchten und ihren Zuständen.  
 Wenn der Ring erfolgreich gekoppelt ist, erlischt die Anzeigeleuchte. 
-
-![]()
 
 ![](public/images/air3/de/ring-1.png)
 

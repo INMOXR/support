@@ -3,7 +3,7 @@ title: 位置情報の設定を有効にして管理する
   
 description: 位置情報の設定を有効にして管理する  
 sidebar:  
-  order: 16  
+  order: 26  
 ---  
   
   

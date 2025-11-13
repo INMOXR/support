@@ -3,7 +3,7 @@ title: Ton & Vibrations-Einstellungen
 
 description: Ton & Vibrations-Einstellungen
 sidebar:
-  order: 14
+  order: 24
 ---
 
 ① Wischen Sie auf dem Brillen-Desktop zum Symbol der \[Einstellungen]-App und tippen Sie darauf, um die Einstellungen-Oberfläche aufzurufen.

@@ -3,7 +3,7 @@ title: PS5リモートプレイ：究極のLANガイド
 
 description: PS5リモートプレイ：究極のLANガイド
 sidebar:
-  order: 26
+  order: 51
 ---
 
 * **AppleデバイスではMirrorPlay、AndroidデバイスではPSPlayと呼ばれ、機能は同じです。Android版は中国語をサポートしていますが、Apple版はサポートしていません。**

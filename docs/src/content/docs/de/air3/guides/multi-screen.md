@@ -3,7 +3,7 @@ title: Multi-Bildschirm-Modus starten
 
 description: Multi-Bildschirm-Modus starten
 sidebar:
-  order: 9
+  order: 18
 ---
 
 ### Teil 1 Erste Schritte mit dem Multi-Bildschirm-Bereich

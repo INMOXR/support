@@ -3,7 +3,7 @@ title: Einstellung der Bildschirmhelligkeit
 
 description: Einstellung der Bildschirmhelligkeit
 sidebar:
-  order: 15
+  order: 25
 ---
 
 ① Wischen Sie auf dem Brillen-Desktop zum Symbol der \[Einstellungen]-App und tippen Sie darauf, um die Einstellungen-Oberfläche aufzurufen.

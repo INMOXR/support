@@ -3,7 +3,7 @@ title: アプリの権限設定
 
 description: アプリの権限設定
 sidebar:
-  order: 11
+  order: 20
 ---
 
 ### パート 1 アプリ設定へのアクセス

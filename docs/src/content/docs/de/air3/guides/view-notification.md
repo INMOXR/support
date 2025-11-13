@@ -3,7 +3,7 @@ title: Benachrichtigungen anzeigen
 
 description: Benachrichtigungen anzeigen
 sidebar:
-  order: 22
+  order: 31
 ---
 
 ① Tippen Sie auf das Benachrichtigungszentrum des Desktops, um Nachrichtenbenachrichtigungen anzuzeigen.

@@ -11,8 +11,6 @@ sidebar:
 The follow~~i~~ng table shows the correspondence between indicator lights and their statuses.
 The ring is paired successfully, and the indicator light turns off.
 
-![]()
-
 ![](public/images/air3/ring-1.png)
 
 ![](public/images/air3/ring-2.png)

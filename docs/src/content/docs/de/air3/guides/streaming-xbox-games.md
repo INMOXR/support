@@ -3,7 +3,7 @@ title: Anleitung zum Streamen von Xbox-Spielen
 
 description: Anleitung zum Streamen von Xbox-Spielen (einschließlich Konsolen- und Streaming-Geräte-Setup)
 sidebar:
-  order: 25
+  order: 50
 ---
 
 #### Schritt 1: Konsole – Erforderliche Einstellungen für Xbox

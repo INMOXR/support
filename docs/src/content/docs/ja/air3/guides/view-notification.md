@@ -3,7 +3,7 @@ title: 通知の表示方法
 
 description: 通知の表示方法
 sidebar:
-  order: 22
+  order: 31
 ---
 
 ① デスクトップ通知センターをタップしてメッセージ通知を表示します。

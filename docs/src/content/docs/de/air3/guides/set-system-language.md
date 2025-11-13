@@ -3,7 +3,7 @@ title: Anleitung zu den Spracheinstellungen
 
 description: Die Systemsprache von INMO Air3 einstellen
 sidebar:
-  order: 18
+  order: 28
 ---
 
 ## Teil 1 Standard-Spracheinrichtung

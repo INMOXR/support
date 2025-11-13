@@ -3,7 +3,7 @@ title: Firmware-Updates für Ihre Brille
 
 description: Firmware-Updates für Ihre Brille
 sidebar:
-  order: 21
+  order: 35
 ---
 
 ### Teil 1 Update-Erkennung & Initiierung

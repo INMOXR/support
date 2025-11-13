@@ -3,7 +3,7 @@ title: センサーのキャリブレーションとリセットガイド
   
 description: センサーのキャリブレーションとリセットガイド  
 sidebar:  
-  order: 20  
+  order: 30  
 ---  
   
   

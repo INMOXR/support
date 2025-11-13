@@ -3,7 +3,7 @@ title: Anleitung zu Tastatur, Zeit & System-Reset-Einstellungen
 
 description: Anleitung zu Tastatur, Zeit & System-Reset-Einstellungen
 sidebar:
-  order: 19
+  order: 29
 ---
 
 ① Tippen Sie auf "System" → "Bildschirmtastatur", um die gewünschte Eingabemethoden-Tastatur auszuwählen.

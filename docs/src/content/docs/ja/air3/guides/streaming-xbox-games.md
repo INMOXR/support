@@ -3,7 +3,7 @@ title: Xboxゲームのストリーミングガイド
 
 description: Xboxゲームのストリーミングガイド（コンソールとストリーミングデバイスの設定を含む）
 sidebar:
-  order: 25
+  order: 50
 ---
 
 #### ステップ 1：コンソール側のXbox必須設定

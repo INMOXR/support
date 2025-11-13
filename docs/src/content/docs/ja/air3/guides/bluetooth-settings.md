@@ -3,7 +3,7 @@ title: Bluetooth設定
 
 description: INMO Air3で他のデバイスをBluetoothで接続する方法
 sidebar:
-  order: 8
+  order: 15
 ---
 
 ### パート 1 Bluetoothスピーカーを接続する

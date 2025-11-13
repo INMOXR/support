@@ -3,7 +3,7 @@ title: Standorteinstellungen aktivieren und verwalten
 
 description: Standorteinstellungen aktivieren und verwalten
 sidebar:
-  order: 16
+  order: 26
 ---
 
 ### Teil 1 Standort aktivieren & Autorisierung

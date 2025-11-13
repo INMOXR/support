@@ -3,7 +3,7 @@ title: Einrichtung des Sprachassistenten
 
 description: Einrichtung des Sprachassistenten
 sidebar:
-  order: 17
+  order: 27
 ---
 
 ① Wischen Sie auf dem Brillen-Desktop zum Symbol der \[Einstellungen]-App und tippen Sie darauf, um die Einstellungen-Oberfläche aufzurufen.

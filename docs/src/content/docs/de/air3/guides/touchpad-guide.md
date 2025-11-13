@@ -3,7 +3,7 @@ title: Touchpad-Anleitung
 
 description: Benutzerhandbuch für das INMO Air3 Touchpad
 sidebar:
-  order: 6
+  order: 11
 ---
 
 ### Teil 1  Statusanzeigen  

@@ -3,7 +3,7 @@ title: サウンドとバイブレーション設定
   
 description: サウンドとバイブレーション設定  
 sidebar:  
-  order: 14  
+  order: 24  
 ---  
   
   

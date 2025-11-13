@@ -3,7 +3,7 @@ title: Speicherplatz von INMO Air3
 
 description: Speicherplatz von INMO Air3
 sidebar:
-  order: 13
+  order: 23
 ---
 
 ### Teil 1 System-Speicherübersicht

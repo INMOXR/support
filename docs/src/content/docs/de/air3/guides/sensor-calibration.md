@@ -3,7 +3,7 @@ title: Anleitung zur Sensorkalibrierung und zum Zurücksetzen
 
 description: Anleitung zur Sensorkalibrierung und zum Zurücksetzen
 sidebar:
-  order: 20
+  order: 30
 ---
 
 ① Wischen Sie auf dem Brillen-Desktop zum Symbol der \[Einstellungen]-App und tippen Sie darauf, um die Einstellungen-Oberfläche aufzurufen.
