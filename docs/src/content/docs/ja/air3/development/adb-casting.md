@@ -1,7 +1,7 @@
 ---  
-title: PC (Windows) に Air3 グラスをキャストするための ADB  
+title: に Air3 グラスをキャストするための ADB PC (Windows) 
   
-description: PC (Windows) に Air3 グラスをキャストするための ADB  
+description: に Air3 グラスをキャストするための ADB PC (Windows) 
 sidebar:  
   order: 2  
 ---  
