@@ -8,6 +8,10 @@ sidebar:
 
 ## Einsteigeranleitung
 
+**Tipp für den Sprachassistenten:**
+Um Ihren Sprachassistenten zu aktivieren, sagen Sie einfach **„ok amu“**.
+Danach können Sie sich an intelligenten Gesprächen und einem smarten Dialog beteiligen.
+
 ### Teil 1  Sprache auswählen
 
 ① Sprache auswählen: Scrollen Sie mit der Touchsteuerung am rechten Bügel nach oben oder unten, um die gewünschte Sprache zu wählen.  
