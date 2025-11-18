@@ -1,21 +1,22 @@
----    
-title: Entwicklermodus aktivieren      
-    
-description: Entwicklermodus aktivieren    
-sidebar:    
-  order: 1  
----    
-    
-①Gehen Sie zur Einstellungen-Oberfläche, wählen Sie "Über die Brille" und suchen Sie die 【Build-Nummer】 (die Versionsnummer Ihrer Brille).  
+---  
+title: How to Enable Developer Mode 
   
-![](public/images/air3/de/dev-mode-1.png)
-  
-②Tippen Sie 10 Mal auf die 【Build-Nummer】, um in den Entwicklermodus zu gelangen. Hinweis：Nicht-Profis wird davon abgeraten, diesen Vorgang auszuführen, um in den Entwicklermodus zu wechseln.  
-  
-![](public/images/air3/de/dev-mode-2.png)
-  
-③Gehen Sie zur Einstellungen-Oberfläche, wählen Sie "Systemeinstellungen" und greifen Sie dann auf die "Entwickleroptionen" zu, um diese auszuschalten.  
-  
-![](public/images/air3/de/dev-mode-3.png)
-  
-![](public/images/air3/de/dev-mode-4.png)
+description: How to Enable Developer Mode 
+sidebar:  
+  order: 1
+---  
+
+①Go to the Settings interface, select "About Glasses", and find the 【Build Number】 (which is the version number of your glasses).
+
+![](public/images/air3/dev-mode-1.PNG)  
+
+②Tap the 【Build Number】 10 times to enter Developer Mode. Note: Non-professionals are not advised to perform this operation to enter Developer Mode.
+
+![](public/images/air3/dev-mode-2.PNG)  
+
+③Go to the Settings interface, select System Settings, then access Developer Options to turn it off.
+
+![](public/images/air3/dev-mode-3.png)  
+
+![](public/images/air3/dev-mode-4.png)  
+
