@@ -8,7 +8,7 @@ sidebar:
 
 ## Beginning Guide
 
-**Voice Assistant Tip:**
+Voice Assistant Tip:
 To activate your voice assistant, simply say **"ok amu"**.
 You can then engage in intelligent conversations and smart dialogue.
 
