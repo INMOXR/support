@@ -24,6 +24,10 @@ Hinweis: Die Dateiverwaltungsfunktionen in den Smartglasses unterstützen derzei
 
 ![](public/images/air3/de/file-management-2.png)
 
+Hinweis: Der DCIM-Ordner ist speziell für die Speicherung Ihrer Kamerafotos, Videos, Bildschirmaufnahmen und Screenshots vorgesehen.
+
+![](public/images/air3/de/file-management-2-1.png)
+
 ### Teil 2  Dateien der Brille mit Ihrem Computer verwalten
 
 ① Benutzer können Dateien verwalten, indem sie die Smartglasses mit dem offiziellen AIR3 USB-Datenkabel an einen Computer anschließen.  
