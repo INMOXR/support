@@ -8,10 +8,6 @@ sidebar:
 
 ## Beginning Guide
 
-Voice Assistant Tip:
-To activate your voice assistant, simply say **"ok amu"**.
-You can then engage in intelligent conversations and smart dialogue.
-
 ### Part 1  Select language
 
 ① Select Language: Scroll up or down on the right temple's touch control to choose your desired language.
