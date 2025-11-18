@@ -3,7 +3,7 @@ title: ADB für die Übertragung von Air3 Brillen auf den PC (Windows)
   
 description: ADB für die Übertragung von Air3 Brillen auf den PC (Windows)  
 sidebar:  
-  order: 2  
+  order: 3  
 ---  
   
   

@@ -3,7 +3,7 @@ title: ADB for Casting Air3 Glasses to PC (Windows)
   
 description: ADB for Casting Air3 Glasses to PC (Windows)  
 sidebar:  
-  order: 2  
+  order: 3
 ---  
   
   

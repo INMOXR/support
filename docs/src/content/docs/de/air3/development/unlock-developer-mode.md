@@ -3,7 +3,7 @@ title: Entwicklermodus freischalten
   
 description: So schalten Sie den Entwicklermodus frei und greifen auf wichtige Geräteeinstellungen zu  
 sidebar:  
-  order: 1  
+  order: 2  
 ---  
   
   

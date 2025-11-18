@@ -3,7 +3,7 @@ title: Unlock Developer Mode
 
 description: How to unlock deverloper mode and access key device
 sidebar:
-  order: 1
+  order: 2
 ---
 
 ### Part 1 Device Info & Settings
