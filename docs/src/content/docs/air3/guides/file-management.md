@@ -24,6 +24,10 @@ Note: The file management features on the smart glasses currently support contro
 
 ![](public/images/air3/file-management-2.png)
 
+Note: The DCIM folder is specifically for storing your camera photos, videos, screen recordings, and screenshots.
+
+![](public/images/air3/file-management-2-1.jpg)
+
 ### Part 2 Manage glasses's files with your computer
 
 ① Users can manage files by connecting the smart glasses to a computer using the official AIR3 USB data cable.
