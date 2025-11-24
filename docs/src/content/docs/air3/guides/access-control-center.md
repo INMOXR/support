@@ -17,7 +17,7 @@ Note: You need to turn on the app notification switch.
 
 ### **Understanding the Icons in Your Control Center**
 
-![](public/images/air3/access-the-control-center-3.png)
+![](public/images/air3/access-the-control-center-3.jpg)
 
 * Live Screenshot: Captures both the view inside the glasses and the external real-world scene simultaneously, perfect for recording memorable moments.
 
