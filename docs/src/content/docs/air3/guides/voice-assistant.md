@@ -10,7 +10,7 @@ sidebar:
 
 ![](public/images/air3/voice-assistant-1.png)
 
-② Tap "Voice Assistant" → Enable "Voice Wake-Up" to activate the wake word "Hey Amu".
+② Tap "Voice Assistant" → Enable "Voice Wake-Up" to activate the wake word "OK Amu".
 
 ![](public/images/air3/voice-assistant-2.png)
 

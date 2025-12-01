@@ -12,6 +12,6 @@ sidebar:
 ![](public/images/air3/jp/voice-assistant-1.png)  
   
   
-② 「音声アシスタント」をタップ → 「音声ウェイクアップ」を有効にして、ウェイクワード「ヘイアム」をアクティブにします。  
+② 「音声アシスタント」をタップ → 「音声ウェイクアップ」を有効にして、ウェイクワード「OK AMu」をアクティブにします。  
   
 ![](public/images/air3/jp/voice-assistant-2.png)

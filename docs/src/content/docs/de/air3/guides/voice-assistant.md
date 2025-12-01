@@ -10,6 +10,6 @@ sidebar:
 
 ![](public/images/air3/de/voice-assistant-1.png)
 
-② Tippen Sie auf "Sprachassistent" → Aktivieren Sie "Sprach-Wake-Up", um das Aktivierungswort "Hey Amu" zu aktivieren.
+② Tippen Sie auf "Sprachassistent" → Aktivieren Sie "Sprach-Wake-Up", um das Aktivierungswort "OK Amu" zu aktivieren.
 
 ![](public/images/air3/de/voice-assistant-2.png)
