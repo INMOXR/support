@@ -60,7 +60,9 @@ sidebar:
 1. メガネの設定（Settings）に移動します。
 
 2. **APPs**オプションを選択します。
+![](public/images/air3/jp/access-the-control-center-7.png)
 
 3. 「バックグラウンドアプリホワイトリスト」をタップします。
+![](public/images/air3/jp/access-the-control-center-8.png)
 
 4. この画面から、ホワイトリストに追加したいアプリケーションを選択し、ワンタップまたは自動バックグラウンドクリーンアップによるクリアを防ぐことができます。

@@ -60,7 +60,9 @@ Schritte zum Hinzufügen von Apps zum Whitelist-Modus:
 1. Navigieren Sie zu den Brillen-Einstellungen (Einstellungen).
 
 2. Wählen Sie die Option **APPs**.
+![](public/images/air3/de/access-the-control-center-7.png)
 
 3. Tippen Sie auf Hintergrund-App-Whitelist.
+![](public/images/air3/de/access-the-control-center-8.png)
 
 4. Auf diesem Bildschirm können Sie die Anwendungen auswählen, die Sie der Whitelist hinzufügen möchten, um zu verhindern, dass sie durch einen Ein-Tap- oder eine automatische Hintergrundbereinigung gelöscht werden.

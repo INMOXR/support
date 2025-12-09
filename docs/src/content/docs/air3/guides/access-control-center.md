@@ -60,8 +60,10 @@ Steps to add apps to the Whitelist Mode:
 1. Navigate to Glasses Settings (Settings).
 
 2. Select the **APPs** option.
+![](public/images/air3/access-the-control-center-7.png)
 
 3. Tap Background App Whitelist.
+![](public/images/air3/access-the-control-center-8.png)
 
 4. From this screen, you can select the applications you wish to add to the whitelist, preventing them from being cleared by one-tap or automatic background cleanup.
 
