@@ -9,7 +9,7 @@ sidebar:
   
 ### Teil 1 Fehlerbehebung bei der Verbindung  
   
-① Laden Sie die ADB-Datei & QtScrcpy-win-x64-v3.0.1 (2).zip herunter: [adb.txt](https://drive.google.com/drive/folders/1o-iD2WmcMKEPuZu9WhSYikpj1EVWy5gq?usp=sharing)  
+① Laden Sie die ADB-Datei & QtScrcpy-win-x64-v3.0.1 (2).zip herunter: [adb.txt, QtScrcpy. Casting tool.](https://drive.google.com/drive/folders/1o-iD2WmcMKEPuZu9WhSYikpj1EVWy5gq?usp=sharing)  
   
   
 ![](public/images/air3/adb-for-casting-1.PNG)  

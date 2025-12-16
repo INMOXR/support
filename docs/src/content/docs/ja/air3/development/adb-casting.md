@@ -9,7 +9,7 @@ sidebar:
   
 ### パート 1 接続のトラブルシューティング  
   
-① adb ファイルと QtScrcpy-win-x64-v3.0.1 (2).zip をダウンロードします: [adb.txt](https://drive.google.com/drive/folders/1o-iD2WmcMKEPuZu9WhSYikpj1EVWy5gq?usp=sharing)  
+① adb ファイルと QtScrcpy-win-x64-v3.0.1 (2).zip をダウンロードします: [adb.txt, QtScrcpy. Casting tool.](https://drive.google.com/drive/folders/1o-iD2WmcMKEPuZu9WhSYikpj1EVWy5gq?usp=sharing)  
   
   
 ![](public/images/air3/adb-for-casting-1.PNG)  
