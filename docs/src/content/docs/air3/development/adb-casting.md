@@ -1,7 +1,7 @@
 ---  
-title: ADB for Casting Air3 Glasses to PC (Windows)    
+title: Casting Air3 Glasses to PC (Windows)    
   
-description: ADB for Casting Air3 Glasses to PC (Windows)  
+description: Casting Air3 Glasses to PC (Windows)  
 sidebar:  
   order: 3
 ---  
