@@ -1,57 +1,69 @@
 ---  
-title: Casting Air3 Glasses to PC (Mac)   
+title: Air3 Brille auf PC (Mac) streamen
   
-description: Casting Air3 Glasses to PC (Mac) 
+description: Air3 Brille auf PC (Mac) streamen 
 sidebar:  
   order: 4
 ---  
   
   
-### **Part 1 Open Your INMO Air3 Glasses**
+### **Teil 1 Ihre INMO Air3 Brille einschalten**  
+   
+① Spiegel-App starten: Öffnen Sie die Anwendung "Spiegel" (Mirror) auf Ihrer INMO Air3 Brille.  
+  
+  
+② Auf der Oberfläche bleiben: Stellen Sie sicher, dass die Spiegel-App auf diesem Bildschirm geöffnet und aktiv bleibt.  
 
-① Launch the Mirror App: Open the "Mirror" application on your INMO Air3 glasses.
 
-② Stay on Interface: Ensure the Mirror app remains open and active on this screen.
+![](public/images/air3/de/casting-mac-1.png)  
 
-![](public/images/air3/casting-mac-1.PNG)  
+### **Teil 2 Bildschirmspiegelung vom Mac starten**  
 
-### **Part 2 Initiate Screen Mirroring from Mac**
-
-① Access Control Center: On your Mac, click the Control Center icon.
+  
+① Kontrollzentrum aufrufen: Klicken Sie auf Ihrem Mac auf das Kontrollzentrum-Symbol.  
 
 ![](public/images/air3/casting-mac-2.jpg)  
 
-② Select Screen Mirroring: Within the Control Center, click on "Screen Mirroring."
-
-③ Choose INMO Air3: From the list of available devices, select "INMO Air3."
+② Bildschirmspiegelung auswählen: Klicken Sie im Kontrollzentrum auf "Bildschirmspiegelung".  
+  
+  
+③ INMO Air3 auswählen: Wählen Sie aus der Liste der verfügbaren Geräte "INMO Air3" aus.  
 
 ![](public/images/air3/casting-mac-3.png)  
 
-④ Choose Display Option (Optional): You may be prompted to choose how you want the screen to be displayed. Select your preferred option.
+④ Anzeigeoption wählen (Optional): Möglicherweise werden Sie aufgefordert, auszuwählen, wie der Bildschirm angezeigt werden soll. Wählen Sie Ihre bevorzugte Option.  
 
-![](public/images/air3/casting-mac-4.PNG)  
+![](public/images/air3/de/casting-mac-4.png)  
 
-⑤ View Mirroring: After your selection, you will see your Mac's screen mirrored on your INMO Air3 glasses.
+⑤ Spiegelung anzeigen: Nach Ihrer Auswahl sehen Sie den Bildschirm Ihres Macs auf Ihrer INMO Air3 Brille gespiegelt.  
 
-### **Part 3 Troubleshooting Connection**
+### **Teil 3 Fehlerbehebung bei der Verbindung**
 
-Notes (If INMO Air3 does not appear or mirroring fails to initiate):
-
-① Check INMO Air3's Mirror App:
-
-\* Verify that the "Mirror" app on your INMO Air3 glasses is still open and active.
-
-② Restart Mac's Screen Mirroring Process:
-
-\* Completely close the Control Center on your Mac.
-
-\* Reopen Control Center and retry selecting "Screen Mirroring."
-
-③ Restart INMO Air3 Glasses:
-
-\* If issues persist, try restarting your INMO Air3 glasses and then repeat "Part 1" and "Part 2."
-
-④ Check Wi-Fi/Bluetooth:
-
-\* Ensure both your Mac and INMO Air3 are connected to the same Wi-Fi network and/或 Bluetooth is enabled on both devices.
-
+Hinweise (Wenn INMO Air3 nicht angezeigt wird oder die Spiegelung nicht startet):  
+  
+  
+① Spiegel-App der INMO Air3 überprüfen:  
+  
+  
+\* Überprüfen Sie, ob die "Spiegel"-App auf Ihrer INMO Air3 Brille noch geöffnet und aktiv ist.  
+  
+  
+② Bildschirmspiegelungsprozess des Macs neu starten:  
+  
+  
+\* Schließen Sie das Kontrollzentrum auf Ihrem Mac vollständig.  
+  
+  
+\* Öffnen Sie das Kontrollzentrum erneut und versuchen Sie, die "Bildschirmspiegelung" erneut auszuwählen.  
+  
+  
+③ INMO Air3 Brille neu starten:  
+  
+  
+\* Wenn die Probleme weiterhin bestehen, versuchen Sie, Ihre INMO Air3 Brille neu zu starten und wiederholen Sie dann "Teil 1" und "Teil 2".  
+  
+  
+④ Wi-Fi/Bluetooth überprüfen:  
+  
+  
+\* Stellen Sie sicher, dass sowohl Ihr Mac als auch die INMO Air3 mit demselben Wi-Fi-Netzwerk verbunden sind und/oder Bluetooth auf beiden Geräten aktiviert ist.
