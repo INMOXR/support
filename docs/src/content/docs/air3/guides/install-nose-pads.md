@@ -34,7 +34,7 @@ These accessories help adjust the height and angle of your glasses for optimal c
 
 1. Gently pull down the rubber nose cushion to expose the tiny screw beneath.
 
-2. Using the small screwdriver, turn the screw counterclockwise to loosen it.
+2. Using a small screwdriver, turn the screw counterclockwise to loosen it.
 
    * *Tip: Be careful—the screw is very small and can be easily dropped.*
 
