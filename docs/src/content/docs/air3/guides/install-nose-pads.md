@@ -50,7 +50,6 @@ These accessories help adjust the height and angle of your glasses for optimal c
 
    * *Do not overtighten—fasten just enough to secure the frame.*
 
-![](public/images/air3/nose-pad.PNG)
 
 3. Press the Air Nose Cushion firmly into place until you hear a soft click, indicating it is fully seated.
 
